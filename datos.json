@@ -1,0 +1,41 @@
+{
+  "fecha_actualizacion": "17/11/2026 15:17",
+  "titular_semana": "Intensificación del conflicto en Ucrania y creciente tensión geopolítica global",
+  "bloques": [
+    {
+      "categoria": "Geopolítica y Diplomacia",
+      "resumen": "El conflicto en Ucrania se ha agravado con ataques ucranianos significativos contra el puente de Crimea y una respuesta rusa en centros de ayuda que ha dejado un saldo elevado de víctimas. Paralelamente, se incrementa la fricción entre bloques, con denuncias de violaciones de espacio aéreo por parte de Rusia y la búsqueda de nuevos modelos de gestión migratoria por parte de la Unión Europea.",
+      "puntos_clave": [
+        "Ataque ucraniano inhabilitó parcialmente el puente de Crimea.",
+        "Masacre en Zaporiyia tras ataque ruso a centro de ayuda humanitaria.",
+        "Japón protesta formalmente por la incursión de aviones rusos en su espacio aéreo.",
+        "Debate internacional sobre propuestas estadounidenses para el futuro de Ucrania y su integración en la OTAN."
+      ]
+    },
+    {
+      "categoria": "Economía y Mercados Globales",
+      "resumen": "La industria tecnológica global enfrenta nuevas presiones por las restricciones estadounidenses a la exportación de semiconductores hacia China, con investigaciones abiertas a socios de Nvidia. A su vez, el sector financiero europeo está bajo escrutinio tras filtraciones que vinculan a entidades bancarias con operaciones de riesgo y oligarcas.",
+      "puntos_clave": [
+        "EE. UU. investiga a la empresa Megaspeed por la venta de chips restringidos a China.",
+        "Filtraciones masivas revelan vínculos de Deutsche Bank con operaciones financieras de Epstein y oligarcas rusos."
+      ]
+    },
+    {
+      "categoria": "Ciencia, Clima y Sociedad",
+      "resumen": "El panorama social continúa marcado por la violencia y el inestable clima político en diversas regiones. La inestabilidad en Oriente Medio, la persecución de periodistas y la crisis de seguridad en América Latina destacan en la agenda, junto a problemas persistentes de derechos humanos y justicia social en Asia.",
+      "puntos_clave": [
+        "Asesinato de una periodista en Costa Rica que investigaba el narcotráfico.",
+        "Situación humanitaria crítica en Gaza tras la llegada de condiciones climáticas adversas.",
+        "Denuncias de abusos de derechos humanos en India y crisis política en Pakistán que afecta a figuras clave como Imran Khan."
+      ]
+    },
+    {
+      "categoria": "Pulso Global en Redes",
+      "resumen": "La conversación digital se centra en las implicaciones estratégicas de la guerra en Ucrania y la preocupación por la seguridad en Europa ante la posible escalada de sabotajes y amenazas híbridas.",
+      "puntos_clave": [
+        "Preocupación por el blindaje fronterizo de Estonia ante la amenaza rusa.",
+        "Debates sobre la disuasión nuclear y la presencia de drones no identificados en bases militares occidentales."
+      ]
+    }
+  ]
+}
