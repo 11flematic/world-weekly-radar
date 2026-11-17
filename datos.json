@@ -1,42 +1,58 @@
 {
-  "fecha_actualizacion": "17/11/2026 15:34",
-  "titular_semana": "Intensificación de hostilidades en Ucrania tras ataques al puente de Crimea y centros de ayuda",
+  "fecha_actualizacion": "17/11/2026 15:54",
+  "titular_semana": "Ucrania intensifica su ofensiva sobre Crimea mientras el sector tecnológico se convulsiona por la salida de Jensen Huang de Nvidia",
   "bloques": [
     {
-      "categoria": "Geopolítica y Diplomacia",
-      "resumen": "El conflicto en Ucrania se ha agudizado con un ataque ucraniano que inhabilitó parcialmente el puente de Crimea, seguido de una respuesta rusa con un bombardeo masivo en Zaporiyia contra un centro de ayuda. Paralelamente, se reportan tensiones internacionales por supuestas violaciones del espacio aéreo ruso en Japón, el despliegue de fronteras fortificadas en Estonia y debates sobre propuestas estadounidenses para ceder territorios a cambio de la entrada de Ucrania en la OTAN. En el ámbito regional, el Reino Unido ha sancionado a entidades vinculadas a asentamientos israelíes en Cisjordania.",
+      "categoria": "Actualidad en España",
+      "resumen": "La agenda política española sigue marcada por la precampaña electoral y el debate sobre el voto útil y la gestión de la 'ley de nietos', que afecta a más de 113.000 nacionalizados. En el ámbito social, la huelga ferroviaria ha generado importantes problemas de movilidad, mientras la llegada de inmigrantes a El Hierro y las críticas de la Junta de Andalucía al SMI evidencian las tensiones internas y sociales del momento.",
       "puntos_clave": [
-        "Ataque ucraniano al puente de Crimea y represalia rusa en Zaporiyia con alta cifra de víctimas",
-        "Japón protesta formalmente por la incursión de aviones rusos en su espacio aéreo",
-        "Sanciones británicas contra empresas que operan en asentamientos de Cisjordania",
-        "Tensiones sobre la posible cesión de Donbás como vía para la adhesión de Ucrania a la OTAN"
+        "113.326 nacionalizados por la 'ley de nietos' afectados por el Supremo",
+        "Impacto social y laboral de la huelga ferroviaria",
+        "Llegada de 246 migrantes a El Hierro"
+      ]
+    },
+    {
+      "categoria": "Inteligencia Artificial",
+      "resumen": "El sector vive una crisis de liderazgo y reputación tras la salida de Jensen Huang de Nvidia, que ha provocado una movilización masiva de figuras como Elon Musk. Paralelamente, OpenAI, Anthropic y Google enfrentan una ofensiva legal sin precedentes por patentes y seguridad, mientras empresas como Isomorphic Labs cierran rondas de financiación récord y surgen nuevas dudas sobre la ética y los límites de la IA en herramientas como Siri.",
+      "puntos_clave": [
+        "Movilización para reinstaurar a Jensen Huang en Nvidia",
+        "Demandas legales contra OpenAI y Anthropic por patentes y seguridad",
+        "Isomorphic Labs recauda 5.000 millones de dólares"
+      ]
+    },
+    {
+      "categoria": "Geopolítica y Diplomacia",
+      "resumen": "La guerra en Ucrania alcanza un nuevo nivel de violencia con el ataque ucraniano al puente de Crimea y la masacre en un centro de ayuda en Zaporiyia. En Oriente Medio, la tensión persiste con acusaciones de Irán sobre ataques a radares estadounidenses y el endurecimiento de la situación en Cisjordania, mientras la UE explora soluciones externas para su crisis migratoria y aumenta el escepticismo ante una posible alineación entre Putin y Trump.",
+      "puntos_clave": [
+        "Ucrania inutiliza parte del puente de Crimea",
+        "Ataque a centro de ayuda en Zaporiyia causa 72 muertos",
+        "Tensiones militares entre Irán y EE. UU. en Baréin"
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La atención económica se centra en la industria tecnológica ante la investigación del Gobierno de EE. UU. a la firma Megaspeed por la supuesta exportación de chips restringidos a China. Asimismo, ha trascendido una filtración masiva que involucra a Deutsche Bank en operaciones financieras con figuras controvertidas y oligarcas rusos. Por otro lado, Canadá explora nuevas alianzas para su sector automotriz en el contexto de sus relaciones comerciales con China.",
+      "resumen": "La economía global registra movimientos contradictorios: la eurozona muestra una resiliencia inesperada frente al conflicto en Oriente Medio, mientras el sector tecnológico está bajo el foco regulador por exportaciones de chips a China. La revelación de la implicación de grandes entidades financieras en tramas oscuras y la presión por la alta demanda energética de los centros de datos marcan la agenda económica.",
       "puntos_clave": [
-        "Investigación estadounidense a la firma tecnológica Megaspeed por violar restricciones de exportación",
-        "Filtración sobre los vínculos financieros de Deutsche Bank con redes vinculadas a Epstein y oligarcas",
-        "Búsqueda de alternativas en la industria automotriz canadiense frente a la competencia china"
+        "Investigación a Megaspeed por exportación de chips a China",
+        "Resiliencia económica de la eurozona",
+        "Filtración vincula a Deutsche Bank con oligarcas y redes ilícitas"
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el ámbito social, persisten preocupaciones por la situación humanitaria en Gaza tras las recientes lluvias. En India, el caso de una mujer víctima de agresión sexual masiva ha reavivado el debate sobre la justicia ante la liberación bajo fianza de los atacantes. En otros temas, se observa el desgaste político del partido gobernante en Sudáfrica y las interrogantes sobre la agenda del gobierno salvadoreño en Haití.",
+      "resumen": "Avances en biotecnología y salud pública destacan esta semana, con una ronda de financiación histórica para la empresa de neurotecnología Science Corporation y el inicio de cribados de cáncer de pulmón en España. A nivel medioambiental, crece la preocupación por el consumo eléctrico masivo de los centros de datos, cuyo impacto supera ya al de algunos países de tamaño medio.",
       "puntos_clave": [
-        "Situación crítica de vulnerabilidad humanitaria en Gaza por condiciones climáticas y bélicas",
-        "Debate social en India por la liberación bajo fianza de agresores en un caso de alto perfil",
-        "Cuestionamientos al desgaste político del Congreso Nacional Africano en Sudáfrica"
+        "Science Corporation alcanza una valoración de 3.500 millones",
+        "Sanidad inicia los pasos para el cribado de cáncer de pulmón",
+        "Impacto energético de los centros de datos"
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las comunidades digitales en Reddit y X mantienen un intenso seguimiento sobre la seguridad en las fronteras europeas, los incidentes con drones cerca de bases militares estadounidenses en el Reino Unido y el impacto de la guerra en la geopolítica de la disuasión nuclear. Se discute también la postura del sector político ante las instituciones internacionales de justicia.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en la inestabilidad de la cúpula de Nvidia y la especulación sobre el futuro de la compañía. El conflicto en Ucrania, las implicaciones nucleares del Reino Unido y el comportamiento de los modelos de lenguaje (como el tono dramático de Gemini) concentran el interés de la comunidad digital.",
       "puntos_clave": [
-        "Debate sobre la respuesta de Estonia y el Báltico ante la amenaza híbrida rusa",
-        "Reportes de drones no identificados sobre bases aéreas estadounidenses en territorio británico",
-        "Advertencias políticas sobre el papel de la Corte Penal Internacional en contextos de conflicto"
+        "Peticiones masivas para devolver el liderazgo de Nvidia a Huang",
+        "Debates sobre el comportamiento y la fiabilidad de las IA generativas"
       ]
     }
   ]
