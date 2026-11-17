@@ -1,58 +1,53 @@
 {
-  "fecha_actualizacion": "17/11/2026 15:54",
-  "titular_semana": "Ucrania intensifica su ofensiva sobre Crimea mientras el sector tecnológico se convulsiona por la salida de Jensen Huang de Nvidia",
+  "fecha_actualizacion": "17/11/2026 16:50",
+  "titular_semana": "Ucrania intensifica su ofensiva sobre el puente de Crimea mientras el sector tecnológico se moviliza por el liderazgo de Nvidia",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La agenda política española sigue marcada por la precampaña electoral y el debate sobre el voto útil y la gestión de la 'ley de nietos', que afecta a más de 113.000 nacionalizados. En el ámbito social, la huelga ferroviaria ha generado importantes problemas de movilidad, mientras la llegada de inmigrantes a El Hierro y las críticas de la Junta de Andalucía al SMI evidencian las tensiones internas y sociales del momento.",
+      "resumen": "La agenda nacional está marcada por el descontento social, el impacto de las políticas migratorias y las tensiones en la campaña electoral. La parálisis del servicio ferroviario y las críticas a la gestión de las ayudas de la 'ley de nietos' han generado un intenso debate político, mientras se cuestiona el impacto de la gestión del SMI y la polarización dentro del bloque de izquierdas.",
       "puntos_clave": [
-        "113.326 nacionalizados por la 'ley de nietos' afectados por el Supremo",
-        "Impacto social y laboral de la huelga ferroviaria",
-        "Llegada de 246 migrantes a El Hierro"
+        "Huelga ferroviaria paraliza Cercanías en Madrid y afecta gravemente a Rodalies.",
+        "Más de 113.000 nacionalizados por la 'ley de nietos' afectados por la suspensión del voto."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive una crisis de liderazgo y reputación tras la salida de Jensen Huang de Nvidia, que ha provocado una movilización masiva de figuras como Elon Musk. Paralelamente, OpenAI, Anthropic y Google enfrentan una ofensiva legal sin precedentes por patentes y seguridad, mientras empresas como Isomorphic Labs cierran rondas de financiación récord y surgen nuevas dudas sobre la ética y los límites de la IA en herramientas como Siri.",
+      "resumen": "La semana ha estado dominada por la crisis de liderazgo en Nvidia tras la salida de Jensen Huang, quien ha recibido un apoyo masivo del sector para ser restituido. Paralelamente, la industria enfrenta una creciente presión regulatoria con demandas colectivas contra OpenAI y Anthropic por la gestión de modelos y patentes, mientras continúan los avances en asistentes especializados y computación cuántica.",
       "puntos_clave": [
-        "Movilización para reinstaurar a Jensen Huang en Nvidia",
-        "Demandas legales contra OpenAI y Anthropic por patentes y seguridad",
-        "Isomorphic Labs recauda 5.000 millones de dólares"
+        "Campaña viral y apoyo de figuras como Elon Musk para la reincorporación de Jensen Huang como CEO de Nvidia.",
+        "Investigaciones y demandas crecientes de la FTC y el estado de California hacia desarrolladores de IA por seguridad y patentes."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La guerra en Ucrania alcanza un nuevo nivel de violencia con el ataque ucraniano al puente de Crimea y la masacre en un centro de ayuda en Zaporiyia. En Oriente Medio, la tensión persiste con acusaciones de Irán sobre ataques a radares estadounidenses y el endurecimiento de la situación en Cisjordania, mientras la UE explora soluciones externas para su crisis migratoria y aumenta el escepticismo ante una posible alineación entre Putin y Trump.",
+      "resumen": "El conflicto en Ucrania ha escalado con nuevos ataques ucranianos contra el puente de Crimea, mientras Rusia ha perpetrado una de las masacres más graves en Zaporiyia. En Europa, persiste la preocupación por el auge de políticas populistas y la gestión de la crisis migratoria, con la UE explorando planes externos como centros de deportación en Ruanda.",
       "puntos_clave": [
-        "Ucrania inutiliza parte del puente de Crimea",
-        "Ataque a centro de ayuda en Zaporiyia causa 72 muertos",
-        "Tensiones militares entre Irán y EE. UU. en Baréin"
+        "Ataque ucraniano inmoviliza parcialmente el estratégico puente de Crimea.",
+        "Cinco países europeos impulsan el plan de centros de deportación de migrantes en Ruanda."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global registra movimientos contradictorios: la eurozona muestra una resiliencia inesperada frente al conflicto en Oriente Medio, mientras el sector tecnológico está bajo el foco regulador por exportaciones de chips a China. La revelación de la implicación de grandes entidades financieras en tramas oscuras y la presión por la alta demanda energética de los centros de datos marcan la agenda económica.",
+      "resumen": "A pesar de la inestabilidad en Oriente Medio, la economía de la eurozona muestra resiliencia. En el ámbito corporativo y comercial, destaca la investigación de EE. UU. a la firma Megaspeed por la supuesta venta irregular de chips a China y la exposición de entidades bancarias como Deutsche Bank ante escándalos de blanqueo y relaciones con oligarcas.",
       "puntos_clave": [
-        "Investigación a Megaspeed por exportación de chips a China",
-        "Resiliencia económica de la eurozona",
-        "Filtración vincula a Deutsche Bank con oligarcas y redes ilícitas"
+        "EE. UU. investiga a la firma Megaspeed por exportación prohibida de semiconductores a China.",
+        "Filtraciones vinculan a Deutsche Bank con redes financieras de Epstein y oligarcas rusos."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Avances en biotecnología y salud pública destacan esta semana, con una ronda de financiación histórica para la empresa de neurotecnología Science Corporation y el inicio de cribados de cáncer de pulmón en España. A nivel medioambiental, crece la preocupación por el consumo eléctrico masivo de los centros de datos, cuyo impacto supera ya al de algunos países de tamaño medio.",
+      "resumen": "La salud pública mundial atraviesa un momento crítico tras la pérdida del estatus de eliminación del sarampión en EE. UU. por primera vez en 26 años. En el ámbito tecnológico-científico, destaca la valoración millonaria de empresas de biotecnología y neurotecnología que aceleran los ensayos clínicos mediante IA.",
       "puntos_clave": [
-        "Science Corporation alcanza una valoración de 3.500 millones",
-        "Sanidad inicia los pasos para el cribado de cáncer de pulmón",
-        "Impacto energético de los centros de datos"
+        "EE. UU. pierde la certificación de país libre de sarampión tras un repunte histórico de casos.",
+        "Isomorphic Labs recauda 5.000 millones de dólares para acelerar el desarrollo de fármacos mediante IA."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en la inestabilidad de la cúpula de Nvidia y la especulación sobre el futuro de la compañía. El conflicto en Ucrania, las implicaciones nucleares del Reino Unido y el comportamiento de los modelos de lenguaje (como el tono dramático de Gemini) concentran el interés de la comunidad digital.",
+      "resumen": "Las redes sociales han funcionado como caja de resonancia para las peticiones de reinstauración de ejecutivos tecnológicos y las teorías conspirativas en torno a los movimientos en Silicon Valley. Asimismo, el debate sobre los límites de la IA, la ética en el desarrollo de modelos y las tensiones territoriales en el Báltico dominan la conversación en plataformas como X y Reddit.",
       "puntos_clave": [
-        "Peticiones masivas para devolver el liderazgo de Nvidia a Huang",
-        "Debates sobre el comportamiento y la fiabilidad de las IA generativas"
+        "Debate viral en X sobre la posible destitución forzada de Jensen Huang en Nvidia.",
+        "Preocupación en Reddit por el cierre de fronteras en Estonia y la seguridad ante posibles sabotajes rusos."
       ]
     }
   ]
