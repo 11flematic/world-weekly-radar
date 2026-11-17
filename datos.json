@@ -1,40 +1,42 @@
 {
-  "fecha_actualizacion": "17/11/2026 15:17",
-  "titular_semana": "Intensificación del conflicto en Ucrania y creciente tensión geopolítica global",
+  "fecha_actualizacion": "17/11/2026 15:34",
+  "titular_semana": "Intensificación de hostilidades en Ucrania tras ataques al puente de Crimea y centros de ayuda",
   "bloques": [
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "El conflicto en Ucrania se ha agravado con ataques ucranianos significativos contra el puente de Crimea y una respuesta rusa en centros de ayuda que ha dejado un saldo elevado de víctimas. Paralelamente, se incrementa la fricción entre bloques, con denuncias de violaciones de espacio aéreo por parte de Rusia y la búsqueda de nuevos modelos de gestión migratoria por parte de la Unión Europea.",
+      "resumen": "El conflicto en Ucrania se ha agudizado con un ataque ucraniano que inhabilitó parcialmente el puente de Crimea, seguido de una respuesta rusa con un bombardeo masivo en Zaporiyia contra un centro de ayuda. Paralelamente, se reportan tensiones internacionales por supuestas violaciones del espacio aéreo ruso en Japón, el despliegue de fronteras fortificadas en Estonia y debates sobre propuestas estadounidenses para ceder territorios a cambio de la entrada de Ucrania en la OTAN. En el ámbito regional, el Reino Unido ha sancionado a entidades vinculadas a asentamientos israelíes en Cisjordania.",
       "puntos_clave": [
-        "Ataque ucraniano inhabilitó parcialmente el puente de Crimea.",
-        "Masacre en Zaporiyia tras ataque ruso a centro de ayuda humanitaria.",
-        "Japón protesta formalmente por la incursión de aviones rusos en su espacio aéreo.",
-        "Debate internacional sobre propuestas estadounidenses para el futuro de Ucrania y su integración en la OTAN."
+        "Ataque ucraniano al puente de Crimea y represalia rusa en Zaporiyia con alta cifra de víctimas",
+        "Japón protesta formalmente por la incursión de aviones rusos en su espacio aéreo",
+        "Sanciones británicas contra empresas que operan en asentamientos de Cisjordania",
+        "Tensiones sobre la posible cesión de Donbás como vía para la adhesión de Ucrania a la OTAN"
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La industria tecnológica global enfrenta nuevas presiones por las restricciones estadounidenses a la exportación de semiconductores hacia China, con investigaciones abiertas a socios de Nvidia. A su vez, el sector financiero europeo está bajo escrutinio tras filtraciones que vinculan a entidades bancarias con operaciones de riesgo y oligarcas.",
+      "resumen": "La atención económica se centra en la industria tecnológica ante la investigación del Gobierno de EE. UU. a la firma Megaspeed por la supuesta exportación de chips restringidos a China. Asimismo, ha trascendido una filtración masiva que involucra a Deutsche Bank en operaciones financieras con figuras controvertidas y oligarcas rusos. Por otro lado, Canadá explora nuevas alianzas para su sector automotriz en el contexto de sus relaciones comerciales con China.",
       "puntos_clave": [
-        "EE. UU. investiga a la empresa Megaspeed por la venta de chips restringidos a China.",
-        "Filtraciones masivas revelan vínculos de Deutsche Bank con operaciones financieras de Epstein y oligarcas rusos."
+        "Investigación estadounidense a la firma tecnológica Megaspeed por violar restricciones de exportación",
+        "Filtración sobre los vínculos financieros de Deutsche Bank con redes vinculadas a Epstein y oligarcas",
+        "Búsqueda de alternativas en la industria automotriz canadiense frente a la competencia china"
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "El panorama social continúa marcado por la violencia y el inestable clima político en diversas regiones. La inestabilidad en Oriente Medio, la persecución de periodistas y la crisis de seguridad en América Latina destacan en la agenda, junto a problemas persistentes de derechos humanos y justicia social en Asia.",
+      "resumen": "En el ámbito social, persisten preocupaciones por la situación humanitaria en Gaza tras las recientes lluvias. En India, el caso de una mujer víctima de agresión sexual masiva ha reavivado el debate sobre la justicia ante la liberación bajo fianza de los atacantes. En otros temas, se observa el desgaste político del partido gobernante en Sudáfrica y las interrogantes sobre la agenda del gobierno salvadoreño en Haití.",
       "puntos_clave": [
-        "Asesinato de una periodista en Costa Rica que investigaba el narcotráfico.",
-        "Situación humanitaria crítica en Gaza tras la llegada de condiciones climáticas adversas.",
-        "Denuncias de abusos de derechos humanos en India y crisis política en Pakistán que afecta a figuras clave como Imran Khan."
+        "Situación crítica de vulnerabilidad humanitaria en Gaza por condiciones climáticas y bélicas",
+        "Debate social en India por la liberación bajo fianza de agresores en un caso de alto perfil",
+        "Cuestionamientos al desgaste político del Congreso Nacional Africano en Sudáfrica"
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "La conversación digital se centra en las implicaciones estratégicas de la guerra en Ucrania y la preocupación por la seguridad en Europa ante la posible escalada de sabotajes y amenazas híbridas.",
+      "resumen": "Las comunidades digitales en Reddit y X mantienen un intenso seguimiento sobre la seguridad en las fronteras europeas, los incidentes con drones cerca de bases militares estadounidenses en el Reino Unido y el impacto de la guerra en la geopolítica de la disuasión nuclear. Se discute también la postura del sector político ante las instituciones internacionales de justicia.",
       "puntos_clave": [
-        "Preocupación por el blindaje fronterizo de Estonia ante la amenaza rusa.",
-        "Debates sobre la disuasión nuclear y la presencia de drones no identificados en bases militares occidentales."
+        "Debate sobre la respuesta de Estonia y el Báltico ante la amenaza híbrida rusa",
+        "Reportes de drones no identificados sobre bases aéreas estadounidenses en territorio británico",
+        "Advertencias políticas sobre el papel de la Corte Penal Internacional en contextos de conflicto"
       ]
     }
   ]
