@@ -1,0 +1,35 @@
+name: Actualizar Noticias Mundiales
+
+on:
+  push:
+    paths:
+      - '.github/workflows/**'
+      - 'actualizar.py'
+  schedule:
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Instalar SDK de Gemini
+        run: pip install google-genai
+      - name: Ejecutar script recolector
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python actualizar.py
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config --global user.name "WorldNewsBot"
+          git config --global user.email "bot@noreply.github.com"
+          git add datos.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización mundial automática" && git push)
