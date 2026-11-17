@@ -5,14 +5,23 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 from google import genai
 
-# Fuentes internacionales: agencias/medios globales, Reddit worldnews y última hora en X
+# Fuentes: Internacional, España, Inteligencia Artificial y Redes (Reddit/X)
 FUENTES = [
+    # Internacional
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
     "https://rss.dw.com/xml/rss-sp-all",
     "https://www.france24.com/es/rss",
-    "https://news.google.com/rss/search?q=site:reddit.com/r/worldnews&hl=en-US&gl=US&ceid=US:en",
-    "https://news.google.com/rss/search?q=site:x.com+breaking+world+news+OR+geopolitics&hl=en-US&gl=US&ceid=US:en"
+    # España
+    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+    "https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es",
+    # Inteligencia Artificial a nivel mundial
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://news.google.com/rss/search?q=artificial+intelligence+OR+OpenAI+OR+Google+Gemini+OR+Anthropic+when:7d&hl=en-US&gl=US&ceid=US:en",
+    # Comunidad global en Reddit y X
+    "https://news.google.com/rss/search?q=site:reddit.com/r/worldnews+OR+site:reddit.com/r/singularity&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:x.com+breaking+world+news+OR+AI+breakthrough&hl=en-US&gl=US&ceid=US:en"
 ]
 
 def obtener_titulares():
@@ -27,7 +36,7 @@ def obtener_titulares():
             with urllib.request.urlopen(req, timeout=12) as resp:
                 xml_data = resp.read()
                 root = ET.fromstring(xml_data)
-                items = root.findall('.//item')[:7] or root.findall('.//{http://www.w3.org/2005/Atom}entry')[:7]
+                items = root.findall('.//item')[:6] or root.findall('.//{http://www.w3.org/2005/Atom}entry')[:6]
                 for item in items:
                     titulo = item.findtext('title') or item.findtext('{http://www.w3.org/2005/Atom}title')
                     link = item.findtext('link')
@@ -72,15 +81,25 @@ def generar_resumen(texto_bruto):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     
     prompt = f"""
-    Eres un editor jefe de actualidad internacional. Analiza estos titulares, reportes y debates de esta semana y redacta un resumen ejecutivo en español neutro, objetivo, directo y sin sensacionalismo.
+    Eres un editor jefe de actualidad internacional, española y tecnológica. Analiza estos titulares, reportes y debates de esta semana y redacta un resumen ejecutivo en español de España, objetivo, directo y sin sensacionalismo.
     
     Reglas:
-    - Agrupa noticias repetidas sobre el mismo suceso y prioriza los hechos de mayor impacto mundial.
+    - Agrupa noticias repetidas sobre el mismo suceso y prioriza los hechos de mayor impacto.
     - Devuelve ÚNICAMENTE un objeto JSON válido con esta estructura exacta (sin bloques markdown ```json):
     {{
       "fecha_actualizacion": "{datetime.now().strftime('%d/%m/%Y %H:%M')}",
-      "titular_semana": "Frase breve y directa con el acontecimiento global más relevante de la semana",
+      "titular_semana": "Frase breve y directa con el acontecimiento más relevante de la semana",
       "bloques": [
+        {{
+          "categoria": "Actualidad en España",
+          "resumen": "Párrafo claro con las noticias políticas, económicas y sociales más importantes de España esta semana.",
+          "puntos_clave": ["Hecho 1", "Hecho 2"]
+        }},
+        {{
+          "categoria": "Inteligencia Artificial",
+          "resumen": "Resumen de los principales lanzamientos, nuevos modelos, avances y regulación de la IA a nivel mundial.",
+          "puntos_clave": ["Hecho 1", "Hecho 2"]
+        }},
         {{
           "categoria": "Geopolítica y Diplomacia",
           "resumen": "Párrafo claro con los principales movimientos políticos, conflictos y acuerdos internacionales.",
@@ -88,7 +107,7 @@ def generar_resumen(texto_bruto):
         }},
         {{
           "categoria": "Economía y Mercados Globales",
-          "resumen": "Resumen de decisiones económicas, comercio, energía o tecnología con impacto global.",
+          "resumen": "Resumen de decisiones económicas, comercio, energía o mercados con impacto global.",
           "puntos_clave": ["Hecho 1", "Hecho 2"]
         }},
         {{
@@ -98,7 +117,7 @@ def generar_resumen(texto_bruto):
         }},
         {{
           "categoria": "Pulso Global en Redes",
-          "resumen": "Temas internacionales que más debate están generando en Reddit y X.",
+          "resumen": "Temas internacionales y tecnológicos que más debate están generando en Reddit y X.",
           "puntos_clave": ["Tema 1", "Tema 2"]
         }}
       ]
@@ -130,4 +149,4 @@ if __name__ == "__main__":
         resultado = generar_resumen(noticias)
         with open("datos.json", "w", encoding="utf-8") as f:
             json.dump(resultado, f, ensure_ascii=False, indent=2)
-        print("Resumen mundial generado con éxito.")
+        print("Resumen mundial, español y de IA generado con éxito.")
