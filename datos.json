@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "18/11/2026 00:43",
-  "titular_semana": "Ucrania ataca el puente de Crimea y la inestabilidad corporativa sacude a Nvidia",
+  "fecha_actualizacion": "18/11/2026 08:50",
+  "titular_semana": "Inestabilidad tecnológica, escalada geopolítica y procesos electorales clave marcan la agenda global",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La agenda nacional está marcada por la conflictividad laboral en el transporte, la polémica política sobre el voto exterior y el debate económico por el incremento del salario mínimo.",
+      "resumen": "La actividad política se centra en la recta final hacia las elecciones generales, con el PP consolidando su posición en las encuestas frente a Vox, mientras la izquierda soberanista muestra signos de crecimiento frente al retroceso de formaciones como el PNV y Junts. En materia económica y social, el Gobierno ha incrementado el Salario Mínimo Interprofesional hasta los 1.286 euros, coincidiendo con la gestión de nuevos flujos migratorios en El Hierro y procesos de recuperación de patrimonio cultural.",
       "puntos_clave": [
-        "El Gobierno eleva el Salario Mínimo Interprofesional a 1.286 euros mensuales.",
-        "La huelga ferroviaria reduce al 40% el servicio de Cercanías y Rodalies, sumada a denuncias sobre materiales defectuosos en infraestructuras ferroviarias."
+        "Incremento del SMI a 1.286 euros mensuales",
+        "Tendencias electorales: ascenso del PP y volatilidad en formaciones soberanistas ante el 29-N"
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive una semana de alta tensión corporativa y regulatoria, centrada en la crisis de liderazgo en Nvidia y la creciente presión legal sobre las grandes empresas de IA.",
+      "resumen": "El sector vive una semana de intensa agitación tras la salida de Jensen Huang de Nvidia, lo que ha generado incertidumbre sobre sus estrategias futuras y sus operaciones en China. Paralelamente, el ámbito regulatorio se endurece con nuevas investigaciones de la FTC y demandas colectivas contra gigantes como Anthropic y OpenAI por presunta vulneración de patentes y falta de control sobre sus modelos.",
       "puntos_clave": [
-        "Nvidia reporta resultados financieros sólidos mientras enfrenta una crisis de gobernanza tras la salida de Jensen Huang y una investigación de la SEC.",
-        "Anthropic prepara su salida a bolsa bajo escrutinio de la FTC y demandas judiciales por supuesta infracción de patentes de redes neuronales."
+        "Incertidumbre en Nvidia tras la salida de Jensen Huang",
+        "Investigaciones de la FTC sobre seguridad y demandas por derechos de autor contra desarrolladores de IA"
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La guerra en Ucrania se intensifica con un ataque estratégico al puente de Crimea, mientras Oriente Próximo experimenta un incremento de la tensión militar en el estrecho de Ormuz.",
+      "resumen": "La cumbre de la APEC en China se celebra bajo una fuerte tensión internacional, con Xi Jinping defendiendo la estabilidad frente al proteccionismo y evidenciando su alianza con Rusia. Mientras tanto, el conflicto en Ucrania se intensifica tras ataques en el puente de Crimea y denuncias de sabotajes rusos contra la industria armamentística europea, sumado a un nuevo episodio de violencia en Oriente Próximo con ataques estadounidenses en Irán.",
       "puntos_clave": [
-        "Ucrania logra inutilizar parte del puente de Crimea, mientras Rusia perpetra un ataque masivo en Zaporiyia.",
-        "Aviones de EE. UU. bombardean una base de misiles iraní en Qeshm, aumentando el riesgo de conflicto abierto en la región."
+        "Cumbre APEC: tensión entre las potencias y consolidación del eje China-Rusia",
+        "Escalada de sabotajes y ataques directos en los frentes de Ucrania y Oriente Próximo"
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La diplomacia económica se centra en la cumbre de la APEC, donde el papel de China y el equilibrio geopolítico de México y EE. UU. definen las nuevas alianzas comerciales.",
+      "resumen": "La economía global se prepara para el impacto de las nuevas políticas estadounidenses, destacando el anuncio de una inversión masiva de 50.100 millones de dólares para infraestructuras aéreas. La atención también se dirige hacia la salida a bolsa de Anthropic, que refuerza la influencia de Amazon y Google en el sector, y el escrutinio sobre las finanzas de entidades como el Deutsche Bank.",
       "puntos_clave": [
-        "La cumbre de la APEC destaca el creciente peso de China como socio estratégico frente a las políticas de Estados Unidos.",
-        "La Unión Europea explora vías externas para gestionar la crisis migratoria ante la ineficacia de los mecanismos de deportación vigentes."
+        "Plan de renovación de infraestructuras en EE. UU. por 50.100 millones de dólares",
+        "Configuración del mercado de IA tras la próxima salida a bolsa de Anthropic"
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Destacan avances en computación cuántica por parte de Nvidia y una oleada global de ciberataques que compromete la seguridad de infraestructuras críticas e instituciones.",
+      "resumen": "En el ámbito social y climático, destaca el alta médica del líder indígena brasileño Raoni Metuktire y la reciente decisión de un bloque de países europeos de establecer un centro de deportación en Ruanda. Asimismo, el debate sobre el derecho internacional se ha reavivado ante las dificultades probatorias en los procesos por genocidio y la trágica situación humanitaria en Gaza.",
       "puntos_clave": [
-        "Nvidia anuncia un avance en computación cuántica que reduce tareas complejas de semanas a minutos.",
-        "Los Servicios Secretos de EE. UU. sufren una brecha en su red de comunicación interna, sumándose a una ola global de ataques informáticos."
+        "Creación de centros de deportación en Ruanda por parte de un bloque de la UE",
+        "Dificultades legales para la tipificación de crímenes de lesa humanidad"
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "El debate digital se divide entre el respaldo público a los líderes empresariales y la fascinación cultural por el lanzamiento de nuevos productos tecnológicos de masas.",
+      "resumen": "La conversación en redes sociales está dominada por el escepticismo ante los nuevos modelos de lenguaje (con críticas al rendimiento de Qwen4) y la fascinación por los avances en computación cuántica de Nvidia. Asimismo, el debate sobre la seguridad de las infraestructuras digitales sigue activo tras la reciente ola de fallos tecnológicos en EE. UU.",
       "puntos_clave": [
-        "Campaña viral en X con más de 80.000 firmas pidiendo la restitución de Jensen Huang como CEO de Nvidia.",
-        "Alta expectación y debate cultural en redes sobre el impacto de 'GTA VI' más allá del ámbito del entretenimiento."
+        "Debate sobre el rendimiento de modelos IA y comparativas de benchmarks",
+        "Interés por la resiliencia de la infraestructura digital ante fallos técnicos masivos"
       ]
     }
   ]
