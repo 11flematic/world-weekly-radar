@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "17/11/2026 16:50",
-  "titular_semana": "Ucrania intensifica su ofensiva sobre el puente de Crimea mientras el sector tecnológico se moviliza por el liderazgo de Nvidia",
+  "fecha_actualizacion": "18/11/2026 00:43",
+  "titular_semana": "Ucrania ataca el puente de Crimea y la inestabilidad corporativa sacude a Nvidia",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La agenda nacional está marcada por el descontento social, el impacto de las políticas migratorias y las tensiones en la campaña electoral. La parálisis del servicio ferroviario y las críticas a la gestión de las ayudas de la 'ley de nietos' han generado un intenso debate político, mientras se cuestiona el impacto de la gestión del SMI y la polarización dentro del bloque de izquierdas.",
+      "resumen": "La agenda nacional está marcada por la conflictividad laboral en el transporte, la polémica política sobre el voto exterior y el debate económico por el incremento del salario mínimo.",
       "puntos_clave": [
-        "Huelga ferroviaria paraliza Cercanías en Madrid y afecta gravemente a Rodalies.",
-        "Más de 113.000 nacionalizados por la 'ley de nietos' afectados por la suspensión del voto."
+        "El Gobierno eleva el Salario Mínimo Interprofesional a 1.286 euros mensuales.",
+        "La huelga ferroviaria reduce al 40% el servicio de Cercanías y Rodalies, sumada a denuncias sobre materiales defectuosos en infraestructuras ferroviarias."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La semana ha estado dominada por la crisis de liderazgo en Nvidia tras la salida de Jensen Huang, quien ha recibido un apoyo masivo del sector para ser restituido. Paralelamente, la industria enfrenta una creciente presión regulatoria con demandas colectivas contra OpenAI y Anthropic por la gestión de modelos y patentes, mientras continúan los avances en asistentes especializados y computación cuántica.",
+      "resumen": "El sector vive una semana de alta tensión corporativa y regulatoria, centrada en la crisis de liderazgo en Nvidia y la creciente presión legal sobre las grandes empresas de IA.",
       "puntos_clave": [
-        "Campaña viral y apoyo de figuras como Elon Musk para la reincorporación de Jensen Huang como CEO de Nvidia.",
-        "Investigaciones y demandas crecientes de la FTC y el estado de California hacia desarrolladores de IA por seguridad y patentes."
+        "Nvidia reporta resultados financieros sólidos mientras enfrenta una crisis de gobernanza tras la salida de Jensen Huang y una investigación de la SEC.",
+        "Anthropic prepara su salida a bolsa bajo escrutinio de la FTC y demandas judiciales por supuesta infracción de patentes de redes neuronales."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "El conflicto en Ucrania ha escalado con nuevos ataques ucranianos contra el puente de Crimea, mientras Rusia ha perpetrado una de las masacres más graves en Zaporiyia. En Europa, persiste la preocupación por el auge de políticas populistas y la gestión de la crisis migratoria, con la UE explorando planes externos como centros de deportación en Ruanda.",
+      "resumen": "La guerra en Ucrania se intensifica con un ataque estratégico al puente de Crimea, mientras Oriente Próximo experimenta un incremento de la tensión militar en el estrecho de Ormuz.",
       "puntos_clave": [
-        "Ataque ucraniano inmoviliza parcialmente el estratégico puente de Crimea.",
-        "Cinco países europeos impulsan el plan de centros de deportación de migrantes en Ruanda."
+        "Ucrania logra inutilizar parte del puente de Crimea, mientras Rusia perpetra un ataque masivo en Zaporiyia.",
+        "Aviones de EE. UU. bombardean una base de misiles iraní en Qeshm, aumentando el riesgo de conflicto abierto en la región."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "A pesar de la inestabilidad en Oriente Medio, la economía de la eurozona muestra resiliencia. En el ámbito corporativo y comercial, destaca la investigación de EE. UU. a la firma Megaspeed por la supuesta venta irregular de chips a China y la exposición de entidades bancarias como Deutsche Bank ante escándalos de blanqueo y relaciones con oligarcas.",
+      "resumen": "La diplomacia económica se centra en la cumbre de la APEC, donde el papel de China y el equilibrio geopolítico de México y EE. UU. definen las nuevas alianzas comerciales.",
       "puntos_clave": [
-        "EE. UU. investiga a la firma Megaspeed por exportación prohibida de semiconductores a China.",
-        "Filtraciones vinculan a Deutsche Bank con redes financieras de Epstein y oligarcas rusos."
+        "La cumbre de la APEC destaca el creciente peso de China como socio estratégico frente a las políticas de Estados Unidos.",
+        "La Unión Europea explora vías externas para gestionar la crisis migratoria ante la ineficacia de los mecanismos de deportación vigentes."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La salud pública mundial atraviesa un momento crítico tras la pérdida del estatus de eliminación del sarampión en EE. UU. por primera vez en 26 años. En el ámbito tecnológico-científico, destaca la valoración millonaria de empresas de biotecnología y neurotecnología que aceleran los ensayos clínicos mediante IA.",
+      "resumen": "Destacan avances en computación cuántica por parte de Nvidia y una oleada global de ciberataques que compromete la seguridad de infraestructuras críticas e instituciones.",
       "puntos_clave": [
-        "EE. UU. pierde la certificación de país libre de sarampión tras un repunte histórico de casos.",
-        "Isomorphic Labs recauda 5.000 millones de dólares para acelerar el desarrollo de fármacos mediante IA."
+        "Nvidia anuncia un avance en computación cuántica que reduce tareas complejas de semanas a minutos.",
+        "Los Servicios Secretos de EE. UU. sufren una brecha en su red de comunicación interna, sumándose a una ola global de ataques informáticos."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las redes sociales han funcionado como caja de resonancia para las peticiones de reinstauración de ejecutivos tecnológicos y las teorías conspirativas en torno a los movimientos en Silicon Valley. Asimismo, el debate sobre los límites de la IA, la ética en el desarrollo de modelos y las tensiones territoriales en el Báltico dominan la conversación en plataformas como X y Reddit.",
+      "resumen": "El debate digital se divide entre el respaldo público a los líderes empresariales y la fascinación cultural por el lanzamiento de nuevos productos tecnológicos de masas.",
       "puntos_clave": [
-        "Debate viral en X sobre la posible destitución forzada de Jensen Huang en Nvidia.",
-        "Preocupación en Reddit por el cierre de fronteras en Estonia y la seguridad ante posibles sabotajes rusos."
+        "Campaña viral en X con más de 80.000 firmas pidiendo la restitución de Jensen Huang como CEO de Nvidia.",
+        "Alta expectación y debate cultural en redes sobre el impacto de 'GTA VI' más allá del ámbito del entretenimiento."
       ]
     }
   ]
