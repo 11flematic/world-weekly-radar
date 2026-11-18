@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "18/11/2026 08:50",
-  "titular_semana": "Inestabilidad tecnológica, escalada geopolítica y procesos electorales clave marcan la agenda global",
+  "fecha_actualizacion": "18/11/2026 16:51",
+  "titular_semana": "Cumbre trilateral inédita entre Trump, Xi y Putin marca un giro en la geopolítica global",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La actividad política se centra en la recta final hacia las elecciones generales, con el PP consolidando su posición en las encuestas frente a Vox, mientras la izquierda soberanista muestra signos de crecimiento frente al retroceso de formaciones como el PNV y Junts. En materia económica y social, el Gobierno ha incrementado el Salario Mínimo Interprofesional hasta los 1.286 euros, coincidiendo con la gestión de nuevos flujos migratorios en El Hierro y procesos de recuperación de patrimonio cultural.",
+      "resumen": "La actividad política se centra en la recta final hacia las elecciones del 29 de noviembre, donde las encuestas reflejan un escenario de voto táctico determinante para el reparto de escaños. El Partido Popular consolida su ventaja sobre Vox, mientras que en el sector soberanista se observa una tendencia al alza frente al retroceso de otras formaciones como el PNV, Junts y el Frente Amplio.",
       "puntos_clave": [
-        "Incremento del SMI a 1.286 euros mensuales",
-        "Tendencias electorales: ascenso del PP y volatilidad en formaciones soberanistas ante el 29-N"
+        "Consolidación electoral del PP frente a Vox ante el 29-N",
+        "Análisis del impacto del voto táctico en las circunscripciones clave"
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive una semana de intensa agitación tras la salida de Jensen Huang de Nvidia, lo que ha generado incertidumbre sobre sus estrategias futuras y sus operaciones en China. Paralelamente, el ámbito regulatorio se endurece con nuevas investigaciones de la FTC y demandas colectivas contra gigantes como Anthropic y OpenAI por presunta vulneración de patentes y falta de control sobre sus modelos.",
+      "resumen": "El sector vive una oleada de litigios y escrutinio regulatorio, con OpenAI y Anthropic enfrentando demandas por presunta infracción de patentes de redes neuronales y una investigación abierta por la FTC sobre la seguridad de sus modelos. Tecnológicamente, la carrera continúa con el lanzamiento de nuevos modelos como Gemini 4 Hydrogen y GPT-6.2 Astra, mientras se cuestiona la transparencia en las inversiones de Nvidia en startups.",
       "puntos_clave": [
-        "Incertidumbre en Nvidia tras la salida de Jensen Huang",
-        "Investigaciones de la FTC sobre seguridad y demandas por derechos de autor contra desarrolladores de IA"
+        "Investigaciones de la FTC sobre seguridad en modelos de lenguaje",
+        "Oleada de demandas judiciales por derechos de propiedad intelectual y frenado de carrera armamentística"
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La cumbre de la APEC en China se celebra bajo una fuerte tensión internacional, con Xi Jinping defendiendo la estabilidad frente al proteccionismo y evidenciando su alianza con Rusia. Mientras tanto, el conflicto en Ucrania se intensifica tras ataques en el puente de Crimea y denuncias de sabotajes rusos contra la industria armamentística europea, sumado a un nuevo episodio de violencia en Oriente Próximo con ataques estadounidenses en Irán.",
+      "resumen": "La cumbre de la APEC en China acapara la atención mundial con el encuentro trilateral entre Donald Trump, Xi Jinping y Vladimir Putin, destinado a abordar las crisis en Ucrania e Irán. Paralelamente, se ha intensificado la tensión en Oriente Próximo, con ataques iraníes sobre Kuwait y Baréin, mientras Rusia diversifica sus tácticas de presión sobre Europa mediante sabotajes a la industria de defensa.",
       "puntos_clave": [
-        "Cumbre APEC: tensión entre las potencias y consolidación del eje China-Rusia",
-        "Escalada de sabotajes y ataques directos en los frentes de Ucrania y Oriente Próximo"
+        "Encuentro trilateral Trump-Xi-Putin en la cumbre de la APEC",
+        "Aumento de la tensión militar en el Golfo y sabotajes rusos a la industria armamentística europea"
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global se prepara para el impacto de las nuevas políticas estadounidenses, destacando el anuncio de una inversión masiva de 50.100 millones de dólares para infraestructuras aéreas. La atención también se dirige hacia la salida a bolsa de Anthropic, que refuerza la influencia de Amazon y Google en el sector, y el escrutinio sobre las finanzas de entidades como el Deutsche Bank.",
+      "resumen": "La Unión Europea ha propuesto un nuevo paquete de ayuda financiera de 45.000 millones de euros para Ucrania de cara a 2027, en un contexto de tensiones comerciales transatlánticas provocadas por un crédito récord a Airbus. Mientras tanto, Nvidia sigue bajo el foco de los mercados, manteniendo un crecimiento robusto pero afrontando incertidumbre tras la salida de Jensen Huang y el bloqueo de exportación de chips avanzados a China.",
       "puntos_clave": [
-        "Plan de renovación de infraestructuras en EE. UU. por 50.100 millones de dólares",
-        "Configuración del mercado de IA tras la próxima salida a bolsa de Anthropic"
+        "Nuevo préstamo de 45.000 millones de la UE para Ucrania",
+        "Tensiones comerciales UE-EE.UU. por la financiación a Airbus"
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el ámbito social y climático, destaca el alta médica del líder indígena brasileño Raoni Metuktire y la reciente decisión de un bloque de países europeos de establecer un centro de deportación en Ruanda. Asimismo, el debate sobre el derecho internacional se ha reavivado ante las dificultades probatorias en los procesos por genocidio y la trágica situación humanitaria en Gaza.",
+      "resumen": "La COP31 entra en su fase decisiva con profundas discrepancias en las negociaciones climáticas. En el ámbito social, destaca la reciente resolución judicial en Francia sobre un caso de maltrato infantil de 1987, y la controversia en Ghana por la compra de un avión presidencial de 60 millones de dólares en un clima de austeridad.",
       "puntos_clave": [
-        "Creación de centros de deportación en Ruanda por parte de un bloque de la UE",
-        "Dificultades legales para la tipificación de crímenes de lesa humanidad"
+        "Negociaciones intensas y desacuerdos en el cierre de la COP31",
+        "Controversia social en Ghana por gasto público elevado"
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "La conversación en redes sociales está dominada por el escepticismo ante los nuevos modelos de lenguaje (con críticas al rendimiento de Qwen4) y la fascinación por los avances en computación cuántica de Nvidia. Asimismo, el debate sobre la seguridad de las infraestructuras digitales sigue activo tras la reciente ola de fallos tecnológicos en EE. UU.",
+      "resumen": "Las redes sociales debaten intensamente sobre la fiabilidad de las capacidades de la IA, cuestionando si el comportamiento 'dramático' o reflexivo de modelos como Gemini es genuino o puramente performativo. Asimismo, se discute la caída de rendimiento de modelos como Qwen4 Max y la preocupación por la seguridad en redes de comunicación de defensa tras reportes de interrupciones técnicas.",
       "puntos_clave": [
-        "Debate sobre el rendimiento de modelos IA y comparativas de benchmarks",
-        "Interés por la resiliencia de la infraestructura digital ante fallos técnicos masivos"
+        "Debate sobre la naturaleza de las 'monólogos internos' de los modelos de IA",
+        "Especulación técnica sobre fallos en redes de seguridad nacional"
       ]
     }
   ]
