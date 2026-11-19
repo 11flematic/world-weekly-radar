@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "19/11/2026 00:45",
-  "titular_semana": "El debut bursátil récord de Anthropic marca una semana dominada por tensiones geopolíticas y la carrera por el control de la IA",
+  "fecha_actualizacion": "19/11/2026 08:50",
+  "titular_semana": "Cumbre de líderes en Shenzhen y la salida a bolsa de Anthropic marcan la agenda global",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La actividad política nacional se centra en la campaña electoral del 29-N, marcada por el posicionamiento de bloques ideológicos y el inicio de los cara a cara electorales. Paralelamente, el Congreso ha aprobado normativas clave sobre seguridad ferroviaria tras los recientes accidentes.",
+      "resumen": "La vida política española se centra en la inminente celebración del debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo. Ambos candidatos ultiman preparativos para un cara a cara decisivo, con los socialistas buscando movilizar el voto y el PP tratando de consolidar su ventaja en las encuestas, mientras el Gobierno ha legislado sobre la transparencia salarial en las empresas.",
       "puntos_clave": [
-        "El PP consolida su ventaja sobre Vox ante las elecciones del 29-N.",
-        "Aprobación parlamentaria del decreto de seguridad ferroviaria y ayudas a las víctimas."
+        "Debate electoral Sánchez-Feijóo bajo alta expectación política.",
+        "Aprobación de nuevas medidas para eliminar el secreto salarial en las empresas."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive un hito histórico con la salida a bolsa de Anthropic, que ha logrado una recaudación récord, superando las expectativas del mercado a pesar de las crecientes presiones regulatorias y demandas contra el desarrollo de modelos frontera.",
+      "resumen": "La industria de la IA vive un hito histórico con la salida a bolsa de Anthropic, que alcanza una valoración de 1,5 billones de dólares. Paralelamente, el sector enfrenta una mayor presión regulatoria con investigaciones de la FTC sobre seguridad y demandas de organizaciones sin ánimo de lucro que buscan frenar el desarrollo de modelos de frontera.",
       "puntos_clave": [
-        "Anthropic debuta en bolsa con una valoración récord de 81.300 millones de dólares.",
-        "Aumentan las demandas judiciales contra gigantes tecnológicos para frenar la carrera en el desarrollo de IA avanzada."
+        "Anthropic debuta en Wall Street con una valoración récord de 1,5 billones de dólares.",
+        "La FTC inicia investigaciones sobre la seguridad de las principales empresas de IA (OpenAI y Anthropic)."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La agenda global está marcada por los movimientos de las grandes potencias ante la transición política en EE. UU. Destaca la reafirmación de la alianza Rusia-China y la creciente preocupación por el conflicto en Ucrania, donde se intensifican los sabotajes a infraestructuras.",
+      "resumen": "Shenzhen se convierte en el epicentro mundial con una cumbre trilateral entre Xi Jinping, Donald Trump y Vladímir Putin, en un intento de redefinir las alianzas globales. Mientras tanto, persisten tensiones críticas en Ucrania, con combates activos, y en Oriente Medio, donde el avance de asentamientos israelíes cerca de Jericó aumenta la inestabilidad regional.",
       "puntos_clave": [
-        "Xi Jinping y Vladímir Putin fortalecen su alianza estratégica antes de la cumbre APEC.",
-        "Israel intensifica operaciones terrestres en Gaza, exacerbando la crisis humanitaria."
+        "Reunión histórica entre Xi, Trump y Putin en la cumbre de Shenzhen.",
+        "Situación humanitaria y bélica en Gaza y Ucrania sigue deteriorándose."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "El mercado tecnológico observa con cautela los cambios de liderazgo y la estrategia de eficiencia en las grandes corporaciones. Satya Nadella (Microsoft) ha subrayado la necesidad de adaptar la infraestructura crítica ante los riesgos cibernéticos derivados de la IA.",
+      "resumen": "La AIE ha alertado sobre los riesgos que la inestabilidad en Oriente Medio plantea para la seguridad energética global. El mercado tecnológico sigue marcado por los cambios de liderazgo en gigantes como Nvidia y las estrategias de reestructuración de plantilla en empresas como Microsoft, a pesar de la confianza de los inversores en la infraestructura de IA.",
       "puntos_clave": [
-        "Microsoft reafirma su confianza en Nvidia tras la salida de Jensen Huang.",
-        "Preocupación por la vulnerabilidad de infraestructuras críticas ante ciberataques impulsados por IA."
+        "La AIE advierte sobre la fragilidad del suministro energético global.",
+        "Debate corporativo sobre la sostenibilidad de los modelos de negocio basados en IA tras la salida de figuras clave en Nvidia."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "El ámbito social y científico destaca la alarma internacional por la pérdida de eficacia de los tratamientos antibióticos y el deterioro de la libertad religiosa, según informes de organismos internacionales.",
+      "resumen": "El cambio climático sigue provocando crisis humanitarias, con el ciclón Akvan amenazando el estado indio de Odisha y una intensa sequía que ha forzado a Fiyi a declarar el estado de desastre. En el ámbito social, la venta de una obra de Van Gogh por un récord histórico ha reabierto debates sobre la procedencia de piezas de arte marcadas por la historia nazi.",
       "puntos_clave": [
-        "La OMS y expertos alertan sobre la creciente resistencia a los antibióticos en infecciones comunes.",
-        "Alemania denuncia un retroceso global significativo en la protección de la libertad religiosa."
+        "Evacuaciones masivas en India ante la llegada del ciclón Akvan.",
+        "Fiyi declara el estado de desastre por la sequía derivada de El Niño."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "El debate digital en X y Reddit se polariza entre el impacto económico de la IA, el futuro de la seguridad tecnológica y la incertidumbre sobre el nuevo equilibrio geopolítico con el regreso de Trump.",
+      "resumen": "Las redes sociales muestran una polarización respecto al papel de la IA y el gasto corporativo en política. En X, el foco está en el escepticismo de Elon Musk sobre sus contribuciones electorales y el debate técnico sobre la optimización de modelos de lenguaje, mientras Reddit discute la creciente desconfianza de los distritos escolares hacia los buscadores tradicionales frente a nuevas herramientas de IA.",
       "puntos_clave": [
-        "Debate intenso sobre si el reemplazo de liderazgo en empresas como Nvidia supone un riesgo sistémico.",
-        "Especulaciones sobre el impacto de los 'agentes de IA' en la economía digital futura."
+        "Debate en X sobre el retorno de la inversión de Elon Musk en las elecciones de EE. UU.",
+        "Crece el debate en comunidades online sobre el impacto de la IA en la educación y la ciberseguridad."
       ]
     }
   ]
