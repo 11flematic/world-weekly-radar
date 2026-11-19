@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "19/11/2026 08:50",
-  "titular_semana": "Cumbre de líderes en Shenzhen y la salida a bolsa de Anthropic marcan la agenda global",
+  "fecha_actualizacion": "19/11/2026 16:52",
+  "titular_semana": "Cumbre histórica en Shenzhen: Trump, Xi y Putin firman una declaración de paz global",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La vida política española se centra en la inminente celebración del debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo. Ambos candidatos ultiman preparativos para un cara a cara decisivo, con los socialistas buscando movilizar el voto y el PP tratando de consolidar su ventaja en las encuestas, mientras el Gobierno ha legislado sobre la transparencia salarial en las empresas.",
+      "resumen": "La vida política española está marcada por los preparativos del cara a cara electoral entre Pedro Sánchez y Alberto Núñez Feijóo, con ambos candidatos ultimando estrategias para decantar el electorado. Paralelamente, el ámbito laboral registra avances normativos, como la consolidación del SMI en 1.286 euros y la prohibición de solicitar el historial salarial en procesos de selección.",
       "puntos_clave": [
-        "Debate electoral Sánchez-Feijóo bajo alta expectación política.",
-        "Aprobación de nuevas medidas para eliminar el secreto salarial en las empresas."
+        "Expectación ante el debate electoral Sánchez-Feijóo tras una legislatura tensa.",
+        "Novedades laborales: incremento del SMI a 1.286 euros en 2027 y prohibición de consultar salarios previos."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La industria de la IA vive un hito histórico con la salida a bolsa de Anthropic, que alcanza una valoración de 1,5 billones de dólares. Paralelamente, el sector enfrenta una mayor presión regulatoria con investigaciones de la FTC sobre seguridad y demandas de organizaciones sin ánimo de lucro que buscan frenar el desarrollo de modelos de frontera.",
+      "resumen": "Semana de alta volatilidad y actividad frenética: Anthropic debuta en el Nasdaq con una valoración histórica de 1,5 billones de dólares, mientras los gigantes (Google, OpenAI y Microsoft) lanzan nuevos modelos como Gemini 4 Neon y GPT-6.2. La industria enfrenta una creciente presión regulatoria con investigaciones de la FTC y demandas colectivas que buscan frenar el desarrollo de la IA de frontera.",
       "puntos_clave": [
-        "Anthropic debuta en Wall Street con una valoración récord de 1,5 billones de dólares.",
-        "La FTC inicia investigaciones sobre la seguridad de las principales empresas de IA (OpenAI y Anthropic)."
+        "Salida a bolsa récord de Anthropic valorada en 1,5 billones de dólares.",
+        "Lanzamientos masivos: Gemini 4 Neon, GPT-6.2 Astra y nuevas herramientas de automatización."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "Shenzhen se convierte en el epicentro mundial con una cumbre trilateral entre Xi Jinping, Donald Trump y Vladímir Putin, en un intento de redefinir las alianzas globales. Mientras tanto, persisten tensiones críticas en Ucrania, con combates activos, y en Oriente Medio, donde el avance de asentamientos israelíes cerca de Jericó aumenta la inestabilidad regional.",
+      "resumen": "El encuentro en Shenzhen entre Trump, Xi y Putin ha culminado en una 'Declaración de Paz' centrada en la estabilidad energética y el desarme nuclear, un movimiento que ha forzado una cumbre de emergencia de los aliados de Ucrania en Berlín. Por otro lado, la Corte Internacional de Justicia ha dictaminado que Myanmar cometió genocidio contra los rohinyás.",
       "puntos_clave": [
-        "Reunión histórica entre Xi, Trump y Putin en la cumbre de Shenzhen.",
-        "Situación humanitaria y bélica en Gaza y Ucrania sigue deteriorándose."
+        "Declaración trilateral de paz entre EE. UU., China y Rusia tras la cumbre de Shenzhen.",
+        "La CIJ ratifica el genocidio contra la minoría rohinyá en Myanmar."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La AIE ha alertado sobre los riesgos que la inestabilidad en Oriente Medio plantea para la seguridad energética global. El mercado tecnológico sigue marcado por los cambios de liderazgo en gigantes como Nvidia y las estrategias de reestructuración de plantilla en empresas como Microsoft, a pesar de la confianza de los inversores en la infraestructura de IA.",
+      "resumen": "La economía global reacciona al compromiso de estabilidad energética suscrito en Shenzhen, mientras el sector tecnológico intenta digerir las implicaciones financieras del auge de las empresas de inteligencia artificial. Se observa cautela en los mercados ante posibles cambios en la arquitectura de seguridad internacional y su impacto en el comercio exterior.",
       "puntos_clave": [
-        "La AIE advierte sobre la fragilidad del suministro energético global.",
-        "Debate corporativo sobre la sostenibilidad de los modelos de negocio basados en IA tras la salida de figuras clave en Nvidia."
+        "Impacto del acuerdo energético trilateral en el mercado de materias primas.",
+        "Cuestionamiento sobre la sostenibilidad de la financiación circular en el boom de las tecnológicas."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "El cambio climático sigue provocando crisis humanitarias, con el ciclón Akvan amenazando el estado indio de Odisha y una intensa sequía que ha forzado a Fiyi a declarar el estado de desastre. En el ámbito social, la venta de una obra de Van Gogh por un récord histórico ha reabierto debates sobre la procedencia de piezas de arte marcadas por la historia nazi.",
+      "resumen": "La crisis humanitaria persiste, con informes que señalan que uno de cada cuatro niños a nivel mundial vive en zonas de conflicto. En el ámbito cultural, el mercado del arte ha registrado cifras récord, a pesar de las controversias éticas sobre la procedencia de las obras subastadas, como el caso de una pieza de Van Gogh.",
       "puntos_clave": [
-        "Evacuaciones masivas en India ante la llegada del ciclón Akvan.",
-        "Fiyi declara el estado de desastre por la sequía derivada de El Niño."
+        "Preocupación por la infancia en zonas de guerra: 25% de la población infantil en áreas de conflicto.",
+        "Debates sobre ética y procedencia en el mercado del arte tras ventas millonarias."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las redes sociales muestran una polarización respecto al papel de la IA y el gasto corporativo en política. En X, el foco está en el escepticismo de Elon Musk sobre sus contribuciones electorales y el debate técnico sobre la optimización de modelos de lenguaje, mientras Reddit discute la creciente desconfianza de los distritos escolares hacia los buscadores tradicionales frente a nuevas herramientas de IA.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en la fiabilidad de las infraestructuras críticas ante ciberataques asistidos por IA y las críticas a los gigantes tecnológicos. Existe también una fuerte conversación sobre la ética de los datos en el entrenamiento de nuevos modelos, con acusaciones de plagio académico en la formación de inteligencias artificiales.",
       "puntos_clave": [
-        "Debate en X sobre el retorno de la inversión de Elon Musk en las elecciones de EE. UU.",
-        "Crece el debate en comunidades online sobre el impacto de la IA en la educación y la ciberseguridad."
+        "Debate sobre la vulnerabilidad de las infraestructuras críticas ante ciberataques.",
+        "Denuncias en redes sociales por el uso de propiedad intelectual en el entrenamiento de modelos de IA."
       ]
     }
   ]
