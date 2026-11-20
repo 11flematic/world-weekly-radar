@@ -1,53 +1,56 @@
 {
-  "fecha_actualizacion": "20/11/2026 00:37",
-  "titular_semana": "Cumbre histórica en Shenzhen: Xi, Trump y Putin firman una declaración de paz mundial",
+  "fecha_actualizacion": "20/11/2026 08:50",
+  "titular_semana": "El debut bursátil de Anthropic y la creciente inestabilidad geopolítica marcan la agenda internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La campaña electoral para los comicios del 29 de noviembre se intensifica tras el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo, centrado en el contraste de modelos, la gestión económica y las polémicas alianzas parlamentarias. Paralelamente, persiste la tensión en el ámbito educativo madrileño tras 37 días de huelga docente.",
+      "resumen": "La campaña electoral domina el panorama nacional, centrada en un debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo marcado por la confrontación directa y la tensión política. Paralelamente, el Gobierno ha oficializado la subida del SMI un 5,3% para 2027, mientras crece el debate social sobre el futuro de leyes como la eutanasia ante un posible cambio de gobierno.",
       "puntos_clave": [
-        "Debate electoral entre Sánchez y Feijóo marcado por la confrontación directa.",
-        "PP intensifica críticas sobre los pactos de legislatura; el Gobierno defiende su gestión."
+        "Debate electoral polarizado entre Sánchez y Feijóo.",
+        "Publicación en el BOE de la subida del SMI a 1.286 euros mensuales para 2027.",
+        "Cancelación de la huelga de maquinistas tras alcanzar un acuerdo con el Ejecutivo."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "Semana histórica para el sector con la salida a bolsa de Anthropic, que alcanza una valoración récord tras su debut en Wall Street. Mientras, las grandes tecnológicas como Google, Microsoft y Meta continúan lanzando nuevos modelos y agentes autónomos, lo que ha disparado el debate sobre la privacidad de datos y la regulación de la capacidad de acción de estas IA en dispositivos personales.",
+      "resumen": "El sector vive una semana histórica con la salida a bolsa de Anthropic, que alcanza una valoración de 2 billones de dólares, atrayendo tanto capital como escrutinio regulatorio. Las grandes tecnológicas (Google, Apple, Meta) intensifican la carrera por los agentes de IA con nuevas funciones de automatización para ordenadores y lanzamientos de modelos avanzados.",
       "puntos_clave": [
-        "Anthropic debuta en el mercado bursátil con una valoración histórica superior al billón de dólares.",
-        "Meta enfrenta críticas por fallos de privacidad en su agente 'Muse' y Apple busca ampliar su equipo de ingeniería en IA."
+        "Anthropic debuta en Wall Street con una valoración masiva.",
+        "Desarrollo acelerado de agentes de IA integrados en macOS y navegadores.",
+        "Meta prepara el lanzamiento del dispositivo Muse Charm."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "El encuentro en Shenzhen entre Xi Jinping, Donald Trump y Vladímir Putin marca un posible cambio de paradigma internacional tras la firma de una declaración conjunta por la paz y contra el uso de armas nucleares. La Corte Internacional de Justicia ha dictaminado formalmente que Myanmar cometió genocidio contra la minoría rohinyá, desencadenando una respuesta diplomática internacional.",
+      "resumen": "La situación en Ucrania se agrava tras intensos ataques rusos contra infraestructuras críticas en Kiev. A nivel global, el Tribunal Internacional de Justicia ha emitido un fallo histórico confirmando el genocidio contra la minoría rohinyá en Myanmar, mientras se observan movimientos diplomáticos complejos tras la cumbre de Shenzhen entre China, Rusia y EE. UU.",
       "puntos_clave": [
-        "Cumbre de Shenzhen: los líderes de China, EE. UU. y Rusia declaran que una guerra nuclear 'nunca debe librarse'.",
-        "La CIJ ratifica el genocidio en Myanmar; Reino Unido expulsa a representantes de la junta militar."
+        "Rusia lanza ataques masivos contra puentes en Kiev.",
+        "La CIJ ratifica que el ejército de Myanmar perpetró genocidio contra los rohinyás.",
+        "Especulación sobre posibles negociaciones para el fin de la guerra en Ucrania."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Los mercados reaccionan con gran expectativa a la salida a bolsa de Anthropic. Mientras tanto, California ha iniciado una investigación sobre Nvidia en relación con el mercado de chips de IA destinados a China, en un contexto donde el coste de los conflictos geopolíticos, como la guerra contra Irán, sigue lastrando las arcas estadounidenses.",
+      "resumen": "La atención financiera se ha centrado en el impacto del mercado de IA en Wall Street y los efectos colaterales de la volatilidad tecnológica. En el ámbito macroeconómico, destacan medidas como la reducción de la jornada laboral impulsada por el gobierno de Brasil.",
       "puntos_clave": [
-        "El debut bursátil de Anthropic atrae un volumen de inversión sin precedentes.",
-        "Nvidia bajo escrutinio regulatorio en California por sus operaciones comerciales en China."
+        "Valoración récord y alta expectativa tras la IPO de Anthropic.",
+        "Lula firma un decreto para la reducción de la jornada laboral en Brasil."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "El foco social esta semana ha estado en la escalada de violencia en Haití y el impacto del extremismo, junto con el inicio de los preparativos navideños en Madrid. En el plano cultural, el videojuego GTA VI continúa siendo objeto de debate como reflejo de la coyuntura política y social de los Estados Unidos.",
+      "resumen": "Las noticias sociales destacan por el caso judicial del padre de Meghan Markle, quien deberá enfrentar cargos por abuso sexual. En España, los preparativos navideños en Madrid marcan el inicio de la actividad cultural y turística de cierre de año.",
       "puntos_clave": [
-        "Operación de seguridad en Haití deja 34 fallecidos en el contexto de la lucha contra bandas armadas.",
-        "El Ayuntamiento de Madrid presenta el programa de actividades navideñas."
+        "El padre de Meghan Markle, declarado apto para el proceso judicial.",
+        "Lanzamiento del programa cultural de Navidad en Madrid."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en el despliegue de los nuevos modelos de IA, incluyendo Gemini Neon y GPT-6.2, así como en las implicaciones geopolíticas de la reunión en Shenzhen, que genera división entre quienes aplauden la desescalada y quienes temen un reparto de poder similar al de Yalta.",
+      "resumen": "Las comunidades digitales en Reddit y X centran sus debates en el impacto de los 'AI Agents' y la inquietud por el fin del entusiasmo ciego por la inteligencia artificial. En el ámbito geopolítico, se cuestiona el papel de las cumbres internacionales frente a la realidad del conflicto en Ucrania.",
       "puntos_clave": [
-        "Debate técnico y entusiasta sobre las capacidades de los modelos de IA de nueva generación.",
-        "Intensa discusión en redes sobre la legitimidad y los riesgos de la entente de Shenzhen."
+        "Debate creciente sobre la utilidad real y riesgos de los agentes de IA.",
+        "Escepticismo en redes sobre la efectividad de la diplomacia con Rusia."
       ]
     }
   ]
