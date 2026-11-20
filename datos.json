@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "19/11/2026 16:52",
-  "titular_semana": "Cumbre histórica en Shenzhen: Trump, Xi y Putin firman una declaración de paz global",
+  "fecha_actualizacion": "20/11/2026 00:37",
+  "titular_semana": "Cumbre histórica en Shenzhen: Xi, Trump y Putin firman una declaración de paz mundial",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La vida política española está marcada por los preparativos del cara a cara electoral entre Pedro Sánchez y Alberto Núñez Feijóo, con ambos candidatos ultimando estrategias para decantar el electorado. Paralelamente, el ámbito laboral registra avances normativos, como la consolidación del SMI en 1.286 euros y la prohibición de solicitar el historial salarial en procesos de selección.",
+      "resumen": "La campaña electoral para los comicios del 29 de noviembre se intensifica tras el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo, centrado en el contraste de modelos, la gestión económica y las polémicas alianzas parlamentarias. Paralelamente, persiste la tensión en el ámbito educativo madrileño tras 37 días de huelga docente.",
       "puntos_clave": [
-        "Expectación ante el debate electoral Sánchez-Feijóo tras una legislatura tensa.",
-        "Novedades laborales: incremento del SMI a 1.286 euros en 2027 y prohibición de consultar salarios previos."
+        "Debate electoral entre Sánchez y Feijóo marcado por la confrontación directa.",
+        "PP intensifica críticas sobre los pactos de legislatura; el Gobierno defiende su gestión."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "Semana de alta volatilidad y actividad frenética: Anthropic debuta en el Nasdaq con una valoración histórica de 1,5 billones de dólares, mientras los gigantes (Google, OpenAI y Microsoft) lanzan nuevos modelos como Gemini 4 Neon y GPT-6.2. La industria enfrenta una creciente presión regulatoria con investigaciones de la FTC y demandas colectivas que buscan frenar el desarrollo de la IA de frontera.",
+      "resumen": "Semana histórica para el sector con la salida a bolsa de Anthropic, que alcanza una valoración récord tras su debut en Wall Street. Mientras, las grandes tecnológicas como Google, Microsoft y Meta continúan lanzando nuevos modelos y agentes autónomos, lo que ha disparado el debate sobre la privacidad de datos y la regulación de la capacidad de acción de estas IA en dispositivos personales.",
       "puntos_clave": [
-        "Salida a bolsa récord de Anthropic valorada en 1,5 billones de dólares.",
-        "Lanzamientos masivos: Gemini 4 Neon, GPT-6.2 Astra y nuevas herramientas de automatización."
+        "Anthropic debuta en el mercado bursátil con una valoración histórica superior al billón de dólares.",
+        "Meta enfrenta críticas por fallos de privacidad en su agente 'Muse' y Apple busca ampliar su equipo de ingeniería en IA."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "El encuentro en Shenzhen entre Trump, Xi y Putin ha culminado en una 'Declaración de Paz' centrada en la estabilidad energética y el desarme nuclear, un movimiento que ha forzado una cumbre de emergencia de los aliados de Ucrania en Berlín. Por otro lado, la Corte Internacional de Justicia ha dictaminado que Myanmar cometió genocidio contra los rohinyás.",
+      "resumen": "El encuentro en Shenzhen entre Xi Jinping, Donald Trump y Vladímir Putin marca un posible cambio de paradigma internacional tras la firma de una declaración conjunta por la paz y contra el uso de armas nucleares. La Corte Internacional de Justicia ha dictaminado formalmente que Myanmar cometió genocidio contra la minoría rohinyá, desencadenando una respuesta diplomática internacional.",
       "puntos_clave": [
-        "Declaración trilateral de paz entre EE. UU., China y Rusia tras la cumbre de Shenzhen.",
-        "La CIJ ratifica el genocidio contra la minoría rohinyá en Myanmar."
+        "Cumbre de Shenzhen: los líderes de China, EE. UU. y Rusia declaran que una guerra nuclear 'nunca debe librarse'.",
+        "La CIJ ratifica el genocidio en Myanmar; Reino Unido expulsa a representantes de la junta militar."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global reacciona al compromiso de estabilidad energética suscrito en Shenzhen, mientras el sector tecnológico intenta digerir las implicaciones financieras del auge de las empresas de inteligencia artificial. Se observa cautela en los mercados ante posibles cambios en la arquitectura de seguridad internacional y su impacto en el comercio exterior.",
+      "resumen": "Los mercados reaccionan con gran expectativa a la salida a bolsa de Anthropic. Mientras tanto, California ha iniciado una investigación sobre Nvidia en relación con el mercado de chips de IA destinados a China, en un contexto donde el coste de los conflictos geopolíticos, como la guerra contra Irán, sigue lastrando las arcas estadounidenses.",
       "puntos_clave": [
-        "Impacto del acuerdo energético trilateral en el mercado de materias primas.",
-        "Cuestionamiento sobre la sostenibilidad de la financiación circular en el boom de las tecnológicas."
+        "El debut bursátil de Anthropic atrae un volumen de inversión sin precedentes.",
+        "Nvidia bajo escrutinio regulatorio en California por sus operaciones comerciales en China."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La crisis humanitaria persiste, con informes que señalan que uno de cada cuatro niños a nivel mundial vive en zonas de conflicto. En el ámbito cultural, el mercado del arte ha registrado cifras récord, a pesar de las controversias éticas sobre la procedencia de las obras subastadas, como el caso de una pieza de Van Gogh.",
+      "resumen": "El foco social esta semana ha estado en la escalada de violencia en Haití y el impacto del extremismo, junto con el inicio de los preparativos navideños en Madrid. En el plano cultural, el videojuego GTA VI continúa siendo objeto de debate como reflejo de la coyuntura política y social de los Estados Unidos.",
       "puntos_clave": [
-        "Preocupación por la infancia en zonas de guerra: 25% de la población infantil en áreas de conflicto.",
-        "Debates sobre ética y procedencia en el mercado del arte tras ventas millonarias."
+        "Operación de seguridad en Haití deja 34 fallecidos en el contexto de la lucha contra bandas armadas.",
+        "El Ayuntamiento de Madrid presenta el programa de actividades navideñas."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en la fiabilidad de las infraestructuras críticas ante ciberataques asistidos por IA y las críticas a los gigantes tecnológicos. Existe también una fuerte conversación sobre la ética de los datos en el entrenamiento de nuevos modelos, con acusaciones de plagio académico en la formación de inteligencias artificiales.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en el despliegue de los nuevos modelos de IA, incluyendo Gemini Neon y GPT-6.2, así como en las implicaciones geopolíticas de la reunión en Shenzhen, que genera división entre quienes aplauden la desescalada y quienes temen un reparto de poder similar al de Yalta.",
       "puntos_clave": [
-        "Debate sobre la vulnerabilidad de las infraestructuras críticas ante ciberataques.",
-        "Denuncias en redes sociales por el uso de propiedad intelectual en el entrenamiento de modelos de IA."
+        "Debate técnico y entusiasta sobre las capacidades de los modelos de IA de nueva generación.",
+        "Intensa discusión en redes sobre la legitimidad y los riesgos de la entente de Shenzhen."
       ]
     }
   ]
