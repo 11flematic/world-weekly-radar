@@ -1,56 +1,56 @@
 {
-  "fecha_actualizacion": "20/11/2026 08:50",
-  "titular_semana": "El debut bursátil de Anthropic y la creciente inestabilidad geopolítica marcan la agenda internacional",
+  "fecha_actualizacion": "20/11/2026 16:47",
+  "titular_semana": "La caída de misiles rusos en Polonia y la falta de acuerdos en la cumbre de Shenzhen marcan la agenda internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La campaña electoral domina el panorama nacional, centrada en un debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo marcado por la confrontación directa y la tensión política. Paralelamente, el Gobierno ha oficializado la subida del SMI un 5,3% para 2027, mientras crece el debate social sobre el futuro de leyes como la eutanasia ante un posible cambio de gobierno.",
+      "resumen": "La política española ha estado dominada por el debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo, del cual los sondeos otorgan la victoria al líder del PP con una ventaja de hasta 10 puntos, aunque la distancia entre ambos partidos se mantiene estrecha. En el ámbito de los servicios e infraestructuras, el Gobierno ha cerrado un acuerdo con los maquinistas para desconvocar la huelga del 23 de noviembre y ha aprobado un Real Decreto enfocado en la sostenibilidad energética y la resiliencia digital de los centros de datos.",
       "puntos_clave": [
-        "Debate electoral polarizado entre Sánchez y Feijóo.",
-        "Publicación en el BOE de la subida del SMI a 1.286 euros mensuales para 2027.",
-        "Cancelación de la huelga de maquinistas tras alcanzar un acuerdo con el Ejecutivo."
+        "Feijóo se impone a Sánchez en el cara a cara televisado según los sondeos de opinión.",
+        "Desconvocada la huelga de trenes del 23 de noviembre tras pactar el Gobierno con los maquinistas.",
+        "Aprobado el Real Decreto para regular la resiliencia digital y sostenibilidad ambiental en centros de datos."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive una semana histórica con la salida a bolsa de Anthropic, que alcanza una valoración de 2 billones de dólares, atrayendo tanto capital como escrutinio regulatorio. Las grandes tecnológicas (Google, Apple, Meta) intensifican la carrera por los agentes de IA con nuevas funciones de automatización para ordenadores y lanzamientos de modelos avanzados.",
+      "resumen": "El sector de la inteligencia artificial registra una alta actividad bursátil e institucional. Anthropic ejecutó una destacada salida a bolsa donde sus fundadores vendieron participaciones por cerca de 2.000 millones de dólares, sufriendo correcciones la jornada posterior. En el plano del desarrollo, Apple acelera la contratación de ingenieros para crear agentes de IA integrados en el sistema operativo del Mac, mientras que aplicaciones de mensajería como Signal han implementado bloqueos para impedir que agentes como Gemini o Siri capturen imágenes de la pantalla.",
       "puntos_clave": [
-        "Anthropic debuta en Wall Street con una valoración masiva.",
-        "Desarrollo acelerado de agentes de IA integrados en macOS y navegadores.",
-        "Meta prepara el lanzamiento del dispositivo Muse Charm."
+        "Los fundadores de Anthropic recaudan cerca de 2.000 millones de dólares en una salida a bolsa histórica.",
+        "Apple avanza en el desarrollo de su propio agente de IA capaz de ejecutar tareas directamente en el sistema.",
+        "Signal bloquea la captura y lectura automatizada de pantallas por parte de los asistentes de IA."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La situación en Ucrania se agrava tras intensos ataques rusos contra infraestructuras críticas en Kiev. A nivel global, el Tribunal Internacional de Justicia ha emitido un fallo histórico confirmando el genocidio contra la minoría rohinyá en Myanmar, mientras se observan movimientos diplomáticos complejos tras la cumbre de Shenzhen entre China, Rusia y EE. UU.",
+      "resumen": "La tensión internacional se ha elevado tras el impacto de dos misiles y un dron rusos en territorio polaco durante unas maniobras militares europeas, coincidiendo con ataques masivos contra infraestructuras energéticas y sedes diplomáticas de la UE en Kiev. Paralelamente, la cumbre trilateral en Shenzhen entre Xi Jinping, Donald Trump y Vladimir Putin ha concluido sin acuerdos concretos para resolver las guerras en Ucrania o Irán. En Europa occidental, la UE y el Reino Unido han logrado destrabar las negociaciones post-Brexit con un acuerdo sobre movilidad juvenil.",
       "puntos_clave": [
-        "Rusia lanza ataques masivos contra puentes en Kiev.",
-        "La CIJ ratifica que el ejército de Myanmar perpetró genocidio contra los rohinyás.",
-        "Especulación sobre posibles negociaciones para el fin de la guerra en Ucrania."
+        "Dos misiles rusos impactan en Polonia durante ejercicios militares internacionales.",
+        "La cumbre trilateral Xi-Trump-Putin en Shenzhen finaliza sin compromisos de paz firmes.",
+        "El Reino Unido y la UE alcanzan un acuerdo de movilidad juvenil para superar el bloqueo del Brexit."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La atención financiera se ha centrado en el impacto del mercado de IA en Wall Street y los efectos colaterales de la volatilidad tecnológica. En el ámbito macroeconómico, destacan medidas como la reducción de la jornada laboral impulsada por el gobierno de Brasil.",
+      "resumen": "Los mercados financieros globales han mostrado volatilidad arrastrada por el comportamiento de las grandes cotizadas tecnológicas, en particular por los reajustes en la valoración de los fabricantes de semiconductores como Nvidia y las empresas dedicadas al despliegue masivo de IA. Asimismo, la incertidumbre comercial persiste tras la falta de resoluciones macroeconómicas en los encuentros diplomáticos de Shenzhen.",
       "puntos_clave": [
-        "Valoración récord y alta expectativa tras la IPO de Anthropic.",
-        "Lula firma un decreto para la reducción de la jornada laboral en Brasil."
+        "Alta volatilidad en el sector tecnológico tras las fluctuaciones bursátiles de Nvidia y el debut de Anthropic.",
+        "Persiste la cautela en los mercados financieros ante la falta de compromisos comerciales multilaterales."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Las noticias sociales destacan por el caso judicial del padre de Meghan Markle, quien deberá enfrentar cargos por abuso sexual. En España, los preparativos navideños en Madrid marcan el inicio de la actividad cultural y turística de cierre de año.",
+      "resumen": "La cumbre del clima COP31 ha cerrado compromisos de inversión por valor de 26.000 millones de dólares destinados a infraestructuras limpias, si bien ha fracasado en el intento de fijar una hoja de ruta definitiva para la eliminación gradual de los combustibles fósiles. En el plano sociocultural, la palabra 'Humano' ha sido elegida como el término del año, reflejando el debate global generado por la rápida integración de la automatización en la vida cotidiana.",
       "puntos_clave": [
-        "El padre de Meghan Markle, declarado apto para el proceso judicial.",
-        "Lanzamiento del programa cultural de Navidad en Madrid."
+        "La COP31 capta 26.000 millones de dólares pero encalla en la regulación de combustibles fósiles.",
+        "'Humano' es nombrada palabra del año en respuesta al crecimiento de la inteligencia artificial."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las comunidades digitales en Reddit y X centran sus debates en el impacto de los 'AI Agents' y la inquietud por el fin del entusiasmo ciego por la inteligencia artificial. En el ámbito geopolítico, se cuestiona el papel de las cumbres internacionales frente a la realidad del conflicto en Ucrania.",
+      "resumen": "Las principales plataformas de debate online concentran la conversación en la ineficacia de la cumbre trilateral de Shenzhen para alcanzar soluciones geopolíticas. A su vez, se han registrado discusiones en torno a fallos de infraestructura digital calificados en redes como episodios de alta vulnerabilidad operativa, junto a un creciente interés por la privacidad frente al avance de los asistentes de IA.",
       "puntos_clave": [
-        "Debate creciente sobre la utilidad real y riesgos de los agentes de IA.",
-        "Escepticismo en redes sobre la efectividad de la diplomacia con Rusia."
+        "Debate masivo en X y Reddit sobre la falta de resultados concretos tras el encuentro Xi-Trump-Putin.",
+        "Preocupación entre los usuarios por las interrupciones en servicios digitales y el control de la privacidad frente a la IA."
       ]
     }
   ]
