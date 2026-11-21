@@ -1,59 +1,53 @@
 {
-  "fecha_actualizacion": "21/11/2026 08:38",
-  "titular_semana": "La salida a bolsa de Anthropic marca un hito tecnológico mientras la tensión geopolítica escala",
+  "fecha_actualizacion": "21/11/2026 16:32",
+  "titular_semana": "La salida a bolsa de Anthropic marca un hito tecnológico mientras la inestabilidad geopolítica se intensifica",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La vida política nacional se centra en el debate electoral de cara a los comicios del 29 de noviembre, donde el enfrentamiento entre Pedro Sánchez y Alberto Núñez Feijóo ha monopolizado el foco mediático, mientras se intensifican las propuestas sobre inmigración y el impacto de los costes en el SMI.",
+      "resumen": "El debate político nacional sigue marcado por la reciente confrontación entre Pedro Sánchez y Alberto Núñez Feijóo, mientras el Gobierno prepara medidas económicas clave y la gestión de infraestructuras cobra relevancia. Socialmente, el país se prepara para el inicio de las festividades navideñas en un clima de debate político activo.",
       "puntos_clave": [
-        "Intenso cara a cara electoral con cruce de acusaciones sobre la estrategia de campaña.",
-        "El PP propone un mando único para la gestión de la inmigración irregular.",
-        "Preocupación social por la subida del Salario Mínimo Interprofesional frente al incremento de costes operativos en pymes."
+        "El Gobierno prorrogará el impuesto a la banca hasta 2027 para financiar políticas de vivienda.",
+        "Intensa actividad política tras el cara a cara entre Sánchez y Feijóo; los partidos se movilizan en actos públicos."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive un momento de agitación tras la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares. Paralelamente, surgen avances científicos de alto impacto y medidas defensivas para proteger la privacidad del usuario ante el avance de los agentes de IA.",
+      "resumen": "La semana ha estado dominada por la histórica salida a bolsa de Anthropic, cuyas acciones han experimentado un crecimiento notable, atrayendo masivamente a inversores a pesar de la volatilidad en el sector tecnológico. Paralelamente, se ha generado un debate científico global tras el anuncio de que un modelo de IA habría logrado resolver la Hipótesis de Riemann.",
       "puntos_clave": [
-        "Anthropic protagoniza una de las salidas a bolsa más grandes de la historia tecnológica.",
-        "Reivindicaciones científicas: investigadores aseguran haber resuelto la hipótesis de Riemann con ayuda de IA.",
-        "Signal implementa bloqueos para evitar que agentes de IA como Gemini o Siri escaneen pantallas de usuarios."
+        "Debate académico sobre la validez de la resolución de la Hipótesis de Riemann asistida por Claude (Anthropic).",
+        "Presión regulatoria: Donald Trump amenaza con impuestos a centros de datos situados fuera de EE. UU."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "Las relaciones internacionales se tensan tras el acercamiento entre Donald Trump y Vladímir Putin, lo que ha provocado una respuesta directa del presidente ucraniano Zelenski, quien ha tachado al líder ruso de \"asesino\", mientras Europa debate sobre la viabilidad de futuras negociaciones con el Kremlin.",
+      "resumen": "La tensión persiste en el conflicto en Ucrania y Oriente Próximo. Las relaciones internacionales están marcadas por la incertidumbre tras la cumbre trilateral entre Trump, Xi y Putin, que no ha arrojado resultados tangibles, y el creciente temor a que las infraestructuras críticas se conviertan en el principal blanco de sabotajes.",
       "puntos_clave": [
-        "Divergencias diplomáticas en la UE sobre la postura ante el conflicto en Ucrania.",
-        "Continúan los ataques regionales: intercambio de misiles entre hutíes y Arabia Saudí.",
-        "Ausencia de consenso en la ONU para designar al sucesor de António Guterres."
+        "Ucrania intensifica ataques contra cargueros rusos y mantiene una postura firme frente a Rusia.",
+        "Dinamarca denuncia un supuesto plan ruso para asesinar a un rapero ucraniano en su territorio."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La inestabilidad se ha instalado en los mercados financieros globales, impulsada principalmente por un desplome en las acciones del sector tecnológico que ha afectado la confianza inversora, a pesar de la expectación por el debut de Anthropic.",
+      "resumen": "Los mercados han registrado una jornada de ventas en el sector tecnológico, arrastrados por la inestabilidad. La economía global muestra signos de vulnerabilidad ante la dependencia crítica de un número limitado de proveedores de infraestructura digital y energética.",
       "puntos_clave": [
-        "Venta masiva de acciones tecnológicas lastra a los principales índices bursátiles.",
-        "Colombia enfrenta protestas sociales debido a la controversia por su nueva reforma fiscal.",
-        "Nvidia sigue bajo escrutinio de mercado tras las polémicas recientes que involucran a su dirección."
+        "Venta masiva de acciones tecnológicas tras la volatilidad post-IPO de Anthropic.",
+        "Bloqueo en la cumbre climática COP31 debido a disputas sobre el uso de combustibles fósiles."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La crisis climática y la seguridad ciudadana marcan la agenda, con la COP31 bloqueada por el debate sobre el futuro de los combustibles fósiles, mientras en el ámbito sanitario se reportan avances en el diagnóstico de enfermedades degenerativas relacionadas con el deporte.",
+      "resumen": "El cambio climático sigue golpeando los ecosistemas locales, con temperaturas inusualmente altas que amenazan los glaciares andinos. En el ámbito social, Francia atraviesa una sexta semana consecutiva de protestas marcadas por la presencia de sindicatos y los 'chalecos amarillos'.",
       "puntos_clave": [
-        "Bloqueo en la COP31 ante la falta de acuerdo sobre la eliminación progresiva de combustibles fósiles.",
-        "Posible descubrimiento de un biomarcador para el diagnóstico de la Encefalopatía Traumática Crónica (CTE) mediante análisis de sangre.",
-        "Movilizaciones juveniles en varias capitales europeas por el acceso a la vivienda y el coste de la vida."
+        "Descubrimiento de un posible biomarcador en sangre para diagnosticar la encefalopatía traumática crónica (CTE).",
+        "Persistencia de movilizaciones sociales en Francia con fuerte componente musical y reivindicativo."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las plataformas digitales mantienen un alto nivel de debate político y ético sobre la influencia de las grandes potencias en el orden mundial y el papel de las nuevas herramientas de automatización en la vida cotidiana.",
+      "resumen": "Las comunidades digitales en Reddit y X se han volcado en el análisis técnico y especulativo sobre la supuesta resolución de la Hipótesis de Riemann mediante IA. En el plano político, el tono es de escepticismo ante la ineficacia de las cumbres internacionales para resolver los conflictos armados activos.",
       "puntos_clave": [
-        "Viralidad y críticas sobre la postura de Trump ante Putin en foros como X y Reddit.",
-        "Debate ético: ¿es la violencia en los videojuegos una sátira o una apología del delito?",
-        "Expectación técnica por los nuevos modelos de IA y su potencial impacto en la productividad laboral."
+        "Intenso debate en foros especializados sobre la fiabilidad de las pruebas matemáticas generadas por IA.",
+        "Crítica ciudadana en redes sobre el impacto de la polarización política y el escepticismo ante la diplomacia de alto nivel."
       ]
     }
   ]
