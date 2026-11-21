@@ -1,53 +1,59 @@
 {
-  "fecha_actualizacion": "21/11/2026 00:40",
-  "titular_semana": "Tensiones geopolíticas globales y volatilidad en el sector tecnológico marcan la agenda internacional",
+  "fecha_actualizacion": "21/11/2026 08:38",
+  "titular_semana": "La salida a bolsa de Anthropic marca un hito tecnológico mientras la tensión geopolítica escala",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La vida política española se encuentra marcada por el debate electoral previo a los comicios del 29-N. Las encuestas muestran un estrechamiento en la distancia entre PP y PSOE, tras un cara a cara donde Alberto Núñez Feijóo fue percibido como ganador. Paralelamente, el Gobierno reafirma su agenda de transición energética mientras se gestionan tensiones diplomáticas puntuales en Ceuta.",
+      "resumen": "La vida política nacional se centra en el debate electoral de cara a los comicios del 29 de noviembre, donde el enfrentamiento entre Pedro Sánchez y Alberto Núñez Feijóo ha monopolizado el foco mediático, mientras se intensifican las propuestas sobre inmigración y el impacto de los costes en el SMI.",
       "puntos_clave": [
-        "Feijóo aventaja a Sánchez en 10 puntos según sondeos tras el debate.",
-        "El PP propone un mando único para la gestión migratoria."
+        "Intenso cara a cara electoral con cruce de acusaciones sobre la estrategia de campaña.",
+        "El PP propone un mando único para la gestión de la inmigración irregular.",
+        "Preocupación social por la subida del Salario Mínimo Interprofesional frente al incremento de costes operativos en pymes."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La semana ha estado dominada por la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares, y el anuncio de su equipo sobre una posible resolución de la hipótesis de Riemann mediante IA. Mientras las grandes tecnológicas (Google, Microsoft, Apple) continúan lanzando modelos y agentes inteligentes, aumenta la presión regulatoria sobre la ubicación de centros de datos en el extranjero.",
+      "resumen": "El sector vive un momento de agitación tras la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares. Paralelamente, surgen avances científicos de alto impacto y medidas defensivas para proteger la privacidad del usuario ante el avance de los agentes de IA.",
       "puntos_clave": [
-        "Estreno bursátil masivo de Anthropic pese a la volatilidad del sector.",
-        "Avances en la integración de agentes de IA para sistemas operativos (Apple)."
+        "Anthropic protagoniza una de las salidas a bolsa más grandes de la historia tecnológica.",
+        "Reivindicaciones científicas: investigadores aseguran haber resuelto la hipótesis de Riemann con ayuda de IA.",
+        "Signal implementa bloqueos para evitar que agentes de IA como Gemini o Siri escaneen pantallas de usuarios."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La escalada del conflicto en Ucrania, con ataques a infraestructuras críticas y la caída de misiles en Polonia durante maniobras militares aliadas, ha incrementado la tensión en Europa. En paralelo, ha tenido lugar una cumbre tripartita inusual entre Trump, Putin y Xi Jinping, sin que se alcanzaran acuerdos significativos para resolver los conflictos vigentes.",
+      "resumen": "Las relaciones internacionales se tensan tras el acercamiento entre Donald Trump y Vladímir Putin, lo que ha provocado una respuesta directa del presidente ucraniano Zelenski, quien ha tachado al líder ruso de \"asesino\", mientras Europa debate sobre la viabilidad de futuras negociaciones con el Kremlin.",
       "puntos_clave": [
-        "Incidente fronterizo en Polonia con misiles rusos.",
-        "Acercamiento post-Brexit entre el Reino Unido y la UE sobre movilidad juvenil."
+        "Divergencias diplomáticas en la UE sobre la postura ante el conflicto en Ucrania.",
+        "Continúan los ataques regionales: intercambio de misiles entre hutíes y Arabia Saudí.",
+        "Ausencia de consenso en la ONU para designar al sucesor de António Guterres."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Los mercados han experimentado un ajuste provocado por la corrección en los valores tecnológicos. La incertidumbre política en países como Colombia, con el descontento ante la reforma fiscal, y las protestas en Italia por el coste de vida, reflejan un panorama de inestabilidad económica global que condiciona las políticas de inversión.",
+      "resumen": "La inestabilidad se ha instalado en los mercados financieros globales, impulsada principalmente por un desplome en las acciones del sector tecnológico que ha afectado la confianza inversora, a pesar de la expectación por el debut de Anthropic.",
       "puntos_clave": [
-        "Venta masiva de acciones tecnológicas arrastra a los mercados globales.",
-        "Protestas en Italia por salarios estancados y políticas de gobierno."
+        "Venta masiva de acciones tecnológicas lastra a los principales índices bursátiles.",
+        "Colombia enfrenta protestas sociales debido a la controversia por su nueva reforma fiscal.",
+        "Nvidia sigue bajo escrutinio de mercado tras las polémicas recientes que involucran a su dirección."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el ámbito científico, destaca el descubrimiento de un posible biomarcador para la encefalopatía traumática crónica (CTE), que permitiría diagnósticos mediante análisis de sangre. A nivel social, persiste la preocupación por el impacto de los conflictos en la población civil y el debate generacional sobre el bienestar económico en Europa.",
+      "resumen": "La crisis climática y la seguridad ciudadana marcan la agenda, con la COP31 bloqueada por el debate sobre el futuro de los combustibles fósiles, mientras en el ámbito sanitario se reportan avances en el diagnóstico de enfermedades degenerativas relacionadas con el deporte.",
       "puntos_clave": [
-        "Avance científico en el diagnóstico de enfermedades cerebrales en deportistas.",
-        "Tensión por la situación humanitaria en la Franja de Gaza."
+        "Bloqueo en la COP31 ante la falta de acuerdo sobre la eliminación progresiva de combustibles fósiles.",
+        "Posible descubrimiento de un biomarcador para el diagnóstico de la Encefalopatía Traumática Crónica (CTE) mediante análisis de sangre.",
+        "Movilizaciones juveniles en varias capitales europeas por el acceso a la vivienda y el coste de la vida."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en la cumbre tripartita (Trump-Putin-Xi) y la creciente desconfianza ante el posible uso de IA para planes de sabotaje. Existe una fuerte tendencia a discutir la eficacia de los líderes mundiales para frenar la escalada bélica, junto con la curiosidad técnica sobre la nueva IA 'Gemini 4 Neon'.",
+      "resumen": "Las plataformas digitales mantienen un alto nivel de debate político y ético sobre la influencia de las grandes potencias en el orden mundial y el papel de las nuevas herramientas de automatización en la vida cotidiana.",
       "puntos_clave": [
-        "Escepticismo sobre los resultados de las cumbres de alto nivel.",
-        "Debates sobre la seguridad y el uso militar de la inteligencia artificial."
+        "Viralidad y críticas sobre la postura de Trump ante Putin en foros como X y Reddit.",
+        "Debate ético: ¿es la violencia en los videojuegos una sátira o una apología del delito?",
+        "Expectación técnica por los nuevos modelos de IA y su potencial impacto en la productividad laboral."
       ]
     }
   ]
