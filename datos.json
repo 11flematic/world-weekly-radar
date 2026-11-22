@@ -1,53 +1,59 @@
 {
-  "fecha_actualizacion": "22/11/2026 00:31",
-  "titular_semana": "El mercado tecnológico se sacude con la salida a bolsa de Anthropic mientras persisten los bloqueos en la COP31",
+  "fecha_actualizacion": "22/11/2026 08:39",
+  "titular_semana": "Anthropic protagoniza el mayor IPO tecnológico de la historia mientras persisten las tensiones geopolíticas",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La vida política española está marcada por la recta final hacia las elecciones, con un intenso debate sobre el voto y las alianzas. Destaca el movimiento de la vieja guardia del PSOE, encabezada por miembros del primer gobierno de Felipe González, apoyando la candidatura de Pedro Sánchez ante lo que consideran un riesgo de involución, lo que ha generado fricciones internas con el propio González, quien se inclina por el voto en blanco. Mientras, el Gobierno ha anunciado la inversión de 1.400 millones de euros procedentes del impuesto a la banca en políticas de vivienda.",
+      "resumen": "La campaña electoral española se intensifica en su recta final con un clima de polarización creciente, mientras el Gobierno ultima medidas económicas clave y se celebran eventos masivos como el encendido navideño en Madrid.",
       "puntos_clave": [
-        "Apoyo público de históricos del PSOE a Pedro Sánchez frente a la postura de Felipe González.",
-        "Destino de 1.400 millones de euros del impuesto a la banca a vivienda."
+        "Elevada tensión dialéctica entre PSOE y PP en la recta final de la campaña electoral.",
+        "El Gobierno blindará por ley el traspaso del impuesto a la banca a las comunidades autónomas para políticas de vivienda.",
+        "El PSOE muestra una tendencia al alza en las últimas encuestas electorales."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La semana ha estado dominada por la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares, en un contexto de intensa competencia tras el lanzamiento de nuevos modelos por parte de Google, Microsoft y OpenAI. En el ámbito científico, se ha reportado que Claude, de Anthropic, habría logrado resolver la hipótesis de Riemann, un hito matemático de 167 años, mientras el sector enfrenta presiones regulatorias y críticas sobre la seguridad, evidenciadas por las nuevas restricciones de privacidad en Signal ante riesgos de vigilancia por IA.",
+      "resumen": "El sector tecnológico ha sido sacudido por la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares, y el anuncio de un posible avance matemático histórico resuelto mediante IA.",
       "puntos_clave": [
-        "Salida a bolsa de Anthropic con una valoración de 1,5 billones de dólares.",
-        "Claude (Anthropic) reclama la resolución de la hipótesis de Riemann."
+        "Anthropic debuta en Wall Street con una valoración récord de 1,5 billones de dólares.",
+        "Claude, el modelo de Anthropic, afirma haber resuelto la Hipótesis de Riemann, uno de los problemas del milenio.",
+        "Signal introduce restricciones para evitar capturas de pantalla, citando la amenaza de la vigilancia mediante IA."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La tensión internacional se mantiene en niveles críticos. Ucrania continúa su defensa frente a Rusia, con Zelenski denunciando una escalada y ataques a cargueros rusos en el golfo de Finlandia. Por otro lado, la cumbre entre Trump, Putin y Xi Jinping ha concluido sin acuerdos significativos, mientras crece la preocupación por la vulnerabilidad de las infraestructuras occidentales y las incursiones rusas en espacio soberano de la OTAN, concretamente en Polonia.",
+      "resumen": "La inestabilidad internacional se mantiene alta tras el fracaso de la cumbre tripartita y el endurecimiento de las políticas migratorias europeas hacia Ruanda.",
       "puntos_clave": [
-        "Falta de avances en la cumbre trilateral Trump-Putin-Xi para resolver conflictos.",
-        "Compromiso de la OTAN de defender 'cada centímetro' de Polonia tras incidentes con misiles."
+        "La UE acepta centros de deportación en Ruanda, girando hacia una postura más restrictiva en migración.",
+        "Resultados infructuosos en la cumbre entre Trump, Xi Jinping y Putin respecto a los conflictos en Ucrania e Irán.",
+        "La OTAN reitera su compromiso con Polonia tras incidentes fronterizos con Rusia."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global muestra signos de fragilidad, con un debate abierto sobre la excesiva dependencia de los servicios en la nube de un reducido grupo de proveedores como Google y Microsoft. Paralelamente, la COP31 se encuentra en un punto muerto debido a la falta de consenso sobre el futuro de los combustibles fósiles, amenazando la eficacia de los acuerdos climáticos globales.",
+      "resumen": "Las tensiones geopolíticas y la presión sobre la industria europea marcan una semana donde la energía y la logística se ven afectadas por conflictos y huelgas.",
       "puntos_clave": [
-        "Debate sobre el riesgo sistémico de la dependencia tecnológica en la nube.",
-        "Bloqueo en las negociaciones de la COP31 por desacuerdos sobre combustibles fósiles."
+        "La industria automotriz alemana afronta una crisis estructural buscando su reinvención.",
+        "Convocatoria de huelga nacional en Bélgica que paralizará el tráfico aéreo.",
+        "Baréin denuncia un ataque de Irán contra una infraestructura civil industrial."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el ámbito científico y social, se ha registrado un avance significativo en la detección de la Encefalopatía Traumática Crónica (CTE) mediante un nuevo marcador biológico que permitiría realizar pruebas de sangre. Socialmente, Francia vive su sexto fin de semana consecutivo de movilizaciones ciudadanas, una tendencia que está empezando a replicarse entre los colectivos juveniles en otros países europeos.",
+      "resumen": "La COP31 intenta evitar el colapso de las negociaciones, mientras se registran avances médicos significativos en la detección de enfermedades degenerativas.",
       "puntos_clave": [
-        "Posible avance médico para diagnosticar la enfermedad degenerativa CTE en atletas.",
-        "Persistencia de las protestas sociales en Francia y su extensión a otros países europeos."
+        "Nueva propuesta de acuerdo en la cumbre climática COP31 para evitar el fracaso de las negociaciones.",
+        "Científicos descubren un marcador biológico prometedor para diagnosticar la encefalopatía traumática crónica (CTE) mediante análisis de sangre.",
+        "Denuncia internacional contra los talibanes por privar a las mujeres afganas de su identidad personal."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en la veracidad de los logros en inteligencia artificial y la desconfianza hacia la gestión de grandes corporaciones. Existe una fuerte tendencia a cuestionar si la IA está resolviendo problemas matemáticos complejos o si se trata de optimización de datos, además de una creciente polarización en torno a la postura de Donald Trump respecto a Putin y el futuro de las alianzas occidentales.",
+      "resumen": "La conversación digital se centra en la validez del descubrimiento matemático de Anthropic y la preocupación por la seguridad y soberanía tecnológica.",
       "puntos_clave": [
-        "Escepticismo y debate técnico sobre la resolución de problemas matemáticos por IA.",
-        "Alta viralidad de los enfrentamientos retóricos entre figuras políticas internacionales."
+        "Intenso debate en Reddit sobre la veracidad de la solución a la Hipótesis de Riemann propuesta por Claude.",
+        "Tendencia de búsqueda sobre las implicaciones del ciberataque al FBI en la política estadounidense.",
+        "Discusión sobre el futuro de los centros de datos fuera de EE. UU. ante las posibles represalias fiscales de Trump."
       ]
     }
   ]
