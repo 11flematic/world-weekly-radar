@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "21/11/2026 16:32",
-  "titular_semana": "La salida a bolsa de Anthropic marca un hito tecnológico mientras la inestabilidad geopolítica se intensifica",
+  "fecha_actualizacion": "22/11/2026 00:31",
+  "titular_semana": "El mercado tecnológico se sacude con la salida a bolsa de Anthropic mientras persisten los bloqueos en la COP31",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "El debate político nacional sigue marcado por la reciente confrontación entre Pedro Sánchez y Alberto Núñez Feijóo, mientras el Gobierno prepara medidas económicas clave y la gestión de infraestructuras cobra relevancia. Socialmente, el país se prepara para el inicio de las festividades navideñas en un clima de debate político activo.",
+      "resumen": "La vida política española está marcada por la recta final hacia las elecciones, con un intenso debate sobre el voto y las alianzas. Destaca el movimiento de la vieja guardia del PSOE, encabezada por miembros del primer gobierno de Felipe González, apoyando la candidatura de Pedro Sánchez ante lo que consideran un riesgo de involución, lo que ha generado fricciones internas con el propio González, quien se inclina por el voto en blanco. Mientras, el Gobierno ha anunciado la inversión de 1.400 millones de euros procedentes del impuesto a la banca en políticas de vivienda.",
       "puntos_clave": [
-        "El Gobierno prorrogará el impuesto a la banca hasta 2027 para financiar políticas de vivienda.",
-        "Intensa actividad política tras el cara a cara entre Sánchez y Feijóo; los partidos se movilizan en actos públicos."
+        "Apoyo público de históricos del PSOE a Pedro Sánchez frente a la postura de Felipe González.",
+        "Destino de 1.400 millones de euros del impuesto a la banca a vivienda."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La semana ha estado dominada por la histórica salida a bolsa de Anthropic, cuyas acciones han experimentado un crecimiento notable, atrayendo masivamente a inversores a pesar de la volatilidad en el sector tecnológico. Paralelamente, se ha generado un debate científico global tras el anuncio de que un modelo de IA habría logrado resolver la Hipótesis de Riemann.",
+      "resumen": "La semana ha estado dominada por la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares, en un contexto de intensa competencia tras el lanzamiento de nuevos modelos por parte de Google, Microsoft y OpenAI. En el ámbito científico, se ha reportado que Claude, de Anthropic, habría logrado resolver la hipótesis de Riemann, un hito matemático de 167 años, mientras el sector enfrenta presiones regulatorias y críticas sobre la seguridad, evidenciadas por las nuevas restricciones de privacidad en Signal ante riesgos de vigilancia por IA.",
       "puntos_clave": [
-        "Debate académico sobre la validez de la resolución de la Hipótesis de Riemann asistida por Claude (Anthropic).",
-        "Presión regulatoria: Donald Trump amenaza con impuestos a centros de datos situados fuera de EE. UU."
+        "Salida a bolsa de Anthropic con una valoración de 1,5 billones de dólares.",
+        "Claude (Anthropic) reclama la resolución de la hipótesis de Riemann."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La tensión persiste en el conflicto en Ucrania y Oriente Próximo. Las relaciones internacionales están marcadas por la incertidumbre tras la cumbre trilateral entre Trump, Xi y Putin, que no ha arrojado resultados tangibles, y el creciente temor a que las infraestructuras críticas se conviertan en el principal blanco de sabotajes.",
+      "resumen": "La tensión internacional se mantiene en niveles críticos. Ucrania continúa su defensa frente a Rusia, con Zelenski denunciando una escalada y ataques a cargueros rusos en el golfo de Finlandia. Por otro lado, la cumbre entre Trump, Putin y Xi Jinping ha concluido sin acuerdos significativos, mientras crece la preocupación por la vulnerabilidad de las infraestructuras occidentales y las incursiones rusas en espacio soberano de la OTAN, concretamente en Polonia.",
       "puntos_clave": [
-        "Ucrania intensifica ataques contra cargueros rusos y mantiene una postura firme frente a Rusia.",
-        "Dinamarca denuncia un supuesto plan ruso para asesinar a un rapero ucraniano en su territorio."
+        "Falta de avances en la cumbre trilateral Trump-Putin-Xi para resolver conflictos.",
+        "Compromiso de la OTAN de defender 'cada centímetro' de Polonia tras incidentes con misiles."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Los mercados han registrado una jornada de ventas en el sector tecnológico, arrastrados por la inestabilidad. La economía global muestra signos de vulnerabilidad ante la dependencia crítica de un número limitado de proveedores de infraestructura digital y energética.",
+      "resumen": "La economía global muestra signos de fragilidad, con un debate abierto sobre la excesiva dependencia de los servicios en la nube de un reducido grupo de proveedores como Google y Microsoft. Paralelamente, la COP31 se encuentra en un punto muerto debido a la falta de consenso sobre el futuro de los combustibles fósiles, amenazando la eficacia de los acuerdos climáticos globales.",
       "puntos_clave": [
-        "Venta masiva de acciones tecnológicas tras la volatilidad post-IPO de Anthropic.",
-        "Bloqueo en la cumbre climática COP31 debido a disputas sobre el uso de combustibles fósiles."
+        "Debate sobre el riesgo sistémico de la dependencia tecnológica en la nube.",
+        "Bloqueo en las negociaciones de la COP31 por desacuerdos sobre combustibles fósiles."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "El cambio climático sigue golpeando los ecosistemas locales, con temperaturas inusualmente altas que amenazan los glaciares andinos. En el ámbito social, Francia atraviesa una sexta semana consecutiva de protestas marcadas por la presencia de sindicatos y los 'chalecos amarillos'.",
+      "resumen": "En el ámbito científico y social, se ha registrado un avance significativo en la detección de la Encefalopatía Traumática Crónica (CTE) mediante un nuevo marcador biológico que permitiría realizar pruebas de sangre. Socialmente, Francia vive su sexto fin de semana consecutivo de movilizaciones ciudadanas, una tendencia que está empezando a replicarse entre los colectivos juveniles en otros países europeos.",
       "puntos_clave": [
-        "Descubrimiento de un posible biomarcador en sangre para diagnosticar la encefalopatía traumática crónica (CTE).",
-        "Persistencia de movilizaciones sociales en Francia con fuerte componente musical y reivindicativo."
+        "Posible avance médico para diagnosticar la enfermedad degenerativa CTE en atletas.",
+        "Persistencia de las protestas sociales en Francia y su extensión a otros países europeos."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las comunidades digitales en Reddit y X se han volcado en el análisis técnico y especulativo sobre la supuesta resolución de la Hipótesis de Riemann mediante IA. En el plano político, el tono es de escepticismo ante la ineficacia de las cumbres internacionales para resolver los conflictos armados activos.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en la veracidad de los logros en inteligencia artificial y la desconfianza hacia la gestión de grandes corporaciones. Existe una fuerte tendencia a cuestionar si la IA está resolviendo problemas matemáticos complejos o si se trata de optimización de datos, además de una creciente polarización en torno a la postura de Donald Trump respecto a Putin y el futuro de las alianzas occidentales.",
       "puntos_clave": [
-        "Intenso debate en foros especializados sobre la fiabilidad de las pruebas matemáticas generadas por IA.",
-        "Crítica ciudadana en redes sobre el impacto de la polarización política y el escepticismo ante la diplomacia de alto nivel."
+        "Escepticismo y debate técnico sobre la resolución de problemas matemáticos por IA.",
+        "Alta viralidad de los enfrentamientos retóricos entre figuras políticas internacionales."
       ]
     }
   ]
