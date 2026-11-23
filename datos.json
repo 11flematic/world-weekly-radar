@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "23/11/2026 00:37",
-  "titular_semana": "La COP31 concluye sin acuerdo global y Anthropic protagoniza un hito histórico en el mercado de la IA",
+  "fecha_actualizacion": "23/11/2026 09:07",
+  "titular_semana": "La inestabilidad geopolítica y el controvertido estreno bursátil de Anthropic marcan una semana de parálisis climática",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La recta final de la campaña electoral se intensifica con un clima de alta polarización política entre el bloque PSOE y la alianza PP-Vox, mientras el voto exterior registra una participación inusualmente alta. En el ámbito social, un grave accidente en la 'Cursa de les Dones' en Barcelona, provocado por la caída de mobiliario urbano, ha dejado varios heridos de gravedad.",
+      "resumen": "España se encuentra inmersa en la recta final de la campaña para las elecciones generales del 29-N. Los sondeos consolidan una ventaja de la derecha, mientras el PSOE intenta movilizar a su electorado bajo un clima de polarización social. El voto se presenta muy segmentado por grupos profesionales y sectores demográficos.",
       "puntos_clave": [
-        "Alta tensión electoral entre las principales fuerzas políticas ante los comicios del 29-N.",
-        "Accidente grave en Barcelona con doce heridos tras la caída de árboles y una farola durante una prueba deportiva."
+        "PP y Vox alcanzan una proyección conjunta de 210 escaños, complicando las aspiraciones de remontada del PSOE.",
+        "Largas colas en consulados españoles en el extranjero reflejan una alta movilización en el voto exterior."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La empresa Anthropic ha marcado un hito en el sector al salir a bolsa con una valoración de 1,5 billones de dólares. Paralelamente, el debate sobre la seguridad y regulación de la IA se intensifica, con intentos fallidos en la ONU para legislar sobre los denominados 'robots asesinos' y nuevas políticas de restricción de capturas de pantalla en Signal para mitigar riesgos de vigilancia.",
+      "resumen": "El sector tecnológico vive una semana histórica con la salida a bolsa de Anthropic, valorada en 1,5 billones de dólares. A pesar del entusiasmo inversor, crece la preocupación por los riesgos de seguridad, el impacto energético de los centros de datos y la necesidad de regular aplicaciones críticas como los 'robots asesinos', tema en el que la ONU no ha logrado un consenso.",
       "puntos_clave": [
-        "Anthropic debuta en bolsa con una valoración de 1,5 billones de dólares.",
-        "Fracaso de la ONU en la regulación de sistemas de armas autónomas letales."
+        "Anthropic debuta en el mercado con una valoración récord de 1,5 billones de dólares.",
+        "Aumenta la inquietud sobre el desarrollo descontrolado de la IA, con voces internas en OpenAI abogando por límites regulatorios."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La inestabilidad global se mantiene con ataques con drones a buques rusos en Libia y en el Báltico, así como intensos bombardeos en Ucrania y Sudán. A nivel europeo, la UE ha adoptado una postura más restrictiva en política migratoria al aceptar el modelo de centros de deportación en Ruanda.",
+      "resumen": "Persiste la tensión bélica en Ucrania y Oriente Medio, mientras los esfuerzos diplomáticos muestran signos de estancamiento. Destaca el ataque con drones ucranianos contra un buque ruso en aguas de Libia y las maniobras de Netanyahu para mantenerse en el poder, a pesar de las críticas internas y la ineficacia de las cumbres internacionales recientes.",
       "puntos_clave": [
-        "Ataques con drones contra objetivos navales rusos en el Mediterráneo y el Báltico.",
-        "La UE vira hacia una línea dura en migración mediante externalización de centros de deportación."
+        "Ucrania asume la autoría del ataque a un buque de guerra ruso frente a las costas de Libia.",
+        "Fracaso de la cumbre trilateral entre Trump, Xi y Putin sin avances en la resolución de conflictos globales."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La COP31 ha finalizado sin la consecución de un acuerdo significativo, evidenciando una profunda fractura entre los países sobre la financiación climática y la hoja de ruta para el abandono de los combustibles fósiles, lo que ha generado una fuerte frustración en la ONU.",
+      "resumen": "El foco económico global se desplaza hacia la burbuja de la inteligencia artificial, con inversores volcados en Anthropic pese a las advertencias sobre una posible corrección del mercado. En el ámbito político-económico europeo, el posible acuerdo entre Burnham y la UE intenta proyectar una salida estable a la era post-Brexit.",
       "puntos_clave": [
-        "Fracaso de la cumbre climática COP31 ante la falta de consenso en combustibles fósiles.",
-        "Volatilidad en los mercados tecnológicos ante el escrutinio sobre el consumo energético de los centros de datos."
+        "Fuerte incertidumbre sobre la sostenibilidad del 'boom' de inversiones en IA tras la salida a bolsa de Anthropic.",
+        "El impacto de los centros de datos en el consumo energético y la infraestructura se convierte en un punto de fricción para las grandes tecnológicas."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el plano científico, destaca la llegada de la sonda BepiColombo a la órbita de Mercurio tras ocho años de misión. En el ámbito deportivo, los atletas españoles Carlos Alcaraz y Marc Márquez han logrado hitos históricos al conquistar el Masters ATP y su octavo título de MotoGP, respectivamente.",
+      "resumen": "La COP31 concluye sin un acuerdo concreto, marcando un fracaso diplomático histórico. La frustración es palpable entre las delegaciones y la ONU, mientras la actividad sísmica en la región de Vanuatu y la constante crisis humanitaria en Ucrania completan un balance social negativo esta semana.",
       "puntos_clave": [
-        "La sonda BepiColombo inicia su fase de observación tras alcanzar Mercurio.",
-        "Éxitos deportivos internacionales para Carlos Alcaraz y Marc Márquez."
+        "La COP31 finaliza sin consenso tras ser la cumbre más larga y decepcionante de la historia.",
+        "Dos terremotos de magnitud 6,5 y 4,9 sacuden la zona de Vanuatu sin reportar víctimas graves hasta el momento."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las redes sociales muestran una creciente preocupación por las tensiones geopolíticas, destacando el debate sobre las declaraciones de Trump respecto a Putin y las posibles repercusiones en las alianzas de defensa. En el plano tecnológico, el escepticismo sobre el impacto de la IA en la privacidad y la seguridad sigue siendo el tema central en comunidades como Reddit.",
+      "resumen": "Las comunidades digitales en X y plataformas de debate se centran en el análisis crítico de la IA y el impacto de los resultados electorales estadounidenses. La figura de Trump y la política tecnológica dominan la conversación, reflejando una creciente polarización sobre el control y la ética de las corporaciones tecnológicas.",
       "puntos_clave": [
-        "Rechazo en redes sociales ante la retórica sobre el conflicto en Ucrania.",
-        "Debate viral sobre los riesgos existenciales de la IA y la vigilancia digital."
+        "Debate encendido sobre la IA, su vigilancia y los límites éticos en el desarrollo de agentes autónomos.",
+        "Alta atención mediática y en redes sociales tras la histórica victoria demócrata en la Cámara de Representantes de EE. UU."
       ]
     }
   ]
