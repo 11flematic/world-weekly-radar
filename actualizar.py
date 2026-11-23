@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -24,12 +25,13 @@ FUENTES = [
     "https://news.google.com/rss/search?q=site:x.com+breaking+world+news+OR+AI+breakthrough&hl=en-US&gl=US&ceid=US:en"
 ]
 
+
 def obtener_titulares():
     recopilacion = []
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
     }
-    
+
     for url in FUENTES:
         try:
             req = urllib.request.Request(url, headers=headers)
@@ -47,53 +49,27 @@ def obtener_titulares():
                         recopilacion.append(f"- {titulo.strip()} ({link})")
         except Exception as e:
             print(f"Saltando fuente {url}: {e}")
-            
+
     return "\n".join(recopilacion)
 
-import time
 
-def obtener_modelos_flash(client):
-    modelos = ["gemini-3.8-flash"]
+def obtener_candidatos_modelo(client):
+    candidatos = []
+    excluidos = ("2.5", "2.0", "1.5", "embedding", "imagen", "veo", "tts", "aqa", "robotics", "computer-use")
+
     try:
         for m in client.models.list():
             nombre = m.name.replace("models/", "")
-            if "flash" in nombre and "2.5" not in nombre and nombre not in modelos:
-                modelos.append(nombre)
-    except Exception:
-        pass
-    return modelos
-
-modelos = obtener_modelos_flash(client)
-ultimo_error = None
-
-for modelo in modelos:
-    print(f"Probando modelo: {modelo}")
-    for intento in range(3):
-        try:
-            # Tu llamada actual a client.models.generate_content(...)
-            response = client.models.generate_content(
-                model=modelo,
-                contents=prompt,
-                config=config,
-            )
-            return response.text
-        except Exception as e:
-            ultimo_error = e
-            error_str = str(e)
-            if ("503" in error_str or "UNAVAILABLE" in error_str) and intento < 2:
-                espera = (intento + 1) * 15  # Espera 15s y luego 30s
-                print(f"Modelo saturado (503). Reintentando {modelo} en {espera}s...")
-                time.sleep(espera)
-                continue
-            print(f"No disponible {modelo}: {e}")
-            break
-
-raise RuntimeError(f"Ningún modelo pudo generar el resumen. Último error: {ultimo_error}")
+            if "gemini" in nombre and not any(x in nombre for x in excluidos):
+                if nombre not in candidatos:
+                    candidatos.append(nombre)
+    except Exception as e:
+        print(f"Aviso al listar modelos: {e}")
 
     def prioridad(nombre):
         if nombre == "gemini-3.8-flash":
-            return 99
-        if "3" in nombre and "flash" in nombre:
+            return 0
+        if "3.8" in nombre and "flash" in nombre:
             return 1
         if "flash-lite" in nombre:
             return 2
@@ -104,17 +80,20 @@ raise RuntimeError(f"Ningún modelo pudo generar el resumen. Último error: {ult
         return 5
 
     candidatos.sort(key=prioridad)
-    return candidatos or ["gemini-3.8-flash", "gemini-3.8-flash"]
+    if "gemini-3.8-flash" not in candidatos:
+        candidatos.insert(0, "gemini-3.8-flash")
+    return candidatos
+
 
 def generar_resumen(texto_bruto):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    
+
     prompt = f"""
     Eres un editor jefe de actualidad internacional, española y tecnológica. Analiza estos titulares, reportes y debates de esta semana y redacta un resumen ejecutivo en español de España, objetivo, directo y sin sensacionalismo.
     
     Reglas:
-    - Agrupa noticias repetidas sobre el mismo suceso y prioriza los hechos de mayor impacto.
-    - Devuelve ÚNICAMENTE un objeto JSON válido con esta estructura exacta (sin bloques markdown ```json):
+- Agrupa noticias repetidas sobre el mismo suceso y prioriza los hechos de mayor impacto.
+- Devuelve ÚNICAMENTE un objeto JSON válido con esta estructura exacta (sin bloques markdown ```json):
     {{
       "fecha_actualizacion": "{datetime.now().strftime('%d/%m/%Y %H:%M')}",
       "titular_semana": "Frase breve y directa con el acontecimiento más relevante de la semana",
@@ -155,22 +134,31 @@ def generar_resumen(texto_bruto):
     Datos recopilados:
     {texto_bruto}
     """
-    
+
     ultimo_error = None
     for modelo in obtener_candidatos_modelo(client):
-        try:
-            print(f"Probando modelo: {modelo}")
-            response = client.models.generate_content(
-                model=modelo,
-                contents=prompt
-            )
-            limpio = response.text.strip().removeprefix("```json").removesuffix("```").strip()
-            return json.loads(limpio)
-        except Exception as e:
-            print(f"No disponible {modelo}: {e}")
-            ultimo_error = e
+        print(f"Probando modelo: {modelo}")
+        for intento in range(3):
+            try:
+                response = client.models.generate_content(
+                    model=modelo,
+                    contents=prompt
+                )
+                limpio = response.text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+                return json.loads(limpio)
+            except Exception as e:
+                ultimo_error = e
+                error_str = str(e)
+                if ("503" in error_str or "UNAVAILABLE" in error_str) and intento < 2:
+                    espera = (intento + 1) * 15
+                    print(f"Modelo saturado (503). Reintentando {modelo} en {espera}s...")
+                    time.sleep(espera)
+                    continue
+                print(f"No disponible {modelo}: {e}")
+                break
 
     raise RuntimeError(f"Ningún modelo pudo generar el resumen. Último error: {ultimo_error}")
+
 
 if __name__ == "__main__":
     noticias = obtener_titulares()
