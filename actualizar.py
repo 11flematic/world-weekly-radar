@@ -62,7 +62,7 @@ def obtener_candidatos_modelo(client):
         print(f"Error listando modelos: {e}")
 
     def prioridad(nombre):
-        if nombre == "gemini-2.5-flash":
+        if nombre == "gemini-3.8-flash":
             return 99
         if "3" in nombre and "flash" in nombre:
             return 1
@@ -75,7 +75,7 @@ def obtener_candidatos_modelo(client):
         return 5
 
     candidatos.sort(key=prioridad)
-    return candidatos or ["gemini-2.5-flash-lite", "gemini-2.0-flash"]
+    return candidatos or ["gemini-3.8-flash", "gemini-3.8-flash"]
 
 def generar_resumen(texto_bruto):
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
