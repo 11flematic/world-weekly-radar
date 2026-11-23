@@ -50,16 +50,45 @@ def obtener_titulares():
             
     return "\n".join(recopilacion)
 
-def obtener_candidatos_modelo(client):
-    candidatos = []
-    excluidos = ("embedding", "imagen", "veo", "tts", "audio", "image", "aqa", "robotics", "computer-use")
+import time
+
+def obtener_modelos_flash(client):
+    modelos = ["gemini-3.8-flash"]
     try:
         for m in client.models.list():
             nombre = m.name.replace("models/", "")
-            if "gemini" in nombre.lower() and not any(x in nombre.lower() for x in excluidos):
-                candidatos.append(nombre)
-    except Exception as e:
-        print(f"Error listando modelos: {e}")
+            if "flash" in nombre and "2.5" not in nombre and nombre not in modelos:
+                modelos.append(nombre)
+    except Exception:
+        pass
+    return modelos
+
+modelos = obtener_modelos_flash(client)
+ultimo_error = None
+
+for modelo in modelos:
+    print(f"Probando modelo: {modelo}")
+    for intento in range(3):
+        try:
+            # Tu llamada actual a client.models.generate_content(...)
+            response = client.models.generate_content(
+                model=modelo,
+                contents=prompt,
+                config=config,
+            )
+            return response.text
+        except Exception as e:
+            ultimo_error = e
+            error_str = str(e)
+            if ("503" in error_str or "UNAVAILABLE" in error_str) and intento < 2:
+                espera = (intento + 1) * 15  # Espera 15s y luego 30s
+                print(f"Modelo saturado (503). Reintentando {modelo} en {espera}s...")
+                time.sleep(espera)
+                continue
+            print(f"No disponible {modelo}: {e}")
+            break
+
+raise RuntimeError(f"Ningún modelo pudo generar el resumen. Último error: {ultimo_error}")
 
     def prioridad(nombre):
         if nombre == "gemini-3.8-flash":
