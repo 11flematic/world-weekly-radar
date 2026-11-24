@@ -1,59 +1,53 @@
 {
-  "fecha_actualizacion": "23/11/2026 17:50",
-  "titular_semana": "El retorno de Jensen Huang a Nvidia y el debut multimillonario de Anthropic marcan una semana de estancamiento diplomático global",
+  "fecha_actualizacion": "24/11/2026 00:41",
+  "titular_semana": "La inestabilidad geopolítica y los cambios en el liderazgo tecnológico marcan la agenda global",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "España afronta la recta final de la campaña para las elecciones generales del 29-N con encuestas polarizadas entre el CIS y los sondeos privados. En el plano legislativo y judicial, el Tribunal Supremo ha cerrado definitivamente la causa contra Carles Puigdemont tras aplicar la ley de amnistía, mientras desde el Gobierno se propone un nuevo tributo a patrimonios superiores a 100 millones de euros.",
+      "resumen": "La actividad política se centra en la precampaña electoral para el 29N con una clara división en dos bloques. Mientras el PSOE busca consolidar voto, la derecha mantiene su ventaja en las encuestas, evidenciando un clima polarizado. Paralelamente, el Tribunal Supremo ha archivado definitivamente la causa contra Puigdemont mediante la aplicación de la amnistía, y el Gobierno ha anunciado nuevas medidas sociales, como el aumento del permiso por fallecimiento y la propuesta de un impuesto a las grandes fortunas.",
       "puntos_clave": [
-        "Campaña del 29-N en la recta final con fuerte presencia en redes sociales y sondeos dispares.",
-        "El Tribunal Supremo archiva definitivamente la causa contra Puigdemont al aplicar la amnistía.",
-        "Propuesta fiscal para gravar fortunas de más de 100 millones con destino a vivienda y pensiones."
+        "Cierre judicial del caso Puigdemont por la Ley de Amnistía.",
+        "Debate a ocho entre partidos que escenifica la división entre bloques de cara al 29N."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector tecnológico registra movimientos de gran calado con la restitución de Jensen Huang como consejero delegado de Nvidia tras apoyos políticos explícitos desde EE. UU. En paralelo, Anthropic ha formalizado una histórica Salida a Bolsa valorada en 1,5 billones de dólares, coincidiendo con la presentación de modelos de competencia como GPT-6.2 y la adquisición de Decart por parte de Amazon por 7.500 millones.",
+      "resumen": "El sector vive un momento de gran agitación financiera y corporativa. Anthropic ha salido a bolsa con una valoración histórica de 1,5 billones de dólares. En Nvidia, Jensen Huang ha sido restituido como CEO en un movimiento impulsado por la administración Trump, mientras la empresa Megaspeed enfrenta sanciones comerciales de EE. UU. por el desvío de chips hacia China. Tecnológicamente, destaca la integración de agentes de IA en el flujo de trabajo de desarrollo (Anthropic) y en herramientas personales de Google.",
       "puntos_clave": [
-        "Jensen Huang retoma la dirección de Nvidia con respaldo de la administración estadounidense.",
-        "Debut bursátil de Anthropic alcanzando una valoración de 1,5 billones de dólares.",
-        "Amazon adquiere la tecnología de optimización de IA de Decart por 7.500 millones de dólares."
+        "Salida a bolsa histórica de Anthropic con una valoración de 1,5 billones de dólares.",
+        "Restitución de Jensen Huang en Nvidia y bloqueo comercial a Megaspeed por EE. UU."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La cumbre trilateral entre Estados Unidos, China y Rusia ha concluido sin acuerdos concretos sobre los conflictos en Ucrania o Irán. En el ámbito operativo, Ucrania ha reivindicado ataques con drones contra embarcaciones rusas en aguas de Libia y el mar Báltico, mientras la OTAN insiste en que no aceptará un repliegue de tropas en su flanco oriental.",
+      "resumen": "La tensión en Ucrania persiste, con informes que cifran en más de 700.000 las bajas militares rusas. El conflicto se ha expandido inesperadamente hasta Libia, donde drones ucranianos han alcanzado buques rusos. En el ámbito diplomático, la cumbre trilateral entre Trump, Xi y Putin concluyó sin acuerdos significativos para resolver las guerras en curso, y continúa la presión internacional contra el régimen iraní por la represión a sus ciudadanos.",
       "puntos_clave": [
-        "Finaliza sin compromisos ni avances significativos la cumbre trilateral Trump-Xi-Putin.",
-        "Ucrania extiende sus operaciones con drones contra buques rusos en Libia y el Báltico.",
-        "La OTAN califica de inaceptable la retirada de efectivos en el flanco este de Europa."
+        "Ataque ucraniano a buques rusos en Libia, expandiendo el teatro de operaciones.",
+        "Ausencia de acuerdos en la cumbre trilateral de líderes mundiales."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "El encarecimiento del coste de vida continúa provocando descontento y manifestaciones en diversos países europeos. En el panorama de comercio e innovación internacional, el auge de centros tecnológicos en Asia redefine alianzas estratégicas frente a políticas migratorias y comerciales más restrictivas en la economía estadounidense.",
+      "resumen": "Los mercados permanecen atentos a la volatilidad política y las repercusiones del sector tecnológico. Existe una creciente preocupación por el consumo energético de los centros de datos de IA, que está complicando los compromisos climáticos globales. Mientras tanto, en Latinoamérica, se observa una consolidación de la cooperación en inteligencia entre México y EE. UU. frente al narcotráfico y una profundización de la crisis de pobreza en Argentina.",
       "puntos_clave": [
-        "Movilizaciones en Europa por la presión del coste de vida y la inflación persistente.",
-        "Creciente peso del eje tecnológico asiático frente a la incertidumbre comercial de EE. UU.",
-        "Endurecimiento de políticas de deportación y control fronterizo por parte de las autoridades norteamericanas."
+        "Impacto del consumo energético de la IA en las cumbres climáticas.",
+        "Cooperación de inteligencia EE. UU.-México frente al crimen organizado."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La cumbre climática COP31 finalizó sin un consenso formal, desencadenando duras críticas e impulsando peticiones de reforma en el sistema multilaterales de negociación ambiental. Por otro lado, la crisis humanitaria en Gaza sigue agravándose con denuncias sobre daños ecológicos irreparables, mientras Nigeria despliega labores de rescate tras un grave accidente marítimo.",
+      "resumen": "La COP31 ha terminado sin alcanzar acuerdos significativos, dejando patente una fractura global frente a la crisis climática. En el ámbito social, Oxfam ha denunciado el estado de devastación ambiental en Gaza, mientras el debate sobre la seguridad internacional ha vuelto a poner sobre la mesa la amenaza de una hipotética detonación nuclear en el espacio y sus catastróficas consecuencias para la infraestructura tecnológica global.",
       "puntos_clave": [
-        "Fracaso de la COP31 sin resolución final, generando exigencias de reforma en los foros del clima.",
-        "Informes humanitarios advierten de la severa degradación ambiental y social en la Franja de Gaza.",
-        "Operativo de emergencia en Nigeria tras el hundimiento de una embarcación con numerosos desaparecidos."
+        "Fracaso de la COP31 reflejo de la desunión internacional.",
+        "Preocupación científica por la posible presencia de armas nucleares rusas en el espacio."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "El foco del debate digital esta semana se ha centrado en la restitución del liderazgo en Nvidia y las implicaciones de la injerencia política en el sector privado. Asimismo, el estreno bursátil de Anthropic, la recepción de los nuevos modelos de lenguaje y la campaña electoral en España acumulan un alto volumen de conversación en redes sociales.",
+      "resumen": "Las redes sociales muestran un creciente escepticismo sobre el despliegue acelerado de la IA, con un debate centrado en las 'regresiones' o dudas post-boom tecnológico. En X y foros especializados, se discute intensamente la impunidad de los líderes tecnológicos tras el caso Nvidia y el papel de las plataformas predictivas en la especulación de mercados financieros.",
       "puntos_clave": [
-        "Debate masivo sobre la vuelta de Jensen Huang a Nvidia y el papel de la Casa Blanca.",
-        "Conversación dividida ante la valoración récord de Anthropic frente al rendimiento de GPT-6.2.",
-        "Alta viralidad e impacto mediático en torno a los actos y debates del tramo final del 29-N."
+        "Debate social sobre el desencanto frente a la burbuja de la Inteligencia Artificial.",
+        "Críticas sobre la impunidad de las élites corporativas en el sector tecnológico."
       ]
     }
   ]
