@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "24/11/2026 00:41",
-  "titular_semana": "La inestabilidad geopolítica y los cambios en el liderazgo tecnológico marcan la agenda global",
+  "fecha_actualizacion": "24/11/2026 08:52",
+  "titular_semana": "El retorno de Jensen Huang a Nvidia y la incertidumbre geopolítica marcan la agenda internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La actividad política se centra en la precampaña electoral para el 29N con una clara división en dos bloques. Mientras el PSOE busca consolidar voto, la derecha mantiene su ventaja en las encuestas, evidenciando un clima polarizado. Paralelamente, el Tribunal Supremo ha archivado definitivamente la causa contra Puigdemont mediante la aplicación de la amnistía, y el Gobierno ha anunciado nuevas medidas sociales, como el aumento del permiso por fallecimiento y la propuesta de un impuesto a las grandes fortunas.",
+      "resumen": "La campaña electoral para los comicios del 29N se intensifica tras un debate a ocho que ha evidenciado la profunda fractura entre los bloques de izquierda y derecha. Mientras el PSOE y sus aliados confrontan la gestión del PP y Vox, surgen polémicas sobre la transparencia en Correos y el impacto del voto femenino, que emerge como un factor determinante ante el alto número de indecisos.",
       "puntos_clave": [
-        "Cierre judicial del caso Puigdemont por la Ley de Amnistía.",
-        "Debate a ocho entre partidos que escenifica la división entre bloques de cara al 29N."
+        "Debate a ocho en RTVE: escenificación de la división ideológica.",
+        "El voto femenino, factor clave: las mujeres superan en 1,2 millones a los hombres en el censo."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive un momento de gran agitación financiera y corporativa. Anthropic ha salido a bolsa con una valoración histórica de 1,5 billones de dólares. En Nvidia, Jensen Huang ha sido restituido como CEO en un movimiento impulsado por la administración Trump, mientras la empresa Megaspeed enfrenta sanciones comerciales de EE. UU. por el desvío de chips hacia China. Tecnológicamente, destaca la integración de agentes de IA en el flujo de trabajo de desarrollo (Anthropic) y en herramientas personales de Google.",
+      "resumen": "El sector tecnológico vive una semana marcada por la polémica reincorporación de Jensen Huang al frente de Nvidia, bajo la mediación de Donald Trump. Paralelamente, Anthropic ha salido a bolsa mientras sus modelos de IA comienzan a integrar capacidades de autogestión de código, y Google ha ampliado la personalización de su buscador mediante el acceso a herramientas privadas del usuario.",
       "puntos_clave": [
-        "Salida a bolsa histórica de Anthropic con una valoración de 1,5 billones de dólares.",
-        "Restitución de Jensen Huang en Nvidia y bloqueo comercial a Megaspeed por EE. UU."
+        "Retorno de Jensen Huang a Nvidia tras el escándalo comercial.",
+        "Lanzamiento de 'Claude Ship' y avances en agentes de IA autónomos."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La tensión en Ucrania persiste, con informes que cifran en más de 700.000 las bajas militares rusas. El conflicto se ha expandido inesperadamente hasta Libia, donde drones ucranianos han alcanzado buques rusos. En el ámbito diplomático, la cumbre trilateral entre Trump, Xi y Putin concluyó sin acuerdos significativos para resolver las guerras en curso, y continúa la presión internacional contra el régimen iraní por la represión a sus ciudadanos.",
+      "resumen": "La inestabilidad global persiste sin grandes avances tras la cumbre tripartita entre Trump, Xi y Putin. La guerra en Ucrania muestra signos de expansión tras el ataque a un buque ruso en aguas de Libia, mientras que la OTAN ha elevado su alerta ante las amenazas rusas en el sector espacial y la tensión en Cisjordania escala con los ataques a infraestructuras sanitarias.",
       "puntos_clave": [
-        "Ataque ucraniano a buques rusos en Libia, expandiendo el teatro de operaciones.",
-        "Ausencia de acuerdos en la cumbre trilateral de líderes mundiales."
+        "Ausencia de acuerdos significativos en la cumbre Trump-Xi-Putin.",
+        "Escalada de tensiones en Libia tras el ataque a un buque ruso."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Los mercados permanecen atentos a la volatilidad política y las repercusiones del sector tecnológico. Existe una creciente preocupación por el consumo energético de los centros de datos de IA, que está complicando los compromisos climáticos globales. Mientras tanto, en Latinoamérica, se observa una consolidación de la cooperación en inteligencia entre México y EE. UU. frente al narcotráfico y una profundización de la crisis de pobreza en Argentina.",
+      "resumen": "El mercado ha reaccionado con euforia ante la resolución del caso Nvidia, provocando subidas en las bolsas asiáticas. En paralelo, Estados Unidos ha intensificado las restricciones comerciales incluyendo a la empresa Megaspeed en su lista negra por el desvío de tecnología crítica hacia China, en un contexto donde el diálogo político en Venezuela concluye sin avances económicos.",
       "puntos_clave": [
-        "Impacto del consumo energético de la IA en las cumbres climáticas.",
-        "Cooperación de inteligencia EE. UU.-México frente al crimen organizado."
+        "Repunte bursátil en Asia vinculado a la estabilidad en Nvidia.",
+        "EE. UU. endurece sanciones contra empresas por el desvío de chips a China."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La COP31 ha terminado sin alcanzar acuerdos significativos, dejando patente una fractura global frente a la crisis climática. En el ámbito social, Oxfam ha denunciado el estado de devastación ambiental en Gaza, mientras el debate sobre la seguridad internacional ha vuelto a poner sobre la mesa la amenaza de una hipotética detonación nuclear en el espacio y sus catastróficas consecuencias para la infraestructura tecnológica global.",
+      "resumen": "La crisis climática se encuentra en un punto crítico tras el estancamiento de la COP31, agravado por el creciente consumo energético de los centros de datos de IA. En el ámbito sanitario, se han registrado avances significativos en la detección de la Encefalopatía Traumática Crónica (CTE), ofreciendo esperanzas de un diagnóstico temprano mediante análisis de sangre.",
       "puntos_clave": [
-        "Fracaso de la COP31 reflejo de la desunión internacional.",
-        "Preocupación científica por la posible presencia de armas nucleares rusas en el espacio."
+        "Fracaso de la COP31 y debate sobre el consumo energético de la IA.",
+        "Avance científico en el diagnóstico de la CTE en deportistas."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las redes sociales muestran un creciente escepticismo sobre el despliegue acelerado de la IA, con un debate centrado en las 'regresiones' o dudas post-boom tecnológico. En X y foros especializados, se discute intensamente la impunidad de los líderes tecnológicos tras el caso Nvidia y el papel de las plataformas predictivas en la especulación de mercados financieros.",
+      "resumen": "El debate digital se centra en la especulación teórica sobre la resolución de problemas matemáticos milenarios (P vs NP) supuestamente abordados por modelos de IA. Asimismo, persiste una fuerte polarización en X y Reddit sobre la impunidad de las élites corporativas y los derechos humanos, tras la condena a una cantante iraní por actuar sin hiyab.",
       "puntos_clave": [
-        "Debate social sobre el desencanto frente a la burbuja de la Inteligencia Artificial.",
-        "Críticas sobre la impunidad de las élites corporativas en el sector tecnológico."
+        "Debates virales sobre la resolución de la conjetura de Valiant mediante IA.",
+        "Indignación en redes por la represión contra la mujer en Irán."
       ]
     }
   ]
