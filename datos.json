@@ -1,59 +1,53 @@
 {
-  "fecha_actualizacion": "25/11/2026 00:44",
-  "titular_semana": "Anthropic protagoniza la mayor salida a bolsa de la historia mientras España encara la recta final del 29-N",
+  "fecha_actualizacion": "25/11/2026 08:53",
+  "titular_semana": "La inestabilidad geopolítica y los avances en IA dominan la agenda internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La campaña para las elecciones generales del 29-N entra en su fase decisiva marcada por la confrontación entre bloques. El Gobierno ha aprobado un paquete final de medidas sociales y laborales —ampliación de permisos familiares y rebaja de ratios en educación infantil— mientras la oposición liderada por el Partido Popular cuestiona las garantías del proceso electoral y capitaliza los debates televisivos. Todo ello coincide con una nueva jornada crítica en la ruta migratoria canaria tras la llegada de más de 1.300 personas a El Hierro en un único día.",
+      "resumen": "A pocos días de las elecciones generales del 29-N, el clima político está marcado por la polarización y la incertidumbre. El Gobierno ha ampliado permisos de conciliación, mientras el PP intensifica sus críticas contra el censo electoral y el PSOE afronta una batalla por el voto femenino. En paralelo, la crisis migratoria sigue tensionando las instituciones, destacando la llegada masiva de inmigrantes a El Hierro.",
       "puntos_clave": [
-        "Recta final del 29-N con fuerte polarización tras los debates televisivos y cruce de acusaciones sobre la limpieza del voto.",
-        "El Ejecutivo saca adelante por real decreto mejoras en permisos laborales y reducción de ratios escolares.",
-        "Saturación de los servicios de acogida en El Hierro tras el desembarco de 1.331 migrantes en nueve cayucos en 24 horas."
+        "Elecciones 29-N: alta polarización y dudas sobre el censo electoral.",
+        "El Hierro registra una llegada récord de 1.331 inmigrantes en una sola jornada."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "La industria tecnológica vive un hito histórico con el debut bursátil de Anthropic, que captó 81.000 millones de dólares en la mayor OPV registrada hasta la fecha. En paralelo, un modelo interno de Claude afirma haber probado la conjetura de Valiant (VP ≠ VNP), un hipotético salto en la computación teórica. Por su parte, competidores como OpenAI han acelerado el despliegue de GPT-6.2 ante una fría recepción inicial, mientras plataformas creativas como Tidal vetan la música generada por IA y cabeceras editoriales alertan sobre las nuevas funciones automatizadas de retoque fotográfico.",
+      "resumen": "El sector vive un momento histórico tras la exitosa salida a bolsa de Anthropic, que ha batido récords de capitalización a pesar de las voces críticas sobre los riesgos de la IA. Mientras Nvidia enfrenta un escrutinio mediático por su relación con el Gobierno estadounidense y el liderazgo de Jensen Huang, el ámbito académico reporta un posible avance teórico significativo: la resolución de la conjetura de Valiant mediante el uso de modelos avanzados.",
       "puntos_clave": [
-        "Anthropic debuta en Wall Street recaudando 81.000 millones de dólares en una OPV de escala sin precedentes.",
-        "OpenAI responde con GPT-6.2 en medio de una intensa carrera de actualizaciones con Google y Microsoft.",
-        "Crece la resistencia cultural y profesional a la IA generativa con el veto de Tidal a canciones sintéticas y directrices restrictivas de prensa en Photoshop."
+        "Anthropic protagoniza la mayor oferta pública inicial (IPO) de la historia de la IA.",
+        "Modelos de IA logran avances teóricos que podrían resolver el problema VP ≠ VNP."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La reunión trilateral entre mandatarios de Washington, Pekín y Moscú concluyó sin acuerdos vinculantes para desescalar los conflictos en Ucrania e Irán. En el frente bélico, el hundimiento de la corbeta rusa 'Merkury' constata la continua vulnerabilidad de la flota de Moscú en el mar Negro. En Oriente Próximo, la situación humanitaria se agrava con ataques sobre Gaza e incidentes directos contra ambulancias en Cisjordania. En el ámbito judicial europeo, se confirma que el expresidente francés Nicolas Sarkozy y Carla Bruni se sentarán en el banquillo.",
+      "resumen": "La cumbre trilateral entre Trump, Xi Jinping y Putin ha concluido sin acuerdos sustanciales para la resolución de los conflictos en Ucrania e Irán. Rusia intensifica sus amenazas en el frente europeo mientras se reportan cifras elevadas de bajas en Ucrania, mientras que en Oriente Medio la situación humanitaria en Gaza continúa deteriorándose gravemente.",
       "puntos_clave": [
-        "La cumbre informal entre Estados Unidos, China y Rusia se salda sin avances concretos de paz.",
-        "Las fuerzas ucranianas asestan otro golpe a la armada rusa con la destrucción de la corbeta 'Merkury'.",
-        "La justicia francesa procesará a Nicolas Sarkozy y Carla Bruni por presunta manipulación de testigos."
+        "Fracaso de la cumbre trilateral para resolver los conflictos globales activos.",
+        "Escalada de tensiones entre Rusia y los países bálticos."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La histórica cotización pública de Anthropic ha reordenado los flujos de inversión hacia el sector de los semiconductores e infraestructura cloud. No obstante, las tecnológicas afrontan presiones regulatorias y judiciales: la fiscalía estadounidense mantiene en el foco las prácticas de Nvidia, y la justicia de EE. UU. ha declarado a Huawei culpable de sustracción de secretos comerciales, aunque la ha eximido de los cargos de asociación ilícita. En Latinoamérica, destaca la crisis de fondos que afecta a miles de clientes bancarios en Paraguay.",
+      "resumen": "La economía global enfrenta riesgos de recesión en mercados emergentes como Argentina y una presión inflacionaria creciente en naciones como India. Huawei ha sido declarada culpable en EE. UU. por el robo de secretos comerciales, lo que añade fricción a la ya compleja relación comercial y tecnológica entre China y Occidente.",
       "puntos_clave": [
-        "Efecto arrastre en valores tecnológicos tras la inyección récord de capital en la salida a bolsa de Anthropic.",
-        "Huawei resulta condenada en Estados Unidos por espionaje corporativo pero elude penas por crimen organizado.",
-        "Las dudas sobre prácticas monopolísticas mantienen bajo escrutinio al sector de chips para centros de datos."
+        "Argentina entra en recesión técnica tras dos trimestres de contracción.",
+        "Condena judicial a Huawei en EE. UU. por robo de propiedad intelectual."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el terreno biomédico, la identificación de un biomarcador para la encefalopatía traumática crónica (CTE) abre la puerta al primer diagnóstico mediante análisis sanguíneo en deportistas de impacto. En el ámbito humanitario, los informes internacionales alertan del incremento alarmante de víctimas por minas terrestres en Siria dos años después del cese oficial de grandes hostilidades, al tiempo que las estadísticas policiales en Alemania registran un máximo histórico en agresiones machistas.",
+      "resumen": "En el plano científico, se ha avanzado en la detección temprana de enfermedades neurodegenerativas como la CTE en deportistas mediante análisis de sangre. En el ámbito social, Alemania reporta un aumento histórico en los casos de violencia contra las mujeres, y se ha generado controversia por el caso judicial contra Thomas Markle en EE. UU.",
       "puntos_clave": [
-        "Avance médico clave para detectar en sangre la encefalopatía traumática crónica vinculada al deporte de contacto.",
-        "Aumento sustancial de civiles muertos y heridos por artefactos explosivos remanentes en territorio sirio.",
-        "Alemania constata un récord en las denuncias por violencia contra las mujeres según balances oficiales."
+        "Descubrimiento de un posible biomarcador para diagnosticar la CTE.",
+        "Alemania registra cifras récord de violencia machista."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "La actualidad digital ha estado dominada por el análisis de la OPV de Anthropic y la supuesta resolución del problema P vs NP atribuida a Claude, ampliamente debatida en foros técnicos. En paralelo, la figura del consejero delegado de Nvidia, Jensen Huang, ha protagonizado intensas discusiones a raíz de su gestión interna y una proliferación de 'deepfakes'. En España, la recta final hacia las urnas del 29-N satura el debate en X con acusaciones cruzadas en torno a las garantías del recuento electoral.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en la fiabilidad de los modelos de lenguaje tras los anuncios sobre la conjetura de Valiant y la preocupación por la desinformación causada por los 'deepfakes' del CEO de Nvidia, Jensen Huang. Asimismo, hay una creciente inquietud sobre una posible nueva oleada de aranceles globales impulsada por la administración estadounidense.",
       "puntos_clave": [
-        "Escepticismo y fascinación en comunidades técnicas ante los resultados matemáticos atribuidos a modelos avanzados de IA.",
-        "Debate encendido en redes sobre el clima corporativo en Nvidia y la circulación de montajes audiovisuales manipulados.",
-        "Discusión polarizada en la esfera hispanohablante sobre los sondeos y la integridad del proceso del 29-N."
+        "Preocupación por la propagación de 'deepfakes' corporativos.",
+        "Debate activo sobre el posible impacto de una nueva guerra de aranceles globales."
       ]
     }
   ]
