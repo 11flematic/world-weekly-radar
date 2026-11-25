@@ -1,53 +1,59 @@
 {
-  "fecha_actualizacion": "24/11/2026 08:52",
-  "titular_semana": "El retorno de Jensen Huang a Nvidia y la incertidumbre geopolítica marcan la agenda internacional",
+  "fecha_actualizacion": "25/11/2026 00:44",
+  "titular_semana": "Anthropic protagoniza la mayor salida a bolsa de la historia mientras España encara la recta final del 29-N",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La campaña electoral para los comicios del 29N se intensifica tras un debate a ocho que ha evidenciado la profunda fractura entre los bloques de izquierda y derecha. Mientras el PSOE y sus aliados confrontan la gestión del PP y Vox, surgen polémicas sobre la transparencia en Correos y el impacto del voto femenino, que emerge como un factor determinante ante el alto número de indecisos.",
+      "resumen": "La campaña para las elecciones generales del 29-N entra en su fase decisiva marcada por la confrontación entre bloques. El Gobierno ha aprobado un paquete final de medidas sociales y laborales —ampliación de permisos familiares y rebaja de ratios en educación infantil— mientras la oposición liderada por el Partido Popular cuestiona las garantías del proceso electoral y capitaliza los debates televisivos. Todo ello coincide con una nueva jornada crítica en la ruta migratoria canaria tras la llegada de más de 1.300 personas a El Hierro en un único día.",
       "puntos_clave": [
-        "Debate a ocho en RTVE: escenificación de la división ideológica.",
-        "El voto femenino, factor clave: las mujeres superan en 1,2 millones a los hombres en el censo."
+        "Recta final del 29-N con fuerte polarización tras los debates televisivos y cruce de acusaciones sobre la limpieza del voto.",
+        "El Ejecutivo saca adelante por real decreto mejoras en permisos laborales y reducción de ratios escolares.",
+        "Saturación de los servicios de acogida en El Hierro tras el desembarco de 1.331 migrantes en nueve cayucos en 24 horas."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector tecnológico vive una semana marcada por la polémica reincorporación de Jensen Huang al frente de Nvidia, bajo la mediación de Donald Trump. Paralelamente, Anthropic ha salido a bolsa mientras sus modelos de IA comienzan a integrar capacidades de autogestión de código, y Google ha ampliado la personalización de su buscador mediante el acceso a herramientas privadas del usuario.",
+      "resumen": "La industria tecnológica vive un hito histórico con el debut bursátil de Anthropic, que captó 81.000 millones de dólares en la mayor OPV registrada hasta la fecha. En paralelo, un modelo interno de Claude afirma haber probado la conjetura de Valiant (VP ≠ VNP), un hipotético salto en la computación teórica. Por su parte, competidores como OpenAI han acelerado el despliegue de GPT-6.2 ante una fría recepción inicial, mientras plataformas creativas como Tidal vetan la música generada por IA y cabeceras editoriales alertan sobre las nuevas funciones automatizadas de retoque fotográfico.",
       "puntos_clave": [
-        "Retorno de Jensen Huang a Nvidia tras el escándalo comercial.",
-        "Lanzamiento de 'Claude Ship' y avances en agentes de IA autónomos."
+        "Anthropic debuta en Wall Street recaudando 81.000 millones de dólares en una OPV de escala sin precedentes.",
+        "OpenAI responde con GPT-6.2 en medio de una intensa carrera de actualizaciones con Google y Microsoft.",
+        "Crece la resistencia cultural y profesional a la IA generativa con el veto de Tidal a canciones sintéticas y directrices restrictivas de prensa en Photoshop."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La inestabilidad global persiste sin grandes avances tras la cumbre tripartita entre Trump, Xi y Putin. La guerra en Ucrania muestra signos de expansión tras el ataque a un buque ruso en aguas de Libia, mientras que la OTAN ha elevado su alerta ante las amenazas rusas en el sector espacial y la tensión en Cisjordania escala con los ataques a infraestructuras sanitarias.",
+      "resumen": "La reunión trilateral entre mandatarios de Washington, Pekín y Moscú concluyó sin acuerdos vinculantes para desescalar los conflictos en Ucrania e Irán. En el frente bélico, el hundimiento de la corbeta rusa 'Merkury' constata la continua vulnerabilidad de la flota de Moscú en el mar Negro. En Oriente Próximo, la situación humanitaria se agrava con ataques sobre Gaza e incidentes directos contra ambulancias en Cisjordania. En el ámbito judicial europeo, se confirma que el expresidente francés Nicolas Sarkozy y Carla Bruni se sentarán en el banquillo.",
       "puntos_clave": [
-        "Ausencia de acuerdos significativos en la cumbre Trump-Xi-Putin.",
-        "Escalada de tensiones en Libia tras el ataque a un buque ruso."
+        "La cumbre informal entre Estados Unidos, China y Rusia se salda sin avances concretos de paz.",
+        "Las fuerzas ucranianas asestan otro golpe a la armada rusa con la destrucción de la corbeta 'Merkury'.",
+        "La justicia francesa procesará a Nicolas Sarkozy y Carla Bruni por presunta manipulación de testigos."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "El mercado ha reaccionado con euforia ante la resolución del caso Nvidia, provocando subidas en las bolsas asiáticas. En paralelo, Estados Unidos ha intensificado las restricciones comerciales incluyendo a la empresa Megaspeed en su lista negra por el desvío de tecnología crítica hacia China, en un contexto donde el diálogo político en Venezuela concluye sin avances económicos.",
+      "resumen": "La histórica cotización pública de Anthropic ha reordenado los flujos de inversión hacia el sector de los semiconductores e infraestructura cloud. No obstante, las tecnológicas afrontan presiones regulatorias y judiciales: la fiscalía estadounidense mantiene en el foco las prácticas de Nvidia, y la justicia de EE. UU. ha declarado a Huawei culpable de sustracción de secretos comerciales, aunque la ha eximido de los cargos de asociación ilícita. En Latinoamérica, destaca la crisis de fondos que afecta a miles de clientes bancarios en Paraguay.",
       "puntos_clave": [
-        "Repunte bursátil en Asia vinculado a la estabilidad en Nvidia.",
-        "EE. UU. endurece sanciones contra empresas por el desvío de chips a China."
+        "Efecto arrastre en valores tecnológicos tras la inyección récord de capital en la salida a bolsa de Anthropic.",
+        "Huawei resulta condenada en Estados Unidos por espionaje corporativo pero elude penas por crimen organizado.",
+        "Las dudas sobre prácticas monopolísticas mantienen bajo escrutinio al sector de chips para centros de datos."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La crisis climática se encuentra en un punto crítico tras el estancamiento de la COP31, agravado por el creciente consumo energético de los centros de datos de IA. En el ámbito sanitario, se han registrado avances significativos en la detección de la Encefalopatía Traumática Crónica (CTE), ofreciendo esperanzas de un diagnóstico temprano mediante análisis de sangre.",
+      "resumen": "En el terreno biomédico, la identificación de un biomarcador para la encefalopatía traumática crónica (CTE) abre la puerta al primer diagnóstico mediante análisis sanguíneo en deportistas de impacto. En el ámbito humanitario, los informes internacionales alertan del incremento alarmante de víctimas por minas terrestres en Siria dos años después del cese oficial de grandes hostilidades, al tiempo que las estadísticas policiales en Alemania registran un máximo histórico en agresiones machistas.",
       "puntos_clave": [
-        "Fracaso de la COP31 y debate sobre el consumo energético de la IA.",
-        "Avance científico en el diagnóstico de la CTE en deportistas."
+        "Avance médico clave para detectar en sangre la encefalopatía traumática crónica vinculada al deporte de contacto.",
+        "Aumento sustancial de civiles muertos y heridos por artefactos explosivos remanentes en territorio sirio.",
+        "Alemania constata un récord en las denuncias por violencia contra las mujeres según balances oficiales."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "El debate digital se centra en la especulación teórica sobre la resolución de problemas matemáticos milenarios (P vs NP) supuestamente abordados por modelos de IA. Asimismo, persiste una fuerte polarización en X y Reddit sobre la impunidad de las élites corporativas y los derechos humanos, tras la condena a una cantante iraní por actuar sin hiyab.",
+      "resumen": "La actualidad digital ha estado dominada por el análisis de la OPV de Anthropic y la supuesta resolución del problema P vs NP atribuida a Claude, ampliamente debatida en foros técnicos. En paralelo, la figura del consejero delegado de Nvidia, Jensen Huang, ha protagonizado intensas discusiones a raíz de su gestión interna y una proliferación de 'deepfakes'. En España, la recta final hacia las urnas del 29-N satura el debate en X con acusaciones cruzadas en torno a las garantías del recuento electoral.",
       "puntos_clave": [
-        "Debates virales sobre la resolución de la conjetura de Valiant mediante IA.",
-        "Indignación en redes por la represión contra la mujer en Irán."
+        "Escepticismo y fascinación en comunidades técnicas ante los resultados matemáticos atribuidos a modelos avanzados de IA.",
+        "Debate encendido en redes sobre el clima corporativo en Nvidia y la circulación de montajes audiovisuales manipulados.",
+        "Discusión polarizada en la esfera hispanohablante sobre los sondeos y la integridad del proceso del 29-N."
       ]
     }
   ]
