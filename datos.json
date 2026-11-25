@@ -1,53 +1,58 @@
 {
-  "fecha_actualizacion": "25/11/2026 08:53",
-  "titular_semana": "La inestabilidad geopolítica y los avances en IA dominan la agenda internacional",
+  "fecha_actualizacion": "25/11/2026 16:54",
+  "titular_semana": "Anthropic protagoniza una histórica salida a bolsa mientras la tensión arancelaria global y los conflictos geopolíticos marcan la agenda internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "A pocos días de las elecciones generales del 29-N, el clima político está marcado por la polarización y la incertidumbre. El Gobierno ha ampliado permisos de conciliación, mientras el PP intensifica sus críticas contra el censo electoral y el PSOE afronta una batalla por el voto femenino. En paralelo, la crisis migratoria sigue tensionando las instituciones, destacando la llegada masiva de inmigrantes a El Hierro.",
+      "resumen": "España afronta la recta final hacia las elecciones generales del 29 de noviembre en un clima de alta tensión política, mientras se registran importantes picos en la llegada de inmigración irregular a las islas y se actualizan los permisos laborales de conciliación.",
       "puntos_clave": [
-        "Elecciones 29-N: alta polarización y dudas sobre el censo electoral.",
-        "El Hierro registra una llegada récord de 1.331 inmigrantes en una sola jornada."
+        "El PP afronta la recta final electoral admitiendo la posibilidad de un empate técnico con el PSOE y agitando el debate sobre garantías en el proceso.",
+        "El Hierro registra la mayor llegada de inmigrantes en un solo día con 2.100 personas rescatadas.",
+        "El Gobierno amplía los permisos por nacimiento, fallecimiento y cuidados paliativos para familiares."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive un momento histórico tras la exitosa salida a bolsa de Anthropic, que ha batido récords de capitalización a pesar de las voces críticas sobre los riesgos de la IA. Mientras Nvidia enfrenta un escrutinio mediático por su relación con el Gobierno estadounidense y el liderazgo de Jensen Huang, el ámbito académico reporta un posible avance teórico significativo: la resolución de la conjetura de Valiant mediante el uso de modelos avanzados.",
+      "resumen": "El sector de la IA vive un terremoto financiero y tecnológico con la macro OPI de Anthropic, nuevos lanzamientos de grandes modelos y persistentes dudas sobre las cadenas de suministro y centros de datos.",
       "puntos_clave": [
-        "Anthropic protagoniza la mayor oferta pública inicial (IPO) de la historia de la IA.",
-        "Modelos de IA logran avances teóricos que podrían resolver el problema VP ≠ VNP."
+        "Anthropic protagoniza una de las mayores salidas a bolsa de la historia tras recaudar cifras récord.",
+        "Google, Microsoft y OpenAI responden lanzando nuevos modelos al mercado en plena competencia global.",
+        "Preocupación interna entre empleados tecnológicos ante modelos avanzados con capacidades de ciberseguridad sin regular adecuadamente."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La cumbre trilateral entre Trump, Xi Jinping y Putin ha concluido sin acuerdos sustanciales para la resolución de los conflictos en Ucrania e Irán. Rusia intensifica sus amenazas en el frente europeo mientras se reportan cifras elevadas de bajas en Ucrania, mientras que en Oriente Medio la situación humanitaria en Gaza continúa deteriorándose gravemente.",
+      "resumen": "La guerra en Ucrania y los conflictos en Oriente Medio continúan copando los esfuerzos diplomáticos internacionales, marcados por la falta de avances concluyentes en cumbres trilaterales de alto nivel.",
       "puntos_clave": [
-        "Fracaso de la cumbre trilateral para resolver los conflictos globales activos.",
-        "Escalada de tensiones entre Rusia y los países bálticos."
+        "La cumbre trilateral entre Trump, Xi y Putin finaliza sin grandes acuerdos ni avances para resolver los conflictos en Ucrania e Irán.",
+        "Nuevos ataques ucranianos sobre bases aéreas rusas coinciden con informes que cifran en cerca de 500.000 las bajas acumuladas por Moscú.",
+        "El ejército israelí intensifica sus operaciones en el norte de Gaza con la eliminación de altos cargos de seguridad interna."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global enfrenta riesgos de recesión en mercados emergentes como Argentina y una presión inflacionaria creciente en naciones como India. Huawei ha sido declarada culpable en EE. UU. por el robo de secretos comerciales, lo que añade fricción a la ya compleja relación comercial y tecnológica entre China y Occidente.",
+      "resumen": "La política comercial de Estados Unidos sacude los mercados internacionales tras anunciar aranceles contra más de una decena de socios, mientras el sector tecnológico lidia con restricciones de propiedad intelectual y escrutinio regulatorio.",
       "puntos_clave": [
-        "Argentina entra en recesión técnica tras dos trimestres de contracción.",
-        "Condena judicial a Huawei en EE. UU. por robo de propiedad intelectual."
+        "Estados Unidos propone nuevos aranceles comerciales que afectan a 14 socios estratégicos, incluyendo a la Unión Europea y China.",
+        "Un tribunal estadounidense declara culpable a Huawei por cargos de robo de secretos industriales.",
+        "El Departamento de Justicia de EE. UU. mantiene abierto el escrutinio sobre el modelo de negocio y las prácticas de Nvidia."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el plano científico, se ha avanzado en la detección temprana de enfermedades neurodegenerativas como la CTE en deportistas mediante análisis de sangre. En el ámbito social, Alemania reporta un aumento histórico en los casos de violencia contra las mujeres, y se ha generado controversia por el caso judicial contra Thomas Markle en EE. UU.",
+      "resumen": "Los avances científicos y espaciales comparten protagonismo con las cumbres climáticas globales y nuevos descubrimientos médicos enfocados en el diagnóstico temprano de enfermedades neurodegenerativas.",
       "puntos_clave": [
-        "Descubrimiento de un posible biomarcador para diagnosticar la CTE.",
-        "Alemania registra cifras récord de violencia machista."
+        "China califica de histórica la misión Shenzhou-24 al incluir al primer astronauta extranjero a bordo.",
+        "Investigadores descubren un posible marcador en sangre para diagnosticar la encefalopatía traumática crónica (ETC) en atletas.",
+        "La Oficina de Cambio Climático transmite en la COP31 la negativa internacional a aceptar retrocesos en los objetivos medioambientales."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "En plataformas como X y Reddit, el debate se centra en la fiabilidad de los modelos de lenguaje tras los anuncios sobre la conjetura de Valiant y la preocupación por la desinformación causada por los 'deepfakes' del CEO de Nvidia, Jensen Huang. Asimismo, hay una creciente inquietud sobre una posible nueva oleada de aranceles globales impulsada por la administración estadounidense.",
+      "resumen": "Las plataformas digitales discuten intensamente sobre los riesgos existenciales de la IA de frontera, los límites de la propiedad intelectual y los avances teóricos publicados por modelos internos de lenguaje.",
       "puntos_clave": [
-        "Preocupación por la propagación de 'deepfakes' corporativos.",
-        "Debate activo sobre el posible impacto de una nueva guerra de aranceles globales."
+        "Debates virales en X y Reddit sobre la capacidad de modelos de lenguaje avanzados para resolver problemas complejos de teoría computacional.",
+        "Fuerte discusión sobre la ética y el uso de herramientas de inteligencia artificial en la industria musical y las plataformas de streaming."
       ]
     }
   ]
