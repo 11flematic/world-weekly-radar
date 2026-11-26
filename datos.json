@@ -1,59 +1,53 @@
 {
-  "fecha_actualizacion": "26/11/2026 00:43",
-  "titular_semana": "Estados Unidos reactiva la ofensiva arancelaria global mientras la histórica salida a bolsa de Anthropic sacude el sector tecnológico",
+  "fecha_actualizacion": "26/11/2026 08:52",
+  "titular_semana": "El mercado bursátil se agita con la salida a bolsa de Anthropic mientras España entra en la recta final de la campaña electoral",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "España afronta la recta final de la campaña para las elecciones generales del 29-N en un clima de alta polarización política, marcado por el debate sobre la vivienda, la presión migratoria y la pugna voto a voto entre el PSOE y el PP. El panorama sociopolítico viene también definido por un récord histórico de llegadas de migrantes a la isla de El Hierro, las manifestaciones institucionales y sociales del 25N contra la violencia machista y el anuncio de Carles Puigdemont de regresar a España el próximo 12 de diciembre.",
+      "resumen": "La actividad política española se concentra en los debates y actos de campaña previos al 29-N, con el foco puesto en la definición de los bloques ideológicos. Paralelamente, se ha consolidado un nuevo derecho laboral que permite hasta 10 días de permiso retribuido por fallecimiento de un familiar, mientras persiste una huelga docente en Cataluña y la preocupación por la seguridad marítima tras un incidente con un petrolero en Ibiza.",
       "puntos_clave": [
-        "Recta final hacia las elecciones generales del 29-N con empate técnico proyectado entre los principales bloques",
-        "Récord de llegadas migratorias en Canarias con más de 2.100 personas rescatadas en El Hierro en un solo día",
-        "Carles Puigdemont fija su vuelta a España para el 12 de diciembre sin intención de solicitar indulto"
+        "Debates clave entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau.",
+        "Jornadas de movilizaciones feministas y actos centrales de campaña de los principales partidos."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "Semana de máxima intensidad en la industria de la inteligencia artificial con el debut bursátil de Anthropic a una valoración de 1,5 billones de dólares, lo que ha acelerado los contraataques comerciales de Google, OpenAI y Microsoft con el lanzamiento de nuevos modelos. Paralelamente, crecen las alertas internas sobre modelos excesivamente avanzados, mientras Nvidia afronta tensiones internas de gobernanza y la advertencia de S&P de una posible rebaja en su calificación crediticia por riesgo de dependencia de su liderazgo.",
+      "resumen": "El sector vive una semana de alta intensidad financiera con la salida a bolsa de Anthropic, la mayor de la historia en el ámbito de la IA. Mientras las empresas buscan integrar servicios, surgen tensiones regulatorias en Nueva York sobre los juguetes con IA y preocupaciones sobre la privacidad en Character.AI. Rumores en redes sociales sugieren posibles avances teóricos de alto nivel en algoritmos de factorización, aunque sin confirmación oficial.",
       "puntos_clave": [
-        "Anthropic inicia su cotización bursátil a 83 dólares por acción tras completar la mayor OPV del sector tecnológico",
-        "S&P estudia rebajar la calificación crediticia de Nvidia por riesgos de gobernanza ligados a Jensen Huang",
-        "La FCC autoriza a SpaceX a desplegar constelaciones para centros de datos de IA en órbita"
+        "Debut bursátil récord de Anthropic en un contexto de escepticismo entre Wall Street y Silicon Valley.",
+        "Implementación de mecanismos de seguridad ('kill switch') en California para frenar modelos de IA peligrosos."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La administración estadounidense ha anunciado una nueva batería de aranceles comerciales dirigida a 14 socios estratégicos, entre los que figuran la Unión Europea, China y Brasil, desatando una inmediata condena diplomática en la escena internacional. En Oriente Próximo, el frente judicial de Benjamin Netanyahu da un giro tras la recomendación de los jueces israelíes de archivar los cargos más graves de soborno contra el primer ministro.",
+      "resumen": "La tensión internacional se mantiene en varios frentes, desde la advertencia de EE. UU. y la OTAN sobre la contención en Ucrania hasta la escalada de violencia en Yemen y la crisis política en Francia. La diplomacia europea muestra fracturas internas respecto a la financiación para Kiev, mientras en Irán se denuncian situaciones críticas de derechos humanos y acusaciones cruzadas con Israel.",
       "puntos_clave": [
-        "EE. UU. oficializa una propuesta de aranceles contra 14 socios comerciales clave, incluidos la UE y China",
-        "Brasil califica de inaceptable la política proteccionista estadounidense y anticipa fricciones diplomáticas",
-        "La justicia israelí recomienda rebajar las acusaciones más severas de corrupción contra Benjamin Netanyahu"
+        "Arabia Saudí intercepta misiles hutíes en medio de una intensificación del conflicto en Yemen.",
+        "Investigación judicial en Francia por filtración de secretos que afecta al partido de Marine Le Pen."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Los parqués internacionales han registrado volatilidad y descensos en Wall Street arrastrados por las dudas sobre la sostenibilidad del gasto de capital y el retorno económico de la infraestructura en IA. En Europa, Alemania reconoce una crisis presupuestaria severa lastrada por una deuda pública en máximos históricos, mientras el Parlamento Europeo saca adelante la Ley de Medicamentos Críticos para blindar las cadenas de suministro farmacéuticas.",
+      "resumen": "La economía global enfrenta turbulencias por los nuevos aranceles anunciados por EE. UU., que han sido calificados de inaceptables por Brasil. En el sector tecnológico, S&P evalúa rebajar la calificación crediticia de Nvidia por riesgos de gobernanza, mientras SpaceX recibe luz verde para desplegar un millón de satélites de datos, consolidando su infraestructura espacial.",
       "puntos_clave": [
-        "Corrección en las bolsas de EE. UU. ante el endurecimiento comercial y las dudas sobre la rentabilidad del sector IA",
-        "Alemania alerta sobre tensiones financieras estructurales tras alcanzar un nivel récord de endeudamiento",
-        "La Eurocámara aprueba la Ley de Medicamentos Críticos para combatir el desabastecimiento sanitario"
+        "Inflación y costes elevados marcan las celebraciones de Acción de Gracias en EE. UU.",
+        "División interna en la UE sobre la financiación de Ucrania ante la cumbre europea."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "En el terreno científico, la investigación médica celebra la identificación de un biomarcador prometedor que permitiría detectar la encefalopatía traumática crónica (CTE) mediante un simple análisis de sangre. En el ámbito espacial, las nuevas imágenes de la misión de defensa planetaria confirman un cráter del tamaño de un estadio tras el impacto cinético contra un asteroide. La crónica de sucesos está marcada por la tragedia en Egipto, donde una treintena de personas ha muerto tras estallar un camión cisterna en una autopista de El Cairo.",
+      "resumen": "La crisis climática se manifiesta en el desplazamiento forzado de miles de personas en Europa, mientras otros desastres naturales, como la inundación de una mina ilegal en Indonesia, dejan víctimas mortales. En el ámbito de la salud y el medio ambiente, se alerta sobre los peligros de la exposición al plomo.",
       "puntos_clave": [
-        "Descubierto un marcador en sangre para diagnosticar la encefalopatía traumática crónica en deportistas",
-        "Las imágenes de la misión de defensa planetaria confirman un cráter masivo en el asteroide desviado",
-        "Al menos 31 muertos en Egipto al arder un camión cisterna en una colisión masiva cerca de El Cairo"
+        "Desastres medioambientales en Indonesia con al menos 13 fallecidos.",
+        "Impacto social de la crisis climática como motor de migración interna en el continente europeo."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las redes sociales han centrado la conversación tecnológica en las filtraciones comentadas por expertos en computación sobre hipotéticos algoritmos de IA capaces de resolver la factorización entera en tiempo polinómico, amenazando la criptografía actual. Asimismo, suscitan fuerte debate la ofensiva legal contra Character.AI por la subasta de historiales privados de chat, la prohibición en Nueva York de juguetes navideños con IA generativa y la consolidación del 'vibe coding' en el desarrollo de software.",
+      "resumen": "La comunidad tecnológica en X y Reddit debate intensamente sobre posibles 'breakthroughs' teóricos en el campo de la computación cuántica y la lógica matemática, atribuidos a modelos de IA. Asimismo, se discute el futuro de la ética en el desarrollo de software y el papel de las grandes corporaciones en el control de la información.",
       "puntos_clave": [
-        "Especulación viral en X sobre modelos de IA que habrían quebrado principios de la criptografía moderna",
-        "Fiscales generales estatales en EE. UU. frenan los planes de Character.AI de subastar datos de usuarios",
-        "Polémica por la regulación que veta los juguetes conectados con IA durante la campaña navideña"
+        "Rumores sobre la ruptura de la criptografía moderna mediante algoritmos de IA.",
+        "Debates sobre la gobernanza interna en empresas líderes como Nvidia y OpenAI."
       ]
     }
   ]
