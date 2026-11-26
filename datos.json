@@ -1,58 +1,59 @@
 {
-  "fecha_actualizacion": "25/11/2026 16:54",
-  "titular_semana": "Anthropic protagoniza una histórica salida a bolsa mientras la tensión arancelaria global y los conflictos geopolíticos marcan la agenda internacional",
+  "fecha_actualizacion": "26/11/2026 00:43",
+  "titular_semana": "Estados Unidos reactiva la ofensiva arancelaria global mientras la histórica salida a bolsa de Anthropic sacude el sector tecnológico",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "España afronta la recta final hacia las elecciones generales del 29 de noviembre en un clima de alta tensión política, mientras se registran importantes picos en la llegada de inmigración irregular a las islas y se actualizan los permisos laborales de conciliación.",
+      "resumen": "España afronta la recta final de la campaña para las elecciones generales del 29-N en un clima de alta polarización política, marcado por el debate sobre la vivienda, la presión migratoria y la pugna voto a voto entre el PSOE y el PP. El panorama sociopolítico viene también definido por un récord histórico de llegadas de migrantes a la isla de El Hierro, las manifestaciones institucionales y sociales del 25N contra la violencia machista y el anuncio de Carles Puigdemont de regresar a España el próximo 12 de diciembre.",
       "puntos_clave": [
-        "El PP afronta la recta final electoral admitiendo la posibilidad de un empate técnico con el PSOE y agitando el debate sobre garantías en el proceso.",
-        "El Hierro registra la mayor llegada de inmigrantes en un solo día con 2.100 personas rescatadas.",
-        "El Gobierno amplía los permisos por nacimiento, fallecimiento y cuidados paliativos para familiares."
+        "Recta final hacia las elecciones generales del 29-N con empate técnico proyectado entre los principales bloques",
+        "Récord de llegadas migratorias en Canarias con más de 2.100 personas rescatadas en El Hierro en un solo día",
+        "Carles Puigdemont fija su vuelta a España para el 12 de diciembre sin intención de solicitar indulto"
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector de la IA vive un terremoto financiero y tecnológico con la macro OPI de Anthropic, nuevos lanzamientos de grandes modelos y persistentes dudas sobre las cadenas de suministro y centros de datos.",
+      "resumen": "Semana de máxima intensidad en la industria de la inteligencia artificial con el debut bursátil de Anthropic a una valoración de 1,5 billones de dólares, lo que ha acelerado los contraataques comerciales de Google, OpenAI y Microsoft con el lanzamiento de nuevos modelos. Paralelamente, crecen las alertas internas sobre modelos excesivamente avanzados, mientras Nvidia afronta tensiones internas de gobernanza y la advertencia de S&P de una posible rebaja en su calificación crediticia por riesgo de dependencia de su liderazgo.",
       "puntos_clave": [
-        "Anthropic protagoniza una de las mayores salidas a bolsa de la historia tras recaudar cifras récord.",
-        "Google, Microsoft y OpenAI responden lanzando nuevos modelos al mercado en plena competencia global.",
-        "Preocupación interna entre empleados tecnológicos ante modelos avanzados con capacidades de ciberseguridad sin regular adecuadamente."
+        "Anthropic inicia su cotización bursátil a 83 dólares por acción tras completar la mayor OPV del sector tecnológico",
+        "S&P estudia rebajar la calificación crediticia de Nvidia por riesgos de gobernanza ligados a Jensen Huang",
+        "La FCC autoriza a SpaceX a desplegar constelaciones para centros de datos de IA en órbita"
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La guerra en Ucrania y los conflictos en Oriente Medio continúan copando los esfuerzos diplomáticos internacionales, marcados por la falta de avances concluyentes en cumbres trilaterales de alto nivel.",
+      "resumen": "La administración estadounidense ha anunciado una nueva batería de aranceles comerciales dirigida a 14 socios estratégicos, entre los que figuran la Unión Europea, China y Brasil, desatando una inmediata condena diplomática en la escena internacional. En Oriente Próximo, el frente judicial de Benjamin Netanyahu da un giro tras la recomendación de los jueces israelíes de archivar los cargos más graves de soborno contra el primer ministro.",
       "puntos_clave": [
-        "La cumbre trilateral entre Trump, Xi y Putin finaliza sin grandes acuerdos ni avances para resolver los conflictos en Ucrania e Irán.",
-        "Nuevos ataques ucranianos sobre bases aéreas rusas coinciden con informes que cifran en cerca de 500.000 las bajas acumuladas por Moscú.",
-        "El ejército israelí intensifica sus operaciones en el norte de Gaza con la eliminación de altos cargos de seguridad interna."
+        "EE. UU. oficializa una propuesta de aranceles contra 14 socios comerciales clave, incluidos la UE y China",
+        "Brasil califica de inaceptable la política proteccionista estadounidense y anticipa fricciones diplomáticas",
+        "La justicia israelí recomienda rebajar las acusaciones más severas de corrupción contra Benjamin Netanyahu"
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La política comercial de Estados Unidos sacude los mercados internacionales tras anunciar aranceles contra más de una decena de socios, mientras el sector tecnológico lidia con restricciones de propiedad intelectual y escrutinio regulatorio.",
+      "resumen": "Los parqués internacionales han registrado volatilidad y descensos en Wall Street arrastrados por las dudas sobre la sostenibilidad del gasto de capital y el retorno económico de la infraestructura en IA. En Europa, Alemania reconoce una crisis presupuestaria severa lastrada por una deuda pública en máximos históricos, mientras el Parlamento Europeo saca adelante la Ley de Medicamentos Críticos para blindar las cadenas de suministro farmacéuticas.",
       "puntos_clave": [
-        "Estados Unidos propone nuevos aranceles comerciales que afectan a 14 socios estratégicos, incluyendo a la Unión Europea y China.",
-        "Un tribunal estadounidense declara culpable a Huawei por cargos de robo de secretos industriales.",
-        "El Departamento de Justicia de EE. UU. mantiene abierto el escrutinio sobre el modelo de negocio y las prácticas de Nvidia."
+        "Corrección en las bolsas de EE. UU. ante el endurecimiento comercial y las dudas sobre la rentabilidad del sector IA",
+        "Alemania alerta sobre tensiones financieras estructurales tras alcanzar un nivel récord de endeudamiento",
+        "La Eurocámara aprueba la Ley de Medicamentos Críticos para combatir el desabastecimiento sanitario"
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Los avances científicos y espaciales comparten protagonismo con las cumbres climáticas globales y nuevos descubrimientos médicos enfocados en el diagnóstico temprano de enfermedades neurodegenerativas.",
+      "resumen": "En el terreno científico, la investigación médica celebra la identificación de un biomarcador prometedor que permitiría detectar la encefalopatía traumática crónica (CTE) mediante un simple análisis de sangre. En el ámbito espacial, las nuevas imágenes de la misión de defensa planetaria confirman un cráter del tamaño de un estadio tras el impacto cinético contra un asteroide. La crónica de sucesos está marcada por la tragedia en Egipto, donde una treintena de personas ha muerto tras estallar un camión cisterna en una autopista de El Cairo.",
       "puntos_clave": [
-        "China califica de histórica la misión Shenzhou-24 al incluir al primer astronauta extranjero a bordo.",
-        "Investigadores descubren un posible marcador en sangre para diagnosticar la encefalopatía traumática crónica (ETC) en atletas.",
-        "La Oficina de Cambio Climático transmite en la COP31 la negativa internacional a aceptar retrocesos en los objetivos medioambientales."
+        "Descubierto un marcador en sangre para diagnosticar la encefalopatía traumática crónica en deportistas",
+        "Las imágenes de la misión de defensa planetaria confirman un cráter masivo en el asteroide desviado",
+        "Al menos 31 muertos en Egipto al arder un camión cisterna en una colisión masiva cerca de El Cairo"
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las plataformas digitales discuten intensamente sobre los riesgos existenciales de la IA de frontera, los límites de la propiedad intelectual y los avances teóricos publicados por modelos internos de lenguaje.",
+      "resumen": "Las redes sociales han centrado la conversación tecnológica en las filtraciones comentadas por expertos en computación sobre hipotéticos algoritmos de IA capaces de resolver la factorización entera en tiempo polinómico, amenazando la criptografía actual. Asimismo, suscitan fuerte debate la ofensiva legal contra Character.AI por la subasta de historiales privados de chat, la prohibición en Nueva York de juguetes navideños con IA generativa y la consolidación del 'vibe coding' en el desarrollo de software.",
       "puntos_clave": [
-        "Debates virales en X y Reddit sobre la capacidad de modelos de lenguaje avanzados para resolver problemas complejos de teoría computacional.",
-        "Fuerte discusión sobre la ética y el uso de herramientas de inteligencia artificial en la industria musical y las plataformas de streaming."
+        "Especulación viral en X sobre modelos de IA que habrían quebrado principios de la criptografía moderna",
+        "Fiscales generales estatales en EE. UU. frenan los planes de Character.AI de subastar datos de usuarios",
+        "Polémica por la regulación que veta los juguetes conectados con IA durante la campaña navideña"
       ]
     }
   ]
