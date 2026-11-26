@@ -1,53 +1,53 @@
 {
-  "fecha_actualizacion": "26/11/2026 08:52",
-  "titular_semana": "El mercado bursátil se agita con la salida a bolsa de Anthropic mientras España entra en la recta final de la campaña electoral",
+  "fecha_actualizacion": "26/11/2026 16:54",
+  "titular_semana": "El estreno bursátil de Anthropic marca un hito en la IA mientras España se prepara para un debate electoral decisivo",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La actividad política española se concentra en los debates y actos de campaña previos al 29-N, con el foco puesto en la definición de los bloques ideológicos. Paralelamente, se ha consolidado un nuevo derecho laboral que permite hasta 10 días de permiso retribuido por fallecimiento de un familiar, mientras persiste una huelga docente en Cataluña y la preocupación por la seguridad marítima tras un incidente con un petrolero en Ibiza.",
+      "resumen": "La campaña electoral del 29-N alcanza su fase final con un debate clave entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau. Mientras el PSOE apela a una posible mayoría progresista, la inmigración se consolida como el eje central del debate público, marcado por la reciente llegada masiva de migrantes a El Hierro y la tensión en actos políticos.",
       "puntos_clave": [
-        "Debates clave entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau.",
-        "Jornadas de movilizaciones feministas y actos centrales de campaña de los principales partidos."
+        "Debate electoral a cuatro entre los principales candidatos ante el 29-N.",
+        "Sánchez defiende la consolidación de una mayoría progresista; tensiones en actos de campaña."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive una semana de alta intensidad financiera con la salida a bolsa de Anthropic, la mayor de la historia en el ámbito de la IA. Mientras las empresas buscan integrar servicios, surgen tensiones regulatorias en Nueva York sobre los juguetes con IA y preocupaciones sobre la privacidad en Character.AI. Rumores en redes sociales sugieren posibles avances teóricos de alto nivel en algoritmos de factorización, aunque sin confirmación oficial.",
+      "resumen": "El sector vive una semana histórica con la salida a bolsa de Anthropic, que se posiciona como el mayor estreno del sector hasta la fecha. Paralelamente, el mercado debate sobre los riesgos de gobernanza en Nvidia y el posible impacto de las nuevas normativas en la venta de dispositivos con IA, mientras surgen rumores técnicos sobre avances en factorización que amenazarían la criptografía moderna.",
       "puntos_clave": [
-        "Debut bursátil récord de Anthropic en un contexto de escepticismo entre Wall Street y Silicon Valley.",
-        "Implementación de mecanismos de seguridad ('kill switch') en California para frenar modelos de IA peligrosos."
+        "Anthropic debuta en el mercado de valores con una capitalización récord.",
+        "Rumores sobre posibles avances de IA en la resolución de problemas matemáticos complejos y riesgos de ciberseguridad."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La tensión internacional se mantiene en varios frentes, desde la advertencia de EE. UU. y la OTAN sobre la contención en Ucrania hasta la escalada de violencia en Yemen y la crisis política en Francia. La diplomacia europea muestra fracturas internas respecto a la financiación para Kiev, mientras en Irán se denuncian situaciones críticas de derechos humanos y acusaciones cruzadas con Israel.",
+      "resumen": "La Unión Europea mantiene profundas divisiones sobre la financiación del apoyo a Ucrania de cara a 2027 y el próximo marco presupuestario. En Francia, los escándalos judiciales rodean al entorno de Marine Le Pen, mientras persiste la inestabilidad en Gaza con nuevos incidentes violentos.",
       "puntos_clave": [
-        "Arabia Saudí intercepta misiles hutíes en medio de una intensificación del conflicto en Yemen.",
-        "Investigación judicial en Francia por filtración de secretos que afecta al partido de Marine Le Pen."
+        "Desacuerdos en la UE sobre el presupuesto a largo plazo y la ayuda a Ucrania.",
+        "Investigaciones judiciales en Francia por mensajes antisemitas y filtraciones que afectan al partido de Le Pen."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La economía global enfrenta turbulencias por los nuevos aranceles anunciados por EE. UU., que han sido calificados de inaceptables por Brasil. En el sector tecnológico, S&P evalúa rebajar la calificación crediticia de Nvidia por riesgos de gobernanza, mientras SpaceX recibe luz verde para desplegar un millón de satélites de datos, consolidando su infraestructura espacial.",
+      "resumen": "El nombramiento del español Pablo Hernández de Cos como futuro presidente del Banco Central Europeo (BCE) marca una transición clave en la política monetaria. Por otro lado, la economía global sigue pendiente de la solvencia de grandes firmas tecnológicas y de las consecuencias de la crisis climática en la movilidad poblacional.",
       "puntos_clave": [
-        "Inflación y costes elevados marcan las celebraciones de Acción de Gracias en EE. UU.",
-        "División interna en la UE sobre la financiación de Ucrania ante la cumbre europea."
+        "Pablo Hernández de Cos, designado sucesor de Christine Lagarde en el BCE.",
+        "S&P evalúa un posible recorte en la calificación crediticia de Nvidia."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La crisis climática se manifiesta en el desplazamiento forzado de miles de personas en Europa, mientras otros desastres naturales, como la inundación de una mina ilegal en Indonesia, dejan víctimas mortales. En el ámbito de la salud y el medio ambiente, se alerta sobre los peligros de la exposición al plomo.",
+      "resumen": "La crisis climática comienza a traducirse en desplazamientos forzados de población dentro de Europa. En el ámbito social, el juicio contra Gérard Depardieu por presunta violación y el colapso de un buque cisterna cerca de Ibiza centran la actualidad, mientras en Estados Unidos el Día de Acción de Gracias se ve alterado por condiciones meteorológicas extremas.",
       "puntos_clave": [
-        "Desastres medioambientales en Indonesia con al menos 13 fallecidos.",
-        "Impacto social de la crisis climática como motor de migración interna en el continente europeo."
+        "Impacto de la crisis climática en el desplazamiento de miles de europeos.",
+        "Accidente marítimo de un buque cisterna frente a las costas de Ibiza."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "La comunidad tecnológica en X y Reddit debate intensamente sobre posibles 'breakthroughs' teóricos en el campo de la computación cuántica y la lógica matemática, atribuidos a modelos de IA. Asimismo, se discute el futuro de la ética en el desarrollo de software y el papel de las grandes corporaciones en el control de la información.",
+      "resumen": "El debate en redes sociales como X y Reddit se centra en la especulación sobre la supuesta resolución de la hipótesis de Riemann por parte de modelos de IA y el impacto de los 'kill switches' propuestos para detener modelos peligrosos, generando una fuerte polarización entre tecnoptimistas y defensores de la seguridad humana.",
       "puntos_clave": [
-        "Rumores sobre la ruptura de la criptografía moderna mediante algoritmos de IA.",
-        "Debates sobre la gobernanza interna en empresas líderes como Nvidia y OpenAI."
+        "Debate viral sobre la capacidad de la IA para romper la criptografía moderna.",
+        "Discusión sobre el control humano y la ética de lanzar modelos de lenguaje de gran potencia."
       ]
     }
   ]
