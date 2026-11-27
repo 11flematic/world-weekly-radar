@@ -1,59 +1,53 @@
 {
-  "fecha_actualizacion": "27/11/2026 00:48",
-  "titular_semana": "Anthropic marca un hito bursátil mientras Hernández de Cos asume el BCE y España encara la recta final electoral",
+  "fecha_actualizacion": "27/11/2026 08:51",
+  "titular_semana": "Intensa actividad electoral en España y tensión geopolítica marcada por la incertidumbre en Francia y EE. UU.",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "España afronta el tramo decisivo de la campaña electoral tras la celebración del debate a cuatro entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau, caracterizado por una marcada polarización en torno a los servicios públicos y las políticas de igualdad. En el ámbito institucional, el exgobernador del Banco de España, Pablo Hernández de Cos, ha sido designado presidente del Banco Central Europeo para suceder a Christine Lagarde. En Baleares, las autoridades marítimas despliegan un dispositivo de emergencia tras el naufragio de un buque cisterna cerca de Ibiza que ha dejado un tripulante fallecido y riesgo de vertido de diésel.",
+      "resumen": "La campaña electoral ha llegado a su tramo final con un debate crispado entre los líderes políticos, centrado en la economía y la violencia de género, mientras el Gobierno confirma una subida generalizada de las pensiones para 2027.",
       "puntos_clave": [
-        "Celebración del debate electoral decisivo a cuatro bandas con alta confrontación sobre pactos, economía y violencia de género.",
-        "Elección del economista español Pablo Hernández de Cos como nuevo presidente del Banco Central Europeo.",
-        "Operativo de emergencia en Ibiza para contener un posible derrame tras el hundimiento de un buque con 7.000 toneladas de diésel."
+        "Debate electoral marcado por el enfrentamiento entre bloques y la promesa de Feijóo de dimitir si no logra la presidencia.",
+        "El Gobierno anuncia una revalorización de las pensiones contributivas del 3,5% y aumentos de hasta el 14,2% para las mínimas y no contributivas."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector tecnológico vive una semana de fuerte impacto tras la salida a bolsa de Anthropic, que ha levantado 81.000 millones de dólares en la mayor OPV registrada hasta la fecha. El hito financiero coincide con el escrutinio de los reguladores: la Comisión Federal de Comercio (FTC) ha abierto una investigación formal sobre las prácticas de seguridad de OpenAI y Anthropic, al tiempo que empleados de laboratorios punteros expresan preocupación por el poder desmedido de modelos aún no lanzados. En el segmento de hardware, Nvidia ha suspendido envíos de chips al sudeste asiático y afronta una posible rebaja de calificación crediticia por riesgos de gobernanza corporativa.",
+      "resumen": "El sector vive una semana de agitación financiera y ética. Anthropic ha salido a bolsa con una valoración masiva, mientras persisten tensiones internas en las grandes empresas sobre el equilibrio entre seguridad y rentabilidad.",
       "puntos_clave": [
-        "Anthropic protagoniza una salida a bolsa histórica de 81.000 millones de dólares en Wall Street.",
-        "La FTC inicia una investigación sobre los estándares de seguridad de modelos en Anthropic y OpenAI.",
-        "Nvidia pausa la distribución de chips en el sudeste asiático y queda bajo observación crediticia por Standard & Poor's."
+        "La salida a bolsa de Anthropic alcanza los 81.000 millones de dólares en medio de preocupaciones internas por la seguridad de los modelos.",
+        "Surgimiento de rumores sobre posibles avances en algoritmos de factorización que podrían comprometer la criptografía moderna."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La atención internacional sigue dividida entre los teatros de Europa del Este y Oriente Próximo. El presidente ucraniano, Volodímir Zelenski, ha advertido de que la concentración de Washington en Oriente Medio reduce la presión sobre Moscú, en una semana en la que Donald Trump exigió formalmente a Vladímir Putin el cese de toda agresión militar contra territorio europeo. En el golfo Pérsico, un ataque iraní con aeronaves no tripuladas en Kuwait ha provocado la muerte de dos militares italianos, mientras en Irak resurge la tensión entre el gobierno central y las autoridades kurdas por el control de pasos fronterizos e infraestructuras petrolíferas.",
+      "resumen": "Francia atraviesa una crisis institucional ante las investigaciones judiciales que rodean al entorno de Marine Le Pen, mientras la UE enfrenta dificultades para cerrar presupuestos futuros ante el ascenso de movimientos euroescépticos.",
       "puntos_clave": [
-        "Zelenski alerta sobre el desplazamiento de la prioridad estratégica de EE. UU. hacia Oriente Próximo frente a la ofensiva rusa.",
-        "Dos militares italianos mueren en Kuwait a consecuencia de un ataque con drones perpetrado por fuerzas iraníes.",
-        "La Unión Europea acelera los trámites de su marco presupuestario ante la incertidumbre política y los procesos judiciales que rodean al partido de Marine Le Pen en Francia."
+        "Investigaciones en Francia sobre presuntos mensajes antisemitas y filtración de secretos judiciales que vinculan al partido de Le Pen.",
+        "Australia impone sanciones a individuos vinculados a Irán por coordinar ataques antisemitas."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La industria automovilística alemana intensifica su ajuste estructural: fabricantes de referencia como Volkswagen y Mercedes negocian la ampliación de jornadas sin compensación salarial adicional con el objetivo de preservar empleo ante la competencia internacional. En los mercados financieros, la confirmación de Pablo Hernández de Cos al frente del BCE fija una línea de estabilidad en la política monetaria de la eurozona, mientras los inversores asimilan el enorme volumen de capital canalizado hacia infraestructuras de inteligencia artificial en detrimento de sectores manufactureros tradicionales.",
+      "resumen": "El panorama económico global se ve afectado por tensiones comerciales y laborales, destacando el rechazo de EE. UU. al plan fiscal europeo para las tecnológicas y la crisis industrial en el sector automotriz alemán.",
       "puntos_clave": [
-        "Volkswagen y Mercedes plantean reestructuraciones laborales con aumento de horas y contención salarial.",
-        "El nombramiento de Hernández de Cos al frente del BCE aporta continuidad técnica a la política monetaria europea.",
-        "La masiva inyección de liquidez tras la OPV de Anthropic reordena las carteras globales hacia proveedores de infraestructura de computación."
+        "Estados Unidos se opone frontalmente al proyecto de la UE para gravar a las grandes compañías tecnológicas.",
+        "Volkswagen y Mercedes enfrentan conflictos laborales ante la amenaza de despidos y ajustes en las condiciones salariales."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Un virulento temporal invernal en Estados Unidos ha provocado graves inundaciones, desprendimientos y el colapso de las rutas aéreas durante las jornadas de mayor desplazamiento por Acción de Gracias. En el ámbito aeroespacial, los reguladores estadounidenses han autorizado la solicitud de SpaceX para poner en órbita una red de hasta un millón de satélites dedicados al procesamiento de datos y computación remota. Por su parte, la comunidad científica monitoriza el impacto medioambiental del siniestro marítimo en las costas de Ibiza, donde se aplican barreras de contención para proteger el ecosistema balear.",
+      "resumen": "El clima extremo ha marcado la actualidad en Norteamérica con tormentas severas durante la festividad de Acción de Gracias, mientras se debate la viabilidad de nuevos proyectos satelitales a gran escala.",
       "puntos_clave": [
-        "Una tormenta invernal severa colapsa el tráfico aéreo y genera daños estructurales e inundaciones en EE. UU.",
-        "La FCC aprueba el despliegue de SpaceX para construir una constelación masiva de centros de datos en órbita.",
-        "Alerta ecológica en el Mediterráneo por el riesgo de fuga de combustible tras el naufragio de un petrolero cerca de Ibiza."
+        "Temporal severo en Estados Unidos provoca inundaciones y graves interrupciones en el transporte aéreo.",
+        "La FCC autoriza el plan de SpaceX para desplegar hasta un millón de satélites destinados a centros de datos."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "Las comunidades especializadas en X y foros de debate centran su atención en los rumores difundidos por investigadores y perfiles de la industria sobre supuestos algoritmos de inteligencia artificial capaces de quebrar los sistemas de criptografía asimétrica moderna. Al mismo tiempo, la acción conjunta de más de 40 fiscales generales en Estados Unidos para bloquear la explotación comercial de los historiales privados de Character.AI ha reavivado las discusiones sobre privacidad digital, mientras en España el debate televisado genera una intensa confrontación digital entre las distintas bases de votantes.",
+      "resumen": "En plataformas como X y Reddit, el debate se centra en la ética del desarrollo de IA, el escepticismo sobre la política tradicional y el impacto de los nuevos lanzamientos tecnológicos.",
       "puntos_clave": [
-        "Discusión técnica en foros sobre la posibilidad teórica de que nuevos modelos de IA vulneren la criptografía moderna mediante factorización entera.",
-        "Rechazo generalizado y seguimiento del frente legal de 42 fiscales contra la cesión de datos conversacionales en plataformas de chatbots.",
-        "Viralización de réplicas y momentos de tensión dialéctica tras el debate a cuatro previo a los comicios generales en España."
+        "Intenso debate sobre la seguridad de los modelos 'Frontier' y si las empresas están priorizando el beneficio sobre la supervisión humana.",
+        "Críticas al control de los datos de usuarios en plataformas como Character.AI ante su posible venta a terceros."
       ]
     }
   ]
