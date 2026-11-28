@@ -1,53 +1,59 @@
 {
-  "fecha_actualizacion": "27/11/2026 16:55",
-  "titular_semana": "Intensa recta final electoral en España y gran salto financiero de Anthropic en la IA",
+  "fecha_actualizacion": "28/11/2026 00:45",
+  "titular_semana": "Recta final electoral en España y debut histórico en bolsa de Anthropic marcan la actualidad internacional",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "La campaña para las elecciones generales del 29N alcanza su punto álgido marcada por el debate entre candidatos y la polarización. Pedro Sánchez busca revalidar un gobierno progresista prescindiendo de Junts, mientras el PP, liderado por Feijóo, ha centrado su crítica en la gestión de la vivienda, la gestión del voto por correo y el papel de socios parlamentarios, evitando participar en entrevistas en RTVE. La vivienda y la violencia de género son los ejes de confrontación social.",
+      "resumen": "España afronta el cierre de campaña de las elecciones generales del 29-N tras varias semanas de alta tensión política centradas en la crisis de la vivienda y los futuros pactos de gobernabilidad. Pedro Sánchez y Alberto Núñez Feijóo han movilizado a sus bases en mítines decisivos tras intensos debates electorales. En el plano de sucesos y sociedad, la ruta migratoria atlántica deja ocho víctimas mortales en aguas de Canarias, mientras el motociclismo despide a Marc Márquez tras anunciar su retirada definitiva de la competición.",
       "puntos_clave": [
-        "Debate final de candidatos marcado por el cruce de acusaciones y el estilo de confrontación.",
-        "El PP denuncia posibles incidencias en el voto por correo y reclama mayor transparencia."
+        "Cierre de la campaña para las elecciones generales del 29-N con la vivienda y la política de alianzas en el eje del debate.",
+        "Localizados ocho migrantes fallecidos en una embarcación precaria que trataba de alcanzar las Islas Canarias.",
+        "Marc Márquez anuncia su retirada deportiva tras la disputa del Gran Premio de Valencia."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "El sector vive un hito financiero con la salida a bolsa de Anthropic, que recauda 81.000 millones de dólares, generando debate sobre el equilibrio entre rentabilidad y seguridad. Persisten preocupaciones internas en OpenAI y Anthropic sobre la potencia de sus nuevos modelos no lanzados, y han surgido rumores (no confirmados) sobre posibles avances en la ruptura de criptografía moderna. Google y empresas como SpaceX siguen avanzando en la integración de IA en servicios y hardware.",
+      "resumen": "Anthropic ha completado una histórica oferta pública de venta en la que ha captado 81.000 millones de dólares, avivando la competencia directa con OpenAI. No obstante, el hito financiero llega acompañado de preocupación interna: empleados de empresas punteras advierten de que modelos aún no publicados son demasiado potentes y alertan del riesgo de primar el beneficio sobre la seguridad. En el ámbito regulatorio, 42 fiscales generales estadounidenses han intervenido para impedir que Character.AI comercialice conversaciones privadas de sus usuarios, y Nvidia ha pausado temporalmente los envíos de chips al sudeste asiático.",
       "puntos_clave": [
-        "Salida a bolsa de Anthropic con una valoración de 81.000 millones de dólares.",
-        "Preocupaciones sobre la seguridad de modelos avanzados y rumores técnicos sobre criptografía."
+        "Anthropic recauda 81.000 millones de dólares en la mayor salida a bolsa del sector tecnológico hasta la fecha.",
+        "Investigadores de IA de frontera expresan inquietud ante la potencia de modelos no revelados y la gestión de riesgos.",
+        "La FCC aprueba los planes de SpaceX para poner en órbita hasta un millón de satélites dedicados a centros de datos."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "Europa enfrenta un escenario de incertidumbre ante el posible ascenso de Marine Le Pen en Francia, lo que presiona a la UE para cerrar presupuestos con celeridad. En Ucrania, el invierno agrava la situación bélica mientras Zelensky cuestiona la relación entre Trump y Putin. En otros frentes, una secta en Kenia ha sido condenada por asesinatos masivos y se registra tensión diplomática entre Brasil y Francia por la calidad del sector cárnico brasileño.",
+      "resumen": "La guerra en Ucrania entra en una nueva fase crítica de cara al invierno, en un contexto en el que Volodímir Zelenski ha cuestionado abiertamente la interlocución entre Donald Trump y Vladímir Putin mientras Rusia bota un nuevo submarino nuclear. En Europa, las discrepancias entre Alemania y Francia respecto al gasto comunitario amenazan con bloquear los presupuestos de la Unión Europea, a la par que Berlín aprueba el mayor incremento de gasto militar de su historia reciente.",
       "puntos_clave": [
-        "Urgencia presupuestaria en la UE ante la inestabilidad política francesa.",
-        "Zelensky advierte sobre la ambigüedad en las relaciones de la nueva administración estadounidense con Rusia."
+        "Zelenski critica la relación entre Trump y Putin mientras Rusia refuerza su arsenal naval con un nuevo submarino nuclear.",
+        "Alemania aprueba un presupuesto de defensa récord mientras persisten las desavenencias con París sobre las cuentas europeas.",
+        "Tensión diplomática entre Brasil y Francia tras las declaraciones de Macron sobre las exportaciones ganaderas sudamericanas."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "Alemania ha logrado cerrar su presupuesto para 2027, permitiendo un aumento en el gasto y la inversión a pesar de las tensiones internas. Mientras tanto, el mercado tecnológico reacciona a los movimientos de Nvidia, con dudas sobre su gobernanza que han llevado a S&P a considerar una posible rebaja crediticia, sumado a una pausa en los envíos de chips a ciertas regiones asiáticas.",
+      "resumen": "La masiva captación de capital por parte de Anthropic ha reordenado las expectativas del sector tecnológico y financiero, generando efectos cruzados sobre la cadena de valor de los semiconductores. Simultáneamente, Nvidia afronta escrutinio crediticio por parte de agencias como S&P debido a riesgos de gobernanza corporativa, al tiempo que las disputas presupuestarias en la Unión Europea añaden incertidumbre a la estabilidad fiscal del bloque.",
       "puntos_clave": [
-        "Alemania aprueba su presupuesto 2027 con mayor margen de endeudamiento.",
-        "Escrutinio financiero sobre Nvidia por riesgos de gobernanza y dependencia estratégica."
+        "La cotización récord de Anthropic redefine las valoraciones bursátiles de las compañías asociadas a la IA.",
+        "S&P estudia rebajar la calificación crediticia de Nvidia por riesgos de gobernanza y dependencia directiva.",
+        "París y Berlín encallan en la negociación presupuestaria comunitaria ante el endurecimiento de las posturas fiscales."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "Jordania lanza un ambicioso plan de 6.700 millones de dólares para obtener agua del mar Rojo. En el ámbito cultural y social, destaca la devolución del Códice Azcatitlán a México tras casi dos siglos en Francia y la inauguración del centro museístico Kanal-Centre Pompidou en Bruselas. También se ha anunciado la retirada de Marc Márquez del motociclismo profesional.",
+      "resumen": "La autorización a SpaceX para desplegar centros de datos satelitales plantea un cambio de paradigma en el consumo energético y la infraestructura digital en el espacio. En el ámbito cultural y social, Grecia renueva la presión legal y diplomática sobre el Museo Británico para la devolución de los mármoles del Partenón, mientras que en los tribunales canadienses la fiscalía solicita 25 años de prisión para Kenneth Law por la distribución letal de sustancias tóxicas a escala internacional.",
       "puntos_clave": [
-        "Inversión masiva en infraestructuras hídricas en Jordania.",
-        "Retirada deportiva de Marc Márquez y patrimonio cultural recuperado por México."
+        "Luz verde regulatoria en Estados Unidos para la constelación orbital de centros de datos concebida por SpaceX.",
+        "Grecia reactiva la ofensiva diplomática para recuperar las esculturas del Partenón custodiadas en Londres.",
+        "Petición de 25 años de cárcel para el acusado de vender compuestos químicos vinculados a suicidios en varios países."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "El debate en redes sociales se divide entre el escepticismo sobre la seguridad a largo plazo de la Inteligencia Artificial y la cobertura política española. Los usuarios comentan activamente el uso de lenguaje en los debates electorales y la posible burbuja en las valoraciones de las empresas de IA.",
+      "resumen": "La conversación digital en foros técnicos y redes sociales ha estado dominada por especulaciones sobre supuestos avances de OpenAI y Anthropic en algoritmos de factorización polinómica con capacidad para quebrar sistemas criptográficos modernos. Asimismo, genera debate la privacidad de los datos en plataformas conversacionales y la viabilidad técnica de trasladar centros de cálculo al espacio exterior.",
       "puntos_clave": [
-        "Debate sobre la ética empresarial en la industria de la IA (seguridad vs. beneficios).",
-        "Alta viralidad de los enfrentamientos verbales durante la campaña electoral española."
+        "Debate en la comunidad tecnológica sobre rumores de vulneración de la criptografía actual por modelos avanzados de IA.",
+        "Discusión en torno a la monetización de datos personales y la demanda fiscal contra Character.AI.",
+        "División de opiniones sobre el impacto ecológico y la saturación orbital del proyecto satelital de SpaceX."
       ]
     }
   ]
