@@ -1,59 +1,59 @@
 {
-  "fecha_actualizacion": "28/11/2026 00:45",
-  "titular_semana": "Recta final electoral en España y debut histórico en bolsa de Anthropic marcan la actualidad internacional",
+  "fecha_actualizacion": "28/11/2026 08:40",
+  "titular_semana": "Recta final electoral en España y salida a bolsa récord de Anthropic en un contexto de rearme europeo",
   "bloques": [
     {
       "categoria": "Actualidad en España",
-      "resumen": "España afronta el cierre de campaña de las elecciones generales del 29-N tras varias semanas de alta tensión política centradas en la crisis de la vivienda y los futuros pactos de gobernabilidad. Pedro Sánchez y Alberto Núñez Feijóo han movilizado a sus bases en mítines decisivos tras intensos debates electorales. En el plano de sucesos y sociedad, la ruta migratoria atlántica deja ocho víctimas mortales en aguas de Canarias, mientras el motociclismo despide a Marc Márquez tras anunciar su retirada definitiva de la competición.",
+      "resumen": "España concluye la campaña electoral para las elecciones generales con actos multitudinarios de los principales líderes políticos, marcada por la disputa del voto indeciso entre Pedro Sánchez y Alberto Núñez Feijóo tras los debates de coalición. Las fuerzas de seguridad han reforzado el dispositivo de ciberseguridad ante posibles injerencias externas en la jornada de votación, mientras la polémica por el remolque del buque 'Med Emre' a Cartagena y la condena unánime del asesinato machista en Bilbao han completado la agenda nacional.",
       "puntos_clave": [
-        "Cierre de la campaña para las elecciones generales del 29-N con la vivienda y la política de alianzas en el eje del debate.",
-        "Localizados ocho migrantes fallecidos en una embarcación precaria que trataba de alcanzar las Islas Canarias.",
-        "Marc Márquez anuncia su retirada deportiva tras la disputa del Gran Premio de Valencia."
+        "PSOE, PP y Vox celebran sus mítines de cierre de campaña antes de la jornada de reflexión.",
+        "Refuerzo de la seguridad y prevención de ciberataques frente a posibles interferencias en los comicios.",
+        "Polémica institucional entre el Gobierno central y la Región de Murcia por el atraque del buque 'Med Emre' en Cartagena."
       ]
     },
     {
       "categoria": "Inteligencia Artificial",
-      "resumen": "Anthropic ha completado una histórica oferta pública de venta en la que ha captado 81.000 millones de dólares, avivando la competencia directa con OpenAI. No obstante, el hito financiero llega acompañado de preocupación interna: empleados de empresas punteras advierten de que modelos aún no publicados son demasiado potentes y alertan del riesgo de primar el beneficio sobre la seguridad. En el ámbito regulatorio, 42 fiscales generales estadounidenses han intervenido para impedir que Character.AI comercialice conversaciones privadas de sus usuarios, y Nvidia ha pausado temporalmente los envíos de chips al sudeste asiático.",
+      "resumen": "El sector de la inteligencia artificial vive un punto de inflexión financiero y regulatorio tras la histórica salida a bolsa de Anthropic, que levantó 81.000 millones de dólares, en paralelo a crecientes inquietudes internas entre investigadores sobre modelos avanzados no publicados. Al mismo tiempo, OpenAI unifica sus interfaces de trabajo limitando cuotas de uso intensivo, y la fiscalía de más de 40 estados de EE. UU. interviene judicialmente para frenar la comercialización de historiales de usuarios por parte de Character.AI.",
       "puntos_clave": [
-        "Anthropic recauda 81.000 millones de dólares en la mayor salida a bolsa del sector tecnológico hasta la fecha.",
-        "Investigadores de IA de frontera expresan inquietud ante la potencia de modelos no revelados y la gestión de riesgos.",
-        "La FCC aprueba los planes de SpaceX para poner en órbita hasta un millón de satélites dedicados a centros de datos."
+        "Anthropic protagoniza una salida a bolsa de récord mientras su dirección desestima acusaciones de pérdida de control humano.",
+        "Trabajadores de modelos de frontera expresan cautela ante capacidades no divulgadas y priorización del beneficio.",
+        "Más de 40 fiscales generales en EE. UU. buscan impedir que Character.AI venda datos y conversaciones de usuarios."
       ]
     },
     {
       "categoria": "Geopolítica y Diplomacia",
-      "resumen": "La guerra en Ucrania entra en una nueva fase crítica de cara al invierno, en un contexto en el que Volodímir Zelenski ha cuestionado abiertamente la interlocución entre Donald Trump y Vladímir Putin mientras Rusia bota un nuevo submarino nuclear. En Europa, las discrepancias entre Alemania y Francia respecto al gasto comunitario amenazan con bloquear los presupuestos de la Unión Europea, a la par que Berlín aprueba el mayor incremento de gasto militar de su historia reciente.",
+      "resumen": "Alemania ha aprobado su mayor partida de gasto militar desde la Guerra Fría tras intensos debates parlamentarios, mientras las discrepancias con Francia complican el acuerdo marco del presupuesto comunitario. En Oriente Próximo, se reactivan las hostilidades con ataques mutuos entre Arabia Saudí y los rebeldes hutíes, en tanto que la designación de un alto cargo ruso en la agencia nuclear de la ONU y las elecciones locales en Taiwán añaden tensión a los equilibrios geopolíticos.",
       "puntos_clave": [
-        "Zelenski critica la relación entre Trump y Putin mientras Rusia refuerza su arsenal naval con un nuevo submarino nuclear.",
-        "Alemania aprueba un presupuesto de defensa récord mientras persisten las desavenencias con París sobre las cuentas europeas.",
-        "Tensión diplomática entre Brasil y Francia tras las declaraciones de Macron sobre las exportaciones ganaderas sudamericanas."
+        "Alemania da luz verde a un presupuesto histórico de defensa en medio de fricciones fiscales con París.",
+        "Intercambio de ataques con proyectiles entre Arabia Saudí y las fuerzas hutíes contra sus respectivas capitales.",
+        "Polémica en la diplomacia internacional por nombramientos en el OIEA y críticas de Kiev a la política exterior de Washington hacia Moscú."
       ]
     },
     {
       "categoria": "Economía y Mercados Globales",
-      "resumen": "La masiva captación de capital por parte de Anthropic ha reordenado las expectativas del sector tecnológico y financiero, generando efectos cruzados sobre la cadena de valor de los semiconductores. Simultáneamente, Nvidia afronta escrutinio crediticio por parte de agencias como S&P debido a riesgos de gobernanza corporativa, al tiempo que las disputas presupuestarias en la Unión Europea añaden incertidumbre a la estabilidad fiscal del bloque.",
+      "resumen": "La macroeconomía tecnológica se ve sacudida por la pausa en los envíos de semiconductores de Nvidia hacia el sudeste asiático y la advertencia de S&P sobre su calificación crediticia ligada a riesgos de gobernanza. Paralelamente, la multimillonaria inyección de capital tras la OPV de Anthropic redistribuye flujos de inversión hacia la cadena de suministro de cómputo, mientras en América Latina surgen litigios patrimoniales tras la venta de terrenos estratégicos en la Patagonia argentina a capitales emiratíes.",
       "puntos_clave": [
-        "La cotización récord de Anthropic redefine las valoraciones bursátiles de las compañías asociadas a la IA.",
-        "S&P estudia rebajar la calificación crediticia de Nvidia por riesgos de gobernanza y dependencia directiva.",
-        "París y Berlín encallan en la negociación presupuestaria comunitaria ante el endurecimiento de las posturas fiscales."
+        "Nvidia paraliza temporalmente la exportación de chips avanzados al sudeste asiático y afronta escrutinio crediticio de S&P.",
+        "El éxito bursátil de Anthropic moviliza miles de millones hacia valores vinculados a infraestructuras de computación.",
+        "Disputa judicial en Argentina por la adjudicación de terrenos adyacentes al glaciar Perito Moreno a inversores extranjeros."
       ]
     },
     {
       "categoria": "Ciencia, Clima y Sociedad",
-      "resumen": "La autorización a SpaceX para desplegar centros de datos satelitales plantea un cambio de paradigma en el consumo energético y la infraestructura digital en el espacio. En el ámbito cultural y social, Grecia renueva la presión legal y diplomática sobre el Museo Británico para la devolución de los mármoles del Partenón, mientras que en los tribunales canadienses la fiscalía solicita 25 años de prisión para Kenneth Law por la distribución letal de sustancias tóxicas a escala internacional.",
+      "resumen": "Los fenómenos meteorológicos extremos derivados de El Niño han provocado graves inundaciones en Ecuador con más de una treintena de víctimas mortales, mientras en Perú ocho militares fallecieron en un accidente aéreo. En el ámbito aeroespacial, el regulador estadounidense autorizó los planes de SpaceX para desplegar constelaciones satelitales destinadas a computación orbital, al tiempo que en tribunales canadienses culmina el proceso penal contra Kenneth Law por el envío transnacional de sustancias letales.",
       "puntos_clave": [
-        "Luz verde regulatoria en Estados Unidos para la constelación orbital de centros de datos concebida por SpaceX.",
-        "Grecia reactiva la ofensiva diplomática para recuperar las esculturas del Partenón custodiadas en Londres.",
-        "Petición de 25 años de cárcel para el acusado de vender compuestos químicos vinculados a suicidios en varios países."
+        "El Niño eleva a 34 las víctimas mortales por intensas precipitaciones y corrimientos de tierra en Ecuador.",
+        "La FCC de EE. UU. autoriza el proyecto de SpaceX para ubicar nodos de centros de datos en órbita baja.",
+        "Tragedia en Perú tras estrellarse un helicóptero de las Fuerzas Armadas con ocho ocupantes a bordo."
       ]
     },
     {
       "categoria": "Pulso Global en Redes",
-      "resumen": "La conversación digital en foros técnicos y redes sociales ha estado dominada por especulaciones sobre supuestos avances de OpenAI y Anthropic en algoritmos de factorización polinómica con capacidad para quebrar sistemas criptográficos modernos. Asimismo, genera debate la privacidad de los datos en plataformas conversacionales y la viabilidad técnica de trasladar centros de cálculo al espacio exterior.",
+      "resumen": "La comunidad técnica y los foros digitales centran su atención en las intensas especulaciones alimentadas por académicos sobre algoritmos de IA capaces de comprometer el cifrado RSA mediante factorización polinómica. Asimismo, generan amplio eco el uso de herramientas de ingeniería inversa asistidas por IA aplicadas a títulos de videojuegos como GTA VI, y las instrucciones de contingencia ante apagones y movilización de reservistas reportadas en el Reino Unido.",
       "puntos_clave": [
-        "Debate en la comunidad tecnológica sobre rumores de vulneración de la criptografía actual por modelos avanzados de IA.",
-        "Discusión en torno a la monetización de datos personales y la demanda fiscal contra Character.AI.",
-        "División de opiniones sobre el impacto ecológico y la saturación orbital del proyecto satelital de SpaceX."
+        "Discusión viral sobre presuntos avances en modelos de IA orientados a romper el cifrado criptográfico moderno.",
+        "Debate ético y legal en torno a la descompilación no autorizada de código de videojuegos mediante asistentes de código.",
+        "Repercusión en X y Reddit de las directrices de resiliencia civil y preparación militar preventiva en el Reino Unido."
       ]
     }
   ]
